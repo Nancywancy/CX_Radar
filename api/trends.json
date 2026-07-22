@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T03:09:49.921177+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-07-23T05:03:17.046696+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 05时03分]"
         },
         {
           "title": "周星驰影迷集体维权",
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 05时03分]"
         }
       ]
     }
