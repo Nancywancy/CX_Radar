@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T10:12:47.903852+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-07-22T13:47:02.020991+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "何运晨维权",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 07时54分]"
+        },
+        {
+          "title": "苹果折叠屏爆料汇总",
+          "url": "https://www.douyin.com/hot/2580541",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         }
       ]
     }
