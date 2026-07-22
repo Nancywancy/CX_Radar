@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T19:06:54.627598+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-07-22T21:42:59.106936+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "何运晨维权",
@@ -31,13 +31,24 @@
           "time_info": "[13时46分 ~ 13时47分]"
         },
         {
+          "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
+          "url": "https://www.zhihu.com/question/2060880883452793625",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "周星驰影迷集体维权",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BD%B1%E8%BF%B7%E9%9B%86%E4%BD%93%E7%BB%B4%E6%9D%83",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
