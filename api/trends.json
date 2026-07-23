@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T20:23:55.653197+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-07-23T23:06:18.813289+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
@@ -29,11 +29,12 @@
             4,
             6,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 20时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 23时06分]"
         },
         {
           "title": "周星驰影迷集体维权",
@@ -71,6 +72,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 15时31分]"
+        },
+        {
+          "title": "上海一店只卖苹果 有一款单颗399元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%BA%97%E5%8F%AA%E5%8D%96%E8%8B%B9%E6%9E%9C+%E6%9C%89%E4%B8%80%E6%AC%BE%E5%8D%95%E9%A2%97399%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
