@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T10:38:12.645027+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-07-24T13:48:07.271061+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 10时38分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 13时48分]"
         },
         {
           "title": "水果店只卖苹果 其中1款399元1颗",
