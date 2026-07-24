@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T07:58:04.003447+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-07-24T10:38:12.645027+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
       "match_count": 8,
       "titles": [
+        {
+          "title": "Xun哥身世曝光,父亲有背景",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356427&amp;topic_name=Xun%E5%93%A5%E8%BA%AB%E4%B8%96%E6%9B%9D%E5%85%89%2C%E7%88%B6%E4%BA%B2%E6%9C%89%E8%83%8C%E6%99%AF",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 10时38分]"
+        },
         {
           "title": "水果店只卖苹果 其中1款399元1颗",
           "url": "https://www.toutiao.com/trending/7665678940141633599/",
@@ -17,17 +29,6 @@
             27,
             18,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时58分]"
-        },
-        {
-          "title": "Xun哥身世曝光,父亲有背景",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356427&amp;topic_name=Xun%E5%93%A5%E8%BA%AB%E4%B8%96%E6%9B%9D%E5%85%89%2C%E7%88%B6%E4%BA%B2%E6%9C%89%E8%83%8C%E6%99%AF",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -76,7 +77,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
