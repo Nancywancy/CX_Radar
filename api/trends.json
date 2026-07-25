@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:02:41.603792+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-25T08:01:50.834246+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7665632878388215858/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 08时01分]"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -36,7 +37,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
