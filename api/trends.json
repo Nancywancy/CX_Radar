@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T20:02:19.352376+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-07-25T21:56:06.050658+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“鞋拔子脸”维权女孩：修复至少30万",
@@ -33,8 +33,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时13分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[14时13分 ~ 21时56分]"
+        },
+        {
+          "title": "女装高退货率是被迫拿起的维权武器",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E9%AB%98%E9%80%80%E8%B4%A7%E7%8E%87%E6%98%AF%E8%A2%AB%E8%BF%AB%E6%8B%BF%E8%B5%B7%E7%9A%84%E7%BB%B4%E6%9D%83%E6%AD%A6%E5%99%A8%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
