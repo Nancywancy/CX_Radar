@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T16:27:48.809391+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-07-26T18:43:03.378775+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "永远会被小苹果阿姨的真诚感动",
@@ -22,15 +22,60 @@
           "time_info": "[00时08分 ~ 07时57分]"
         },
         {
+          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
+          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
+        },
+        {
+          "title": "基因编辑致死父母曝光为保护别人",
+          "url": "https://s.weibo.com/weibo?q=%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%87%B4%E6%AD%BB%E7%88%B6%E6%AF%8D%E6%9B%9D%E5%85%89%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%88%AB%E4%BA%BA&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
+        },
+        {
           "title": "苹果为何栽在了印度手里",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%95%E6%A0%BD%E5%9C%A8%E4%BA%86%E5%8D%B0%E5%BA%A6%E6%89%8B%E9%87%8C",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时43分]"
+        },
+        {
+          "title": "湖南排队王谢光头辣椒炒肉菜谱曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E6%8E%92%E9%98%9F%E7%8E%8B%E8%B0%A2%E5%85%89%E5%A4%B4%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89%E8%8F%9C%E8%B0%B1%E6%9B%9D%E5%85%89%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
+        },
+        {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         }
       ]
     }
