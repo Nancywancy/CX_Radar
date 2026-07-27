@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T00:14:33.915171+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-28T02:24:37.568838+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时24分]"
         },
         {
           "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33664489",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时24分]"
         },
         {
           "title": "陈牧驰陈冰儿子首曝光",
