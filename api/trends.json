@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-28T04:20:27.256688+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-28T06:03:55.626267+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "苹果市值超越英伟达重回全球第一",
+          "url": "https://flash.jin10.com/detail/20260728053417052800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
         {
           "title": "苹果总市值超越英伟达重返全球第一",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
@@ -15,8 +26,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
@@ -28,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "陈牧驰陈冰儿子首曝光",
