@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-07-29T04:14:52.900978+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-07-29T06:01:26.747127+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "日本发生7.1级地震，灾区画面曝光",
+          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
+        },
+        {
+          "title": "高市早苗黑历史，再被曝光",
+          "url": "https://news.ifeng.com/c/8v6sJsiidIm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
+        },
+        {
+          "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
+          "url": "https://www.cls.cn/detail/2439005",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
+        },
         {
           "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
@@ -19,51 +53,18 @@
           "time_info": "[00时04分 ~ 04时14分]"
         },
         {
-          "title": "日本发生7.1级地震，灾区画面曝光",
-          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时14分]"
-        },
-        {
-          "title": "高市早苗黑历史，再被曝光",
-          "url": "https://news.ifeng.com/c/8v6sJsiidIm",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时14分]"
-        },
-        {
-          "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
-          "url": "https://www.cls.cn/detail/2439005",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时14分]"
-        },
-        {
           "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
           "url": "https://www.zhihu.com/question/2064801268552537608",
           "source": "知乎",
           "ranks": [
             7,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
         },
         {
           "title": "网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权？",
@@ -72,11 +73,23 @@
           "ranks": [
             13,
             14,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
+        },
+        {
+          "title": "芯片抛售蔓延全球，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 06时01分]"
         },
         {
           "title": "日本地震山崩瞬间画面曝光",
@@ -87,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
         },
         {
           "title": "日本发生7.1级地震 山崩瞬间曝光",
@@ -98,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时01分]"
         },
         {
           "title": "日本地震山崩瞬间画面曝光",
@@ -123,6 +136,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "携程被罚后内部全员信曝光",
+          "url": "https://www.toutiao.com/trending/7666615493654216754/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 06时01分]"
         },
         {
           "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
