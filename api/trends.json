@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T11:14:48.572038+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-07-28T14:23:47.864747+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "高市早苗黑历史，再被曝光",
@@ -15,30 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时00分 ~ 11时14分]"
-        },
-        {
-          "title": "携程被罚后内部全员信曝光",
-          "url": "https://www.toutiao.com/trending/7666615493654216754/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "携程被罚后内部全员信曝光",
-          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E5%90%8E%E5%86%85%E9%83%A8%E5%85%A8%E5%91%98%E4%BF%A1%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
+          "appearance_count": 4,
+          "time_info": "[08时00分 ~ 14时23分]"
         },
         {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
@@ -46,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时00分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时00分 ~ 14时23分]"
         },
         {
           "title": "苹果市值超越英伟达重回全球第一",
@@ -73,6 +52,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "携程被罚后内部全员信曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E5%90%8E%E5%86%85%E9%83%A8%E5%85%A8%E5%91%98%E4%BF%A1%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 14时23分]"
+        },
+        {
+          "title": "携程被罚后内部全员信曝光",
+          "url": "https://www.toutiao.com/trending/7666615493654216754/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 14时23分]"
         },
         {
           "title": "苹果总市值超越英伟达重返全球第一",
@@ -127,9 +130,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "城管喊话提醒游客商铺“假排队”，武汉市旅游协会：涉事门店并非“武汉礼物”官方门店，已启动维权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668856",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "陈牧驰陈冰儿子首曝光",
