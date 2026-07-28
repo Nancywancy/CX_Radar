@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-28T17:35:10.415797+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-07-28T19:55:01.155675+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "高市早苗黑历史，再被曝光",
           "url": "https://news.ifeng.com/c/8v6sJsiidIm",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时00分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[08时00分 ~ 19时55分]"
         },
         {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时00分 ~ 14时23分]"
+        },
+        {
+          "title": "日本发生7.1级地震，灾区画面曝光",
+          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "携程被罚后内部全员信曝光",
@@ -67,6 +79,19 @@
           "time_info": "08时01分"
         },
         {
+          "title": "城管喊话提醒游客商铺“假排队”，武汉市旅游协会：涉事门店并非“武汉礼物”官方门店，已启动维权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668856",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 19时55分]"
+        },
+        {
           "title": "携程被罚后内部全员信曝光",
           "url": "https://www.toutiao.com/trending/7666615493654216754/",
           "source": "今日头条",
@@ -77,6 +102,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 14时23分]"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 19时55分]"
+        },
+        {
+          "title": "纽约中央公园“出轨门”男女身份曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD%E2%80%9C%E5%87%BA%E8%BD%A8%E9%97%A8%E2%80%9D%E7%94%B7%E5%A5%B3%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 19时55分]"
         },
         {
           "title": "苹果总市值超越英伟达重返全球第一",
@@ -103,16 +151,26 @@
           "time_info": "[00时14分 ~ 06时03分]"
         },
         {
-          "title": "城管喊话提醒游客商铺“假排队”，武汉市旅游协会：涉事门店并非“武汉礼物”官方门店，已启动维权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668856",
-          "source": "澎湃新闻",
+          "title": "日本突发7.1级地震 山崩瞬间曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%917.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 17时35分]"
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
+          "url": "https://www.cls.cn/detail/2439005",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "美股迎芯片风暴 苹果重返市值第一",
@@ -126,17 +184,6 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
-        },
-        {
           "title": "美股上演芯片风暴 苹果重返市值第一",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%BC%94%E8%8A%AF%E7%89%87%E9%A3%8E%E6%9A%B4+%E8%8B%B9%E6%9E%9C%E9%87%8D%E8%BF%94%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
@@ -148,15 +195,15 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
-          "title": "纽约中央公园“出轨门”男女身份曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD%E2%80%9C%E5%87%BA%E8%BD%A8%E9%97%A8%E2%80%9D%E7%94%B7%E5%A5%B3%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
+          "title": "怎么看待大批 Claude 分享的内容又一次被搜索引擎曝光了？",
+          "url": "https://www.zhihu.com/question/2065207444305867519",
+          "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "日本7.1级地震现场画面曝光",
