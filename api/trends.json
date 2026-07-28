@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-28T21:56:19.303681+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-07-29T00:05:11.546029+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 27,
+      "match_count": 11,
       "titles": [
         {
-          "title": "高市早苗黑历史，再被曝光",
-          "url": "https://news.ifeng.com/c/8v6sJsiidIm",
-          "source": "凤凰网",
+          "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时00分 ~ 21时56分]"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
@@ -27,296 +26,107 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时56分]"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
+          "title": "高市早苗黑历史，再被曝光",
+          "url": "https://news.ifeng.com/c/8v6sJsiidIm",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 14时23分]"
-        },
-        {
-          "title": "日本地震山崩瞬间画面曝光",
-          "url": "https://www.toutiao.com/trending/7666761757603630646/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "携程被罚后内部全员信曝光",
-          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E5%90%8E%E5%86%85%E9%83%A8%E5%85%A8%E5%91%98%E4%BF%A1%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 17时35分]"
-        },
-        {
-          "title": "城管喊话提醒游客商铺“假排队”，武汉市旅游协会：涉事门店并非“武汉礼物”官方门店，已启动维权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668856",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 21时56分]"
-        },
-        {
-          "title": "芯片抛售蔓延全球，美股指涨跌互现，存储股走低，苹果市值首破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "苹果市值超越英伟达重回全球第一",
-          "url": "https://flash.jin10.com/detail/20260728053417052800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "特朗普为何突然叫停对伊空袭？潜在“最直接原因”曝光：攻击性弹药消耗过多",
-          "url": "https://wallstreetcn.com/livenews/3140564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
           "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
           "url": "https://www.cls.cn/detail/2439005",
           "source": "财联社热门",
           "ranks": [
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时56分]"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
           "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
           "url": "https://www.cls.cn/detail/2438854",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 21时56分]"
-        },
-        {
-          "title": "日本地震山崩瞬间画面曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "纽约中央公园“出轨门”男女身份曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD%E2%80%9C%E5%87%BA%E8%BD%A8%E9%97%A8%E2%80%9D%E7%94%B7%E5%A5%B3%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 21时56分]"
-        },
-        {
-          "title": "携程被罚后内部全员信曝光",
-          "url": "https://www.toutiao.com/trending/7666615493654216754/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时14分 ~ 14时23分]"
-        },
-        {
-          "title": "苹果总市值超越英伟达重返全球第一",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
-        },
-        {
-          "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664489",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时03分]"
-        },
-        {
-          "title": "日本突发7.1级地震 山崩瞬间曝光",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%917.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时56分]"
-        },
-        {
-          "title": "美股迎芯片风暴 苹果重返市值第一",
-          "url": "https://www.toutiao.com/trending/7667348037127114246/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "美股上演芯片风暴 苹果重返市值第一",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%BC%94%E8%8A%AF%E7%89%87%E9%A3%8E%E6%9A%B4+%E8%8B%B9%E6%9E%9C%E9%87%8D%E8%BF%94%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "怎么看待大批 Claude 分享的内容又一次被搜索引擎曝光了？",
-          "url": "https://www.zhihu.com/question/2065207444305867519",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
-        },
-        {
-          "title": "日本7.1级地震现场画面曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
-        },
-        {
-          "title": "王祖蓝李亚男俩女儿颜值曝光",
-          "url": "https://www.toutiao.com/trending/7667355194858881043/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
-        },
-        {
-          "title": "携程全员信曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%90%BA%E7%A8%8B%E5%85%A8%E5%91%98%E4%BF%A1%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
           "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
           "url": "https://www.zhihu.com/question/2064801268552537608",
           "source": "知乎",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "陈牧驰陈冰儿子首曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E9%99%88%E5%86%B0%E5%84%BF%E5%AD%90%E9%A6%96%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "7月百亿级私募调研踪迹曝光",
-          "url": "https://wallstreetcn.com/livenews/3141021",
-          "source": "华尔街见闻-快讯",
+          "title": "日本发生7.1级地震 山崩瞬间曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            27
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "日本地震山崩瞬间画面曝光",
+          "url": "https://www.toutiao.com/trending/7666761757603630646/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "日本地震山崩瞬间画面曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权？",
+          "url": "https://www.zhihu.com/question/2065177952480747776",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260728233208821800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "苹果：在美国推出Apple Upgrade设备租赁计划。 Apple Upgrade的iPhone租赁方案起价为每月17.99美元。 苹果将不再在美国提供iPhone升级计划和iPhone分期付款。",
-          "url": "https://wallstreetcn.com/livenews/3141017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "00时05分"
         }
       ]
     }
