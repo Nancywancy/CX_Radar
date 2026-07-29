@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T05:58:06.722429+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-07-30T07:32:49.759719+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,26 @@
             29,
             15,
             18,
-            30
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时32分]"
+        },
+        {
+          "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
+          "url": "https://www.zhihu.com/question/2065344071745233365",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时58分]"
+          "time_info": "[00时10分 ~ 07时32分]"
         },
         {
           "title": "女孩摆拍盲道被撞细节曝光",
@@ -57,17 +72,16 @@
           "time_info": "[00时10分 ~ 05时58分]"
         },
         {
-          "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
-          "url": "https://www.zhihu.com/question/2065344071745233365",
-          "source": "知乎",
+          "title": "小苹果阿姨劝大家别送东西了",
+          "url": "https://www.douyin.com/hot/2589904",
+          "source": "抖音",
           "ranks": [
-            12,
-            14,
-            17
+            22,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时08分]"
+          "time_info": "[00时10分 ~ 07时32分]"
         },
         {
           "title": "特朗普在葬礼上曝光逝者手机号",
@@ -82,15 +96,16 @@
           "time_info": "[00时10分 ~ 01时17分]"
         },
         {
-          "title": "小苹果阿姨劝大家别送东西了",
-          "url": "https://www.douyin.com/hot/2589904",
-          "source": "抖音",
+          "title": "初中生曝光侵华日军罪证被威胁",
+          "url": "https://www.toutiao.com/trending/7667020129260159012/",
+          "source": "今日头条",
           "ranks": [
-            22
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时17分]"
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 07时32分]"
         },
         {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
@@ -109,17 +124,6 @@
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "初中生曝光侵华日军罪证被威胁",
-          "url": "https://www.toutiao.com/trending/7667020129260159012/",
-          "source": "今日头条",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
