@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T04:52:32.489898+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-07-30T05:58:06.722429+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,35 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时58分]"
+        },
+        {
+          "title": "“小苹果阿姨”故事感动全网",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            15,
+            18,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时10分 ~ 04时52分]"
+          "time_info": "[01时17分 ~ 05时58分]"
+        },
+        {
+          "title": "女孩摆拍盲道被撞细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%91%86%E6%8B%8D%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 05时58分]"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -41,31 +68,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时10分 ~ 03时08分]"
-        },
-        {
-          "title": "“小苹果阿姨”故事感动全网",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时52分]"
-        },
-        {
-          "title": "女孩摆拍盲道被撞细节曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%91%86%E6%8B%8D%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时17分]"
         },
         {
           "title": "特朗普在葬礼上曝光逝者手机号",
@@ -97,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -108,7 +110,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -119,7 +121,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
