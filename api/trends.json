@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-30T17:28:48.696238+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-07-30T19:49:39.300742+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
       "match_count": 15,
       "titles": [
+        {
+          "title": "小苹果阿姨劝大家别送东西了",
+          "url": "https://www.douyin.com/hot/2589904",
+          "source": "抖音",
+          "ranks": [
+            22,
+            19,
+            25,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 19时49分]"
+        },
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
           "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时10分 ~ 04时52分]"
-        },
-        {
-          "title": "小苹果阿姨劝大家别送东西了",
-          "url": "https://www.douyin.com/hot/2589904",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 17时28分]"
         },
         {
           "title": "“小苹果阿姨”故事感动全网",
@@ -63,11 +64,12 @@
           "url": "https://www.zhihu.com/question/2066088472851341477",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时49分]"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -143,6 +145,18 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
+          "title": "小苹果阿姨的家迎来大改造",
+          "url": "https://www.douyin.com/hot/2590563",
+          "source": "抖音",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时49分]"
+        },
+        {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
           "url": "https://flash.jin10.com/detail/20260730040750177800",
           "source": "金十数据",
@@ -163,17 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
-        },
-        {
-          "title": "小苹果阿姨的家迎来大改造",
-          "url": "https://www.douyin.com/hot/2590563",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "高通(QCOM.O)：预计苹果相关产品营收下滑速度将从第四季度起加快。",
