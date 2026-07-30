@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T01:23:32.033533+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-31T03:20:50.824316+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2066088472851341477",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时20分]"
         },
         {
           "title": "苹果(AAPL.O)公司首席执行官蒂姆·库克：我们牵挂着所有正在承受熊本地震及其余震影响的人们。苹果公司已捐款支持救灾工作。",
