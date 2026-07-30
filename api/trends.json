@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T11:54:51.620644+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-07-30T14:25:17.225761+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时10分 ~ 04时52分]"
+        },
+        {
+          "title": "小苹果阿姨劝大家别送东西了",
+          "url": "https://www.douyin.com/hot/2589904",
+          "source": "抖音",
+          "ranks": [
+            22,
+            19,
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 14时25分]"
         },
         {
           "title": "“小苹果阿姨”故事感动全网",
@@ -43,20 +57,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 05时58分]"
-        },
-        {
-          "title": "小苹果阿姨劝大家别送东西了",
-          "url": "https://www.douyin.com/hot/2589904",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 11时54分]"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -86,6 +86,17 @@
           "time_info": "[00时10分 ~ 05时58分]"
         },
         {
+          "title": "初中生曝光侵华日军罪证被威胁",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%9B%9D%E5%85%89%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E7%BD%AA%E8%AF%81%E8%A2%AB%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 14时25分]"
+        },
+        {
           "title": "特朗普在葬礼上曝光逝者手机号",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%91%AC%E7%A4%BC%E4%B8%8A%E6%9B%9D%E5%85%89%E9%80%9D%E8%80%85%E6%89%8B%E6%9C%BA%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -110,15 +121,15 @@
           "time_info": "[04时52分 ~ 08时05分]"
         },
         {
-          "title": "初中生曝光侵华日军罪证被威胁",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%9B%9D%E5%85%89%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E7%BD%AA%E8%AF%81%E8%A2%AB%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
+          "title": "小米澎程实车内饰曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%AE%9E%E8%BD%A6%E5%86%85%E9%A5%B0%E6%9B%9D%E5%85%89&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
@@ -138,7 +149,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
