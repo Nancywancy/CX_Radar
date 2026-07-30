@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T14:25:17.225761+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-07-30T17:28:48.696238+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "日本发生7.1级地震，灾区画面曝光",
@@ -29,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 17时28分]"
         },
         {
           "title": "“小苹果阿姨”故事感动全网",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 05时58分]"
+        },
+        {
+          "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
+          "url": "https://www.zhihu.com/question/2066088472851341477",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -152,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "小苹果阿姨的家迎来大改造",
+          "url": "https://www.douyin.com/hot/2590563",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "高通(QCOM.O)：预计苹果相关产品营收下滑速度将从第四季度起加快。",
