@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T07:32:49.759719+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-07-30T08:05:34.309521+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "time_info": "[00时10分 ~ 04时52分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 05时58分]"
-        },
-        {
           "title": "“小苹果阿姨”故事感动全网",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
           "source": "百度热搜",
@@ -41,8 +30,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 08时05分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时58分]"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -77,11 +77,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 07时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 08时05分]"
         },
         {
           "title": "特朗普在葬礼上曝光逝者手机号",
@@ -104,8 +105,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 08时05分]"
         },
         {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
