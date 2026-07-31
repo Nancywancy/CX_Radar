@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T19:56:23.686483+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-07-31T21:55:11.919182+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
@@ -64,6 +64,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "手瓦墨武曝光",
+          "url": "https://www.douyin.com/hot/2592090",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 21时55分]"
+        },
+        {
           "title": "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
           "url": "https://www.cls.cn/detail/2441832",
           "source": "财联社热门",
@@ -113,15 +124,26 @@
           "time_info": "[01时23分 ~ 07时02分]"
         },
         {
-          "title": "手瓦墨武曝光",
-          "url": "https://www.douyin.com/hot/2592090",
-          "source": "抖音",
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时41分 ~ 19时56分]"
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "美股三大指数集体高开 苹果跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "苹果(AAPL.O)2026财年Q3毛利率为50.1%，高于市场预期的47.92%。",
@@ -207,7 +229,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -218,7 +240,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -306,7 +328,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
