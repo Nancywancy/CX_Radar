@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-31T07:02:52.369528+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-07-31T10:26:09.173925+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
+          "url": "https://www.cls.cn/detail/2442025",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
         {
           "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
           "url": "https://www.zhihu.com/question/2066088472851341477",
@@ -42,6 +53,18 @@
           "time_info": "05时04分"
         },
         {
+          "title": "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
+          "url": "https://www.cls.cn/detail/2441832",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时04分 ~ 10时26分]"
+        },
+        {
           "title": "小苹果阿姨的家迎来大改造",
           "url": "https://www.douyin.com/hot/2590563",
           "source": "抖音",
@@ -53,6 +76,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 07时02分]"
+        },
+        {
+          "title": "苹果库克的最后一份财报亮相：赢了业绩，输了预期",
+          "url": "https://www.cls.cn/detail/2442017",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "苹果(AAPL.O)2026财年Q3毛利率为50.1%，高于市场预期的47.92%。",
@@ -121,24 +155,13 @@
           "time_info": "05时04分"
         },
         {
-          "title": "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
-          "url": "https://www.cls.cn/detail/2441832",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
           "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
           "url": "https://wallstreetcn.com/livenews/3142674",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -149,7 +172,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -171,7 +194,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -182,7 +205,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -193,7 +216,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -204,7 +227,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -215,7 +238,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -226,7 +249,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -237,7 +260,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -248,7 +271,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
