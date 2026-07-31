@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T05:01:35.153731+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-08-01T06:13:24.940073+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时13分]"
         },
         {
           "title": "手瓦墨武曝光",
@@ -27,11 +27,12 @@
           "ranks": [
             17,
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时13分]"
         },
         {
           "title": "苹果跌幅扩大至10%，创2025年4月以来最大盘中跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美股三大指数集体高开 苹果跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     }
