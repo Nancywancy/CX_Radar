@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T01:10:25.574393+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-08-02T03:03:33.984404+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时03分]"
         },
         {
           "title": "一个小孩两天吃饭要花659元？家长投诉",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时03分]"
         },
         {
           "title": "月薪6万 老君山云海观察员日记曝光",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时03分]"
         },
         {
           "title": "美财长小纸条是意外曝光还是故意放风",
@@ -47,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时03分]"
         },
         {
           "title": "福建舰入列后首次曝光海上画面",
@@ -62,8 +63,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时03分]"
         }
       ]
     }
