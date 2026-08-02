@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T13:53:45.584743+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-08-02T16:16:22.856076+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -48,17 +48,6 @@
           "time_info": "[00时01分 ~ 10时24分]"
         },
         {
-          "title": "歼20实弹发射罕见曝光",
-          "url": "https://www.toutiao.com/trending/7668727416755634227/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "福建舰入列后首次曝光海上画面",
           "url": "https://www.toutiao.com/trending/7668506208843615807/",
           "source": "今日头条",
@@ -71,6 +60,42 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时01分 ~ 05时52分]"
+        },
+        {
+          "title": "歼20实弹发射罕见曝光",
+          "url": "https://www.toutiao.com/trending/7668727416755634227/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时16分]"
+        },
+        {
+          "title": "恶搞余承东视频被华为投诉下架",
+          "url": "https://www.baidu.com/s?wd=%E6%81%B6%E6%90%9E%E4%BD%99%E6%89%BF%E4%B8%9C%E8%A7%86%E9%A2%91%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时16分]"
+        },
+        {
+          "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
+          "url": "https://www.zhihu.com/question/2066617997154677677",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 16时16分]"
         },
         {
           "title": "美财长小纸条是意外曝光还是故意放风",
@@ -86,18 +111,6 @@
           "time_info": "[00时01分 ~ 03时03分]"
         },
         {
-          "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
-          "url": "https://www.zhihu.com/question/2066617997154677677",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 13时53分]"
-        },
-        {
           "title": "发现邻居这样做 可立刻投诉",
           "url": "https://www.baidu.com/s?wd=%E5%8F%91%E7%8E%B0%E9%82%BB%E5%B1%85%E8%BF%99%E6%A0%B7%E5%81%9A+%E5%8F%AF%E7%AB%8B%E5%88%BB%E6%8A%95%E8%AF%89",
           "source": "百度热搜",
@@ -110,15 +123,26 @@
           "time_info": "[10时24分 ~ 13时53分]"
         },
         {
-          "title": "恶搞余承东视频被华为投诉下架",
-          "url": "https://www.baidu.com/s?wd=%E6%81%B6%E6%90%9E%E4%BD%99%E6%89%BF%E4%B8%9C%E8%A7%86%E9%A2%91%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
+          "title": "中国海警位黄岩岛附近海域组织维权执法管控演练，模拟拖离侵权船只",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694192",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "16时16分"
+        },
+        {
+          "title": "我军导弹精准打击震撼一幕曝光",
+          "url": "https://www.toutiao.com/trending/7668656830080450606/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "婚外胚胎事件患癌妻子讲述维权之路",
