@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T21:43:18.810753+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-08-02T22:59:42.080414+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -48,6 +48,17 @@
           "time_info": "[00时01分 ~ 10时24分]"
         },
         {
+          "title": "央视曝光网红漂流乱象",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%BC%82%E6%B5%81%E4%B9%B1%E8%B1%A1",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
           "url": "https://www.zhihu.com/question/2066617997154677677",
           "source": "知乎",
@@ -87,17 +98,6 @@
           "time_info": "[13时53分 ~ 18时38分]"
         },
         {
-          "title": "中方打出黄岩岛维权“组合拳”",
-          "url": "https://www.toutiao.com/trending/7669192246029221894/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "歼20实弹发射罕见曝光",
           "url": "https://www.toutiao.com/trending/7668727416755634227/",
           "source": "今日头条",
@@ -108,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 16时16分]"
+        },
+        {
+          "title": "中方打出黄岩岛维权“组合拳”",
+          "url": "https://www.toutiao.com/trending/7669192246029221894/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时59分]"
         },
         {
           "title": "美财长小纸条是意外曝光还是故意放风",
@@ -152,7 +164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
