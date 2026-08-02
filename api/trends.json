@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T16:16:22.856076+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-08-02T18:38:05.246886+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,18 @@
           "time_info": "[00时01分 ~ 10时24分]"
         },
         {
+          "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
+          "url": "https://www.zhihu.com/question/2066617997154677677",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 18时38分]"
+        },
+        {
           "title": "福建舰入列后首次曝光海上画面",
           "url": "https://www.toutiao.com/trending/7668506208843615807/",
           "source": "今日头条",
@@ -62,6 +74,19 @@
           "time_info": "[00时01分 ~ 05时52分]"
         },
         {
+          "title": "恶搞余承东视频被华为投诉下架",
+          "url": "https://www.baidu.com/s?wd=%E6%81%B6%E6%90%9E%E4%BD%99%E6%89%BF%E4%B8%9C%E8%A7%86%E9%A2%91%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 18时38分]"
+        },
+        {
           "title": "歼20实弹发射罕见曝光",
           "url": "https://www.toutiao.com/trending/7668727416755634227/",
           "source": "今日头条",
@@ -72,30 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 16时16分]"
-        },
-        {
-          "title": "恶搞余承东视频被华为投诉下架",
-          "url": "https://www.baidu.com/s?wd=%E6%81%B6%E6%90%9E%E4%BD%99%E6%89%BF%E4%B8%9C%E8%A7%86%E9%A2%91%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时16分]"
-        },
-        {
-          "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
-          "url": "https://www.zhihu.com/question/2066617997154677677",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 16时16分]"
         },
         {
           "title": "美财长小纸条是意外曝光还是故意放风",
@@ -129,7 +130,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -140,7 +141,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
