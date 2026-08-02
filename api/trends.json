@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T20:02:05.463683+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-08-02T21:43:18.810753+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -87,6 +87,17 @@
           "time_info": "[13时53分 ~ 18时38分]"
         },
         {
+          "title": "中方打出黄岩岛维权“组合拳”",
+          "url": "https://www.toutiao.com/trending/7669192246029221894/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "歼20实弹发射罕见曝光",
           "url": "https://www.toutiao.com/trending/7668727416755634227/",
           "source": "今日头条",
@@ -133,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "山东两货车相撞起火爆炸现场曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%A4%E8%B4%A7%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%B5%B7%E7%81%AB%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "我军导弹精准打击震撼一幕曝光",
