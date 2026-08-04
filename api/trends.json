@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T06:05:34.836403+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-04T08:06:10.415671+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "消费者因银鹭抽奖码被提前核销维权，获赔后却被备注「敲诈」，企业后称财务失误，这个回应站得住脚吗？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时06分]"
         },
         {
           "title": "竹知了视频被投诉下架，对品牌来说，这类事情有没有更好的公关办法？你知道哪些可供借鉴的经典案例？",
@@ -26,11 +27,24 @@
           "ranks": [
             9,
             7,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[02时48分 ~ 08时06分]"
+        },
+        {
+          "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708573",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时06分]"
         },
         {
           "title": "老师在学校拍跳舞视频被家长投诉",
@@ -44,17 +58,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时48分 ~ 06时05分]"
-        },
-        {
-          "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708573",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "米切尔结婚现场曝光",
@@ -101,8 +104,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 08时06分]"
+        },
+        {
+          "title": "美股收盘：谷歌涨超4%总市值超过苹果",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E6%B6%A8%E8%B6%854%25%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "律师谈玩具“竹知了”视频被投诉下架",
+          "url": "https://www.toutiao.com/trending/7669203605286764553/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "印度政府考虑将生产设备及零部件进口免税政策延长至2041年，苹果在印度的iPhone生产将获得进一步推动。",
