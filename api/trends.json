@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T07:00:22.269918+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-08-05T08:10:34.705080+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时26分]"
+        },
+        {
+          "title": "鸿蒙智行：“竹知了”相关投诉均有明确侵权事实，不存在仅为正常制作展示内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713612",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
