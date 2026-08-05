@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T11:57:59.163970+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-08-05T14:29:06.825057+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
@@ -27,8 +27,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 14时29分]"
+        },
+        {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时29分]"
+        },
+        {
+          "title": "烂苹果立功,果菌王第八代来了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356780&amp;topic_name=%E7%83%82%E8%8B%B9%E6%9E%9C%E7%AB%8B%E5%8A%9F%2C%E6%9E%9C%E8%8F%8C%E7%8E%8B%E7%AC%AC%E5%85%AB%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时29分]"
+        },
+        {
+          "title": "乘客投诉绕路遭出租车司机持铁棍殴打，太原警方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33716678",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时29分]"
         },
         {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
@@ -43,6 +78,17 @@
           "time_info": "[01时43分 ~ 03时26分]"
         },
         {
+          "title": "鸿蒙智行回应「竹知了」事件，称投诉针对的是具体侵权内容，从未要求下架「竹知了」商品，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068091380799206173",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
           "title": "澎湃回声｜6种限用农药违规网售，被曝光后多平台下架",
           "url": "https://m.thepaper.cn/newsDetail_forward_33713306",
           "source": "澎湃新闻",
@@ -52,39 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时26分]"
-        },
-        {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "烂苹果立功,果菌王第八代来了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356780&amp;topic_name=%E7%83%82%E8%8B%B9%E6%9E%9C%E7%AB%8B%E5%8A%9F%2C%E6%9E%9C%E8%8F%8C%E7%8E%8B%E7%AC%AC%E5%85%AB%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "乘客投诉绕路遭出租车司机持铁棍殴打，太原警方通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33716678",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
