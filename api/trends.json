@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T19:19:14.099242+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-08-06T21:58:02.770848+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "人贩子“梅姨”真实姓名曝光",
@@ -107,6 +107,20 @@
           "time_info": "[00时29分 ~ 10时28分]"
         },
         {
+          "title": "苹果压价失灵,长鑫拒绝供货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            14,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 21时58分]"
+        },
+        {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
           "url": "https://www.zhihu.com/question/2068056227817284742",
           "source": "知乎",
@@ -153,19 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "苹果压价失灵,长鑫拒绝供货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 19时19分]"
         },
         {
           "title": "婚外胚胎案妻子住址遭恶意曝光",
@@ -231,6 +232,17 @@
           "time_info": "[13时45分 ~ 16时29分]"
         },
         {
+          "title": "苹果为降低成本要求长鑫降价反遭涨价，长鑫的市场筹码来自哪里？反映了怎样的市场博弈？",
+          "url": "https://www.zhihu.com/question/2068598800793303020",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
           "title": "如何看待长鑫拒绝苹果压价",
           "url": "https://www.toutiao.com/trending/7670808457057930771/",
           "source": "今日头条",
@@ -240,6 +252,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
+          "url": "https://wallstreetcn.com/articles/3778845",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "日本女网红自杀更多细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "梅姨案已进入审查起诉阶段，梅姨真实姓名曝光，年龄或致死刑适用受限，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068598762075682268",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "乘客投诉绕路遭出租车司机持铁棍殴打，太原警方通报",
