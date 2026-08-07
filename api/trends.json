@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:54:53.688544+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-08-07T19:43:21.912358+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
@@ -27,11 +27,12 @@
             4,
             6,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时38分 ~ 19时43分]"
         },
         {
           "title": "长鑫拒绝苹果压价",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "苹果上调多款iPhone以旧换新折抵价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8A%E8%B0%83%E5%A4%9A%E6%AC%BEiPhone%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%8A%98%E6%8A%B5%E4%BB%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     }
