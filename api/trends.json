@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T15:09:18.203125+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-08-07T16:55:30.867105+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时09分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时55分]"
         },
         {
           "title": "长鑫拒绝苹果压价",
@@ -62,7 +63,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -84,7 +85,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
