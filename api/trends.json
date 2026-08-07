@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T08:40:08.262639+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-07T11:48:04.547089+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://wallstreetcn.com/articles/3778845",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
         },
         {
           "title": "长鑫拒绝苹果压价",
           "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
         },
         {
           "title": "苹果压价失灵,长鑫拒绝供货",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
         }
       ]
     }
