@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T00:50:38.427099+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T01:45:47.050306+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时45分]"
         },
         {
           "title": "猫娘抽烟番被日本家长投诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时45分]"
         }
       ]
     }
