@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:39:55.604477+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-08-08T14:44:22.061842+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 13时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 14时44分]"
+        },
+        {
+          "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2068620061821212203",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时44分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        },
-        {
-          "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2068620061821212203",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时39分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
