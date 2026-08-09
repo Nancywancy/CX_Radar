@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T01:28:36.979163+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-08-10T02:34:44.706558+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2069715027674624332",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -26,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     }
