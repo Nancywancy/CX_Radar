@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T03:31:15.215397+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-08-10T04:27:42.482213+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         }
       ]
     }
