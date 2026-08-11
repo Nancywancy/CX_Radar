@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T15:00:59.791684+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-08-11T16:13:36.936208+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 15时00分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 16时13分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
