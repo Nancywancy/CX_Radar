@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T19:42:01.447192+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-08-11T20:55:32.316233+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时20分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 20时55分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -60,11 +60,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 20时55分]"
         },
         {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
