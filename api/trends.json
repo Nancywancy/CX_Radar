@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:50:29.048964+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-08-11T19:42:01.447192+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 19时42分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -54,6 +54,19 @@
           "time_info": "17时57分"
         },
         {
+          "title": "iPhone前景隐忧引发华尔街看空情绪升温：六家机构发出苹果卖出信号，创2012年以来之最",
+          "url": "https://wallstreetcn.com/articles/3779096",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
           "url": "https://flash.jin10.com/detail/20260811055637856800",
           "source": "金十数据",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时32分]"
-        },
-        {
-          "title": "iPhone前景隐忧引发华尔街看空情绪升温：六家机构发出苹果卖出信号，创2012年以来之最",
-          "url": "https://wallstreetcn.com/articles/3779096",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时50分]"
         },
         {
           "title": "苹果9月发布会核心产品曝光",
