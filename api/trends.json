@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T02:57:33.199473+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-08-13T04:01:34.857617+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时01分]"
         },
         {
           "title": "苹果聘请美国航空资深高管出任政府事务主管",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时01分]"
         },
         {
           "title": "苹果任命新的政府事务负责人",
