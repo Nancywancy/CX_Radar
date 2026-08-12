@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T20:59:41.003153+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-08-12T22:24:15.511735+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "高市早苗送礼反被澳总理开低俗笑话？日方回应曝光",
@@ -34,6 +34,18 @@
           "time_info": "[00时58分 ~ 07时36分]"
         },
         {
+          "title": "iPhone 20 Pro概念渲染图曝光",
+          "url": "https://www.douyin.com/hot/2607268",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时24分]"
+        },
+        {
           "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
           "url": "https://www.zhihu.com/question/2069804922732860138",
           "source": "知乎",
@@ -58,15 +70,15 @@
           "time_info": "[09时28分 ~ 12时03分]"
         },
         {
-          "title": "iPhone 20 Pro概念渲染图曝光",
-          "url": "https://www.douyin.com/hot/2607268",
-          "source": "抖音",
+          "title": "全裸坠亡币圈富豪房间内细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1%E5%B8%81%E5%9C%88%E5%AF%8C%E8%B1%AA%E6%88%BF%E9%97%B4%E5%86%85%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "苹果再迎高层更替，支付和钱包服务负责人Bailey将退休",
@@ -111,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "中国贸促会副会长林红红会见美国苹果公司大中华区政府事务总经理范勇",
+          "url": "https://wallstreetcn.com/livenews/3148638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
