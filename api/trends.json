@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T04:56:06.593404+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-08-13T05:41:32.116849+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普躲避暗杀更多细节曝光",
@@ -15,8 +15,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时41分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：将于当地时间明日宣布在德克萨斯州建立苹果(AAPL.O)Mac mini工厂。",
+          "url": "https://flash.jin10.com/detail/20260813051237847800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "苹果聘请美国航空资深高管出任政府事务主管。",
