@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T06:38:12.917819+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-08-14T07:38:03.034516+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 07时38分]"
         },
         {
           "title": "云南交警翻唱坏苹果",
@@ -28,11 +29,12 @@
             7,
             10,
             9,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 07时38分]"
         },
         {
           "title": "小伙投诉核磁震坏身体影响夫妻生活",
