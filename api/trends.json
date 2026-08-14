@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T04:27:28.946308+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-08-15T05:21:51.702018+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马上评｜城管私收罚款，不能单靠行车记录仪曝光",
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时21分]"
         },
         {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
@@ -28,8 +28,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时21分]"
+        },
+        {
+          "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
+          "url": "https://flash.jin10.com/detail/20260815045930926800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "谢霆锋二儿子近照曝光",
