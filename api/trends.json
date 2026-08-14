@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:29:41.200861+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-08-14T12:05:21.079476+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -30,11 +30,12 @@
             10,
             9,
             20,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 09时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 12时05分]"
         },
         {
           "title": "小伙投诉核磁震坏身体影响夫妻生活",
@@ -89,6 +90,18 @@
           "time_info": "[04时38分 ~ 05时40分]"
         },
         {
+          "title": "小米升降车标专利曝光：提高车辆续航",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8D%87%E9%99%8D%E8%BD%A6%E6%A0%87%E4%B8%93%E5%88%A9%E6%9B%9D%E5%85%89%EF%BC%9A%E6%8F%90%E9%AB%98%E8%BD%A6%E8%BE%86%E7%BB%AD%E8%88%AA",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 12时05分]"
+        },
+        {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
           "url": "https://flash.jin10.com/detail/20260814023226248800",
           "source": "金十数据",
@@ -111,15 +124,15 @@
           "time_info": "02时58分"
         },
         {
-          "title": "小米升降车标专利曝光：提高车辆续航",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8D%87%E9%99%8D%E8%BD%A6%E6%A0%87%E4%B8%93%E5%88%A9%E6%9B%9D%E5%85%89%EF%BC%9A%E6%8F%90%E9%AB%98%E8%BD%A6%E8%BE%86%E7%BB%AD%E8%88%AA",
-          "source": "百度热搜",
+          "title": "C罗乔治娜财产协议曝光",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B9%94%E6%B2%BB%E5%A8%9C%E8%B4%A2%E4%BA%A7%E5%8D%8F%E8%AE%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时05分"
         }
       ]
     }
