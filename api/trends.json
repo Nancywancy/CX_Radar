@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T21:27:46.367656+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-08-15T22:18:32.063801+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,18 @@
           "time_info": "[15时27分 ~ 20时30分]"
         },
         {
+          "title": "深圳一酒吧多人穿“海南航空空姐制服”跳舞，海航声明发起侵权投诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33788279",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时18分]"
+        },
+        {
           "title": "谢霆锋二儿子近照曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E4%BA%8C%E5%84%BF%E5%AD%90%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时17分 ~ 13时22分]"
-        },
-        {
-          "title": "深圳一酒吧多人穿“海南航空空姐制服”跳舞，海航声明发起侵权投诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33788279",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 21时27分]"
         },
         {
           "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
