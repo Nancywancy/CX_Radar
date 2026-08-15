@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T16:23:26.548060+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-08-15T17:22:45.313639+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,18 @@
           "time_info": "[02时47分 ~ 06时19分]"
         },
         {
+          "title": "印尼7.7级强震致至少20人死，大楼倒塌画面曝光",
+          "url": "https://news.ifeng.com/c/8vbrpn1N9sG",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时22分]"
+        },
+        {
           "title": "失去AI恋人多位用户投诉平台",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B1%E5%8E%BBAI%E6%81%8B%E4%BA%BA%E5%A4%9A%E4%BD%8D%E7%94%A8%E6%88%B7%E6%8A%95%E8%AF%89%E5%B9%B3%E5%8F%B0%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -85,17 +97,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 10时17分]"
-        },
-        {
-          "title": "印尼7.7级强震致至少20人死，大楼倒塌画面曝光",
-          "url": "https://news.ifeng.com/c/8vbrpn1N9sG",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时23分]"
         },
         {
           "title": "城管私收罚款不能单靠行车记录仪曝光",
