@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T03:19:49.787065+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-08-16T04:18:32.577837+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "央视曝光网红面霜违规添加激素",
@@ -25,11 +25,12 @@
           "ranks": [
             28,
             26,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时18分]"
         }
       ]
     }
