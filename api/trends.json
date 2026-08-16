@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T12:32:16.474330+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-08-16T13:25:20.233339+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时25分]"
         },
         {
           "title": "女子产后抑郁自杀生前备忘录曝光",
@@ -58,8 +59,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时25分]"
         }
       ]
     }
