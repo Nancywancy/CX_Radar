@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T06:17:14.459773+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-08-17T07:16:23.924615+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "央视曝光低价徒步团：3个领队带150人",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时16分]"
         },
         {
           "title": "央视曝光近150人组团夜爬封禁山峰",
@@ -41,8 +41,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -54,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 06时17分]"
+          "appearance_count": 6,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "C罗结婚仪式画面曝光",
@@ -77,11 +77,12 @@
           "ranks": [
             23,
             8,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 07时16分]"
         },
         {
           "title": "段永平1300亿元持仓曝光",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "央视曝光999元六天五晚云南低价游",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89999%E5%85%83%E5%85%AD%E5%A4%A9%E4%BA%94%E6%99%9A%E4%BA%91%E5%8D%97%E4%BD%8E%E4%BB%B7%E6%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     }
