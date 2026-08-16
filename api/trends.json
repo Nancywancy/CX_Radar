@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T21:27:53.795480+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-08-16T22:18:50.173943+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "深圳一酒吧多人穿“海南航空空姐制服”跳舞，海航声明发起侵权投诉",
@@ -29,11 +29,12 @@
           "ranks": [
             2,
             5,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 22时18分]"
         },
         {
           "title": "央视曝光网红面霜违规添加激素",
@@ -57,22 +58,12 @@
           "source": "微博",
           "ranks": [
             5,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时27分]"
-        },
-        {
-          "title": "市民打12345投诉月光太亮影响睡觉",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时18分]"
         },
         {
           "title": "英伟达持仓股票曝光 位列SpaceX第六大股东",
@@ -87,6 +78,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时44分 ~ 14时33分]"
+        },
+        {
+          "title": "市民打12345投诉月光太亮影响睡觉",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时18分]"
         },
         {
           "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
@@ -133,20 +136,43 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时18分]"
         },
         {
           "title": "苹果阿里合作新进展",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%98%BF%E9%87%8C%E5%90%88%E4%BD%9C%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时18分]"
+        },
+        {
+          "title": "央视曝光低价游宰客陷阱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BD%8E%E4%BB%B7%E6%B8%B8%E5%AE%B0%E5%AE%A2%E9%99%B7%E9%98%B1%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时27分"
+          "time_info": "22时18分"
+        },
+        {
+          "title": "段永平1300亿元持仓曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%AE%B5%E6%B0%B8%E5%B9%B31300%E4%BA%BF%E5%85%83%E6%8C%81%E4%BB%93%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     }
