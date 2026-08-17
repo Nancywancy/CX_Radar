@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T20:36:46.999763+08:00",
-  "total_titles_processed": 1825,
+  "generated_at": "2026-08-17T21:37:23.826685+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 21时37分]"
         },
         {
           "title": "离谱!市民投诉月光太亮睡不着",
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时16分 ~ 20时36分]"
+          "appearance_count": 23,
+          "time_info": "[01时16分 ~ 21时37分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -226,6 +226,18 @@
           "time_info": "[07时16分 ~ 11时46分]"
         },
         {
+          "title": "UP主聊曝光如是书院过程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%8A%E6%9B%9D%E5%85%89%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 21时37分]"
+        },
+        {
           "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792311",
           "source": "澎湃新闻",
@@ -239,18 +251,6 @@
           "time_info": "[00时19分 ~ 13时32分]"
         },
         {
-          "title": "UP主聊曝光如是书院过程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%8A%E6%9B%9D%E5%85%89%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 20时36分]"
-        },
-        {
           "title": "日媒罕见曝光日军拿本国士兵做实验",
           "url": "https://www.toutiao.com/trending/7674793178154778630/",
           "source": "今日头条",
@@ -262,6 +262,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时37分 ~ 19时22分]"
+        },
+        {
+          "title": "电动车套路曝光：全款买完还要交年费",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A5%97%E8%B7%AF%E6%9B%9D%E5%85%89%EF%BC%9A%E5%85%A8%E6%AC%BE%E4%B9%B0%E5%AE%8C%E8%BF%98%E8%A6%81%E4%BA%A4%E5%B9%B4%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时37分]"
         },
         {
           "title": "段永平1300亿元持仓曝光",
@@ -287,28 +300,29 @@
           "time_info": "[00时19分 ~ 01时16分]"
         },
         {
-          "title": "电动车套路曝光：全款买完还要交年费",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A5%97%E8%B7%AF%E6%9B%9D%E5%85%89%EF%BC%9A%E5%85%A8%E6%AC%BE%E4%B9%B0%E5%AE%8C%E8%BF%98%E8%A6%81%E4%BA%A4%E5%B9%B4%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时36分]"
-        },
-        {
           "title": "日媒罕见曝光日军拿本国士兵做实验",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%E7%BD%95%E8%A7%81%E6%9B%9D%E5%85%89%E6%97%A5%E5%86%9B%E6%8B%BF%E6%9C%AC%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%81%9A%E5%AE%9E%E9%AA%8C",
           "source": "百度热搜",
           "ranks": [
             22,
-            19
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时37分]"
+        },
+        {
+          "title": "iPhone17国内销量曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时36分]"
+          "time_info": "[20时36分 ~ 21时37分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -320,17 +334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "iPhone17国内销量曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
