@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T03:26:13.269503+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-08-18T04:21:48.266309+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "苹果股东因AI版权指控起诉公司高管",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时21分]"
         },
         {
           "title": "UP主聊曝光如是书院过程",
