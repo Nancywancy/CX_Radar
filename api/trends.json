@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T12:37:30.496836+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-08-17T13:32:21.146993+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时16分 ~ 12时37分]"
+          "appearance_count": 14,
+          "time_info": "[01时16分 ~ 13时32分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -85,8 +85,36 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时32分]"
+        },
+        {
+          "title": "央视曝光后 云南连夜通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%91%E5%8D%97%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            12,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时32分]"
+        },
+        {
+          "title": "197个交易日杠杆破200%红线，“离谱私募”曝光：连基金经理都是“借”来的",
+          "url": "https://www.cls.cn/detail/2455371",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时32分]"
         },
         {
           "title": "C罗结婚仪式画面曝光",
@@ -103,19 +131,6 @@
           "time_info": "[02时22分 ~ 07时16分]"
         },
         {
-          "title": "央视曝光后 云南连夜通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%91%E5%8D%97%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时37分]"
-        },
-        {
           "title": "央视财经曝光暑期游乱象：999元低价游，一段行程更换5家旅行社",
           "url": "https://m.thepaper.cn/newsDetail_forward_33795012",
           "source": "澎湃新闻",
@@ -123,21 +138,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时32分]"
         },
         {
-          "title": "197个交易日杠杆破200%红线，“离谱私募”曝光：连基金经理都是“借”来的",
-          "url": "https://www.cls.cn/detail/2455371",
-          "source": "财联社热门",
+          "title": "美媒曝光太平洋深处三起“神秘袭击”事件",
+          "url": "https://news.ifeng.com/c/8vecbzz2kFA",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            10,
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时32分]"
+        },
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时32分]"
         },
         {
           "title": "央视曝光999元六天五晚云南低价游",
@@ -154,40 +181,17 @@
           "time_info": "[07时16分 ~ 11时46分]"
         },
         {
-          "title": "美媒曝光太平洋深处三起“神秘袭击”事件",
-          "url": "https://news.ifeng.com/c/8vecbzz2kFA",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时37分]"
-        },
-        {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时37分]"
-        },
-        {
           "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792311",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 12时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 13时32分]"
         },
         {
           "title": "段永平1300亿元持仓曝光",
@@ -213,6 +217,18 @@
           "time_info": "[00时19分 ~ 01时16分]"
         },
         {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时32分]"
+        },
+        {
           "title": "市民打12345投诉月光太亮影响睡觉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -222,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         }
       ]
     }
