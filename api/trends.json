@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T22:24:00.912586+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-08-17T23:21:37.334738+08:00",
+  "total_titles_processed": 2099,
   "failed_sources": [],
   "trends": [
     {
@@ -31,21 +31,6 @@
           "time_info": "[09时01分 ~ 22时24分]"
         },
         {
-          "title": "离谱!市民投诉月光太亮睡不着",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357877&amp;topic_name=%E7%A6%BB%E8%B0%B1%21%E5%B8%82%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E7%9D%A1%E4%B8%8D%E7%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时16分 ~ 22时24分]"
-        },
-        {
           "title": "市民打12345投诉月光太亮影响睡觉",
           "url": "https://www.toutiao.com/trending/7674150180756750355/",
           "source": "今日头条",
@@ -60,6 +45,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时19分 ~ 11时46分]"
+        },
+        {
+          "title": "离谱!市民投诉月光太亮睡不着",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357877&amp;topic_name=%E7%A6%BB%E8%B0%B1%21%E5%B8%82%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E7%9D%A1%E4%B8%8D%E7%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            8,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[01时16分 ~ 23时21分]"
         },
         {
           "title": "央视曝光近150人组团夜爬封禁山峰",
