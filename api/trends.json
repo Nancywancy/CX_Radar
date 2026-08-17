@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T17:37:32.177766+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-08-17T18:28:44.728583+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "央视曝光低价徒步团：3个领队带150人",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时16分 ~ 17时37分]"
+          "appearance_count": 20,
+          "time_info": "[01时16分 ~ 18时28分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -55,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 17时37分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 18时28分]"
         },
         {
           "title": "央视曝光近150人组团夜爬封禁山峰",
@@ -110,8 +111,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 18时28分]"
         },
         {
           "title": "197个交易日杠杆破200%红线，“离谱私募”曝光：连基金经理都是“借”来的",
@@ -158,6 +159,32 @@
           "time_info": "[11时46分 ~ 16时38分]"
         },
         {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 18时28分]"
+        },
+        {
+          "title": "中央巡查组曝光上海危货乱象",
+          "url": "https://www.toutiao.com/trending/7674183443932151859/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时44分 ~ 18时28分]"
+        },
+        {
           "title": "C罗结婚仪式画面曝光",
           "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A%E4%BB%AA%E5%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -170,32 +197,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时22分 ~ 07时16分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 17时37分]"
-        },
-        {
-          "title": "中央巡查组曝光上海危货乱象",
-          "url": "https://www.toutiao.com/trending/7674183443932151859/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时44分 ~ 17时37分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将在欧盟范围内推行多项调整。苹果将调整广告透明度同意工具，此前受到德国竞争监管机构审查。",
@@ -259,6 +260,29 @@
           "time_info": "[00时19分 ~ 01时16分]"
         },
         {
+          "title": "UP主聊曝光如是书院过程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%8A%E6%9B%9D%E5%85%89%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时28分]"
+        },
+        {
+          "title": "日媒罕见曝光日军拿本国士兵做实验",
+          "url": "https://www.toutiao.com/trending/7674793178154778630/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时28分]"
+        },
+        {
           "title": "市民打12345投诉月光太亮影响睡觉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -270,28 +294,6 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "日媒罕见曝光日军拿本国士兵做实验",
-          "url": "https://www.toutiao.com/trending/7674793178154778630/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "UP主聊曝光如是书院过程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%8A%E6%9B%9D%E5%85%89%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
           "url": "https://flash.jin10.com/detail/20260817140632271800",
           "source": "金十数据",
@@ -301,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "中央巡查组曝光上海危货乱象",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%B7%A1%E6%9F%A5%E7%BB%84%E6%9B%9D%E5%85%89%E4%B8%8A%E6%B5%B7%E5%8D%B1%E8%B4%A7%E4%B9%B1%E8%B1%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     }
