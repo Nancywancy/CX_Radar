@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T04:21:48.266309+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-08-18T05:33:01.497379+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "离谱!市民投诉月光太亮睡不着",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时33分]"
         },
         {
           "title": "苹果股东因AI版权指控起诉公司高管",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时24分]"
+        },
+        {
+          "title": "iPhone17国内销量曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 05时33分]"
         }
       ]
     }
