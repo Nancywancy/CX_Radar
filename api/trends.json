@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T14:45:10.824396+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-08-17T15:49:51.993759+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时16分 ~ 14时45分]"
+          "appearance_count": 17,
+          "time_info": "[01时16分 ~ 15时49分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -61,17 +61,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "央视曝光低价宰客团云南连夜彻查",
-          "url": "https://www.toutiao.com/trending/7674570525910269993/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 14时45分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -112,11 +101,12 @@
             12,
             8,
             14,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 15时49分]"
         },
         {
           "title": "央视财经曝光暑期游乱象：999元低价游，一段行程更换5家旅行社",
@@ -126,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 15时49分]"
         },
         {
           "title": "美媒曝光太平洋深处三起“神秘袭击”事件",
@@ -137,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 15时49分]"
         },
         {
           "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
@@ -151,8 +141,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 15时49分]"
+        },
+        {
+          "title": "央视曝光低价宰客团云南连夜彻查",
+          "url": "https://www.toutiao.com/trending/7674570525910269993/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 15时49分]"
         },
         {
           "title": "C罗结婚仪式画面曝光",
@@ -169,6 +171,18 @@
           "time_info": "[02时22分 ~ 07时16分]"
         },
         {
+          "title": "中央巡查组曝光上海危货乱象",
+          "url": "https://www.toutiao.com/trending/7674183443932151859/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 15时49分]"
+        },
+        {
           "title": "央视曝光999元六天五晚云南低价游",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89999%E5%85%83%E5%85%AD%E5%A4%A9%E4%BA%94%E6%99%9A%E4%BA%91%E5%8D%97%E4%BD%8E%E4%BB%B7%E6%B8%B8",
           "source": "百度热搜",
@@ -183,6 +197,19 @@
           "time_info": "[07时16分 ~ 11时46分]"
         },
         {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 15时49分]"
+        },
+        {
           "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792311",
           "source": "澎湃新闻",
@@ -194,19 +221,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 13时32分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 14时45分]"
         },
         {
           "title": "段永平1300亿元持仓曝光",
@@ -232,17 +246,6 @@
           "time_info": "[00时19分 ~ 01时16分]"
         },
         {
-          "title": "中央巡查组曝光上海危货乱象",
-          "url": "https://www.toutiao.com/trending/7674183443932151859/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
           "title": "市民打12345投诉月光太亮影响睡觉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -260,7 +263,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
