@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T02:53:50.709338+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-08-19T03:29:13.322828+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -19,28 +19,18 @@
           "time_info": "00时31分"
         },
         {
-          "title": "欧盟发言人：苹果(AAPL.O)将于2026年10月实施变更。",
-          "url": "https://flash.jin10.com/detail/20260819000748890800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
           "title": "UP主聊曝光如是书院过程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%8A%E6%9B%9D%E5%85%89%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E8%BF%87%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
             26,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时29分]"
         },
         {
           "title": "被央视曝光 云南通报调查结果",
@@ -48,11 +38,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时29分]"
         },
         {
           "title": "苹果大波新品泄密",
@@ -64,8 +55,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时29分]"
         },
         {
           "title": "离谱!市民投诉月光太亮睡不着",
@@ -75,8 +66,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时29分]"
+        },
+        {
+          "title": "欧盟发言人：苹果(AAPL.O)将于2026年10月实施变更。",
+          "url": "https://flash.jin10.com/detail/20260819000748890800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "餐馆未打码曝光逃单顾客照片引争议",
@@ -87,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 03时29分]"
         },
         {
           "title": "冰箱里放了两年的苹果",
