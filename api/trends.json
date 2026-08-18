@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-18T15:34:33.524052+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-08-18T16:32:12.312619+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
       "match_count": 9,
       "titles": [
+        {
+          "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
+          "url": "https://www.zhihu.com/question/2072650616367853898",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 16时32分]"
+        },
         {
           "title": "离谱!市民投诉月光太亮睡不着",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357877&amp;topic_name=%E7%A6%BB%E8%B0%B1%21%E5%B8%82%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E7%9D%A1%E4%B8%8D%E7%9D%80",
@@ -20,21 +33,21 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 15时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 16时32分]"
         },
         {
-          "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
-          "url": "https://www.zhihu.com/question/2072650616367853898",
-          "source": "知乎",
+          "title": "12345 投诉奇葩",
+          "url": "https://www.baidu.com/s?wd=12345+%E6%8A%95%E8%AF%89%E5%A5%87%E8%91%A9",
+          "source": "百度热搜",
           "ranks": [
-            9,
             6,
-            5
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 16时32分]"
         },
         {
           "title": "UP主聊曝光如是书院过程",
@@ -76,29 +89,17 @@
           "time_info": "[11时44分 ~ 13时24分]"
         },
         {
-          "title": "12345 投诉奇葩",
-          "url": "https://www.baidu.com/s?wd=12345+%E6%8A%95%E8%AF%89%E5%A5%87%E8%91%A9",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时34分]"
-        },
-        {
           "title": "带摄像头AirPods实机演示曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B8%A6%E6%91%84%E5%83%8F%E5%A4%B4AirPods%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 16时32分]"
         },
         {
           "title": "iPhone17国内销量曝光",
