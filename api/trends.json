@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T13:24:49.763251+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-08-18T14:36:26.360357+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "离谱!市民投诉月光太亮睡不着",
@@ -15,11 +15,12 @@
             12,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 14时36分]"
         },
         {
           "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
@@ -31,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 14时36分]"
         },
         {
           "title": "UP主聊曝光如是书院过程",
@@ -74,6 +75,18 @@
           "time_info": "[11时44分 ~ 13时24分]"
         },
         {
+          "title": "12345 投诉奇葩",
+          "url": "https://www.baidu.com/s?wd=12345+%E6%8A%95%E8%AF%89%E5%A5%87%E8%91%A9",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时36分]"
+        },
+        {
           "title": "iPhone17国内销量曝光",
           "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -85,17 +98,6 @@
           "time_info": "[05时32分 ~ 05时33分]"
         },
         {
-          "title": "12345 投诉奇葩",
-          "url": "https://www.baidu.com/s?wd=12345+%E6%8A%95%E8%AF%89%E5%A5%87%E8%91%A9",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "苹果9月发布会新品前瞻",
           "url": "https://www.douyin.com/hot/2613149",
           "source": "抖音",
@@ -105,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "带摄像头AirPods实机演示曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%A6%E6%91%84%E5%83%8F%E5%A4%B4AirPods%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     }
