@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T20:38:16.691132+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-08-18T21:39:36.199599+08:00",
+  "total_titles_processed": 2039,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,27 @@
             21,
             22,
             24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时22分 ~ 21时39分]"
+        },
+        {
+          "title": "央视曝光后 湖南主动公开调查过程",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B9%96%E5%8D%97%E4%B8%BB%E5%8A%A8%E5%85%AC%E5%BC%80%E8%B0%83%E6%9F%A5%E8%BF%87%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            15,
+            24,
             25
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时22分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时39分]"
         },
         {
           "title": "UP主聊曝光如是书院过程",
@@ -67,20 +83,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时24分 ~ 16时32分]"
-        },
-        {
-          "title": "央视曝光后 湖南主动公开调查过程",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B9%96%E5%8D%97%E4%B8%BB%E5%8A%A8%E5%85%AC%E5%BC%80%E8%B0%83%E6%9F%A5%E8%BF%87%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时38分]"
         },
         {
           "title": "苹果股东因AI版权指控起诉公司高管",
@@ -122,6 +124,18 @@
           "time_info": "[14时36分 ~ 16时32分]"
         },
         {
+          "title": "冰箱里放了两年的苹果",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%B0%E7%AE%B1%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%9A%84%E8%8B%B9%E6%9E%9C&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时39分]"
+        },
+        {
           "title": "苹果公布16款设备将停止系统更新",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%B8%8316%E6%AC%BE%E8%AE%BE%E5%A4%87%E5%B0%86%E5%81%9C%E6%AD%A2%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -132,17 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时21分 ~ 20时38分]"
-        },
-        {
-          "title": "冰箱里放了两年的苹果",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%B0%E7%AE%B1%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%9A%84%E8%8B%B9%E6%9E%9C&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "iPhone17国内销量曝光",
