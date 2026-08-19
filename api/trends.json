@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T10:22:13.681075+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-08-19T11:43:11.935074+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
             15,
             27,
             30,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 11时43分]"
         },
         {
           "title": "离谱!市民投诉月光太亮睡不着",
