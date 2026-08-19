@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T02:28:51.966985+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-08-20T03:25:45.725641+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "SpaceX废弃火箭残骸撞击月球，撞击坑照片曝光",
@@ -15,8 +15,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时25分]"
+        },
+        {
+          "title": "山姆苹果干一包就是半个苹果",
+          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E8%8B%B9%E6%9E%9C%E5%B9%B2%E4%B8%80%E5%8C%85%E5%B0%B1%E6%98%AF%E5%8D%8A%E4%B8%AA%E8%8B%B9%E6%9E%9C&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     }
