@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T21:48:28.764101+08:00",
-  "total_titles_processed": 1992,
+  "generated_at": "2026-08-19T22:59:50.507071+08:00",
+  "total_titles_processed": 2099,
   "failed_sources": [],
   "trends": [
     {
@@ -146,8 +146,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时59分]"
         },
         {
           "title": "山姆苹果干一包就是半个苹果",
@@ -155,11 +155,12 @@
           "source": "微博",
           "ranks": [
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时59分]"
         },
         {
           "title": "冰箱里放了两年的苹果",
