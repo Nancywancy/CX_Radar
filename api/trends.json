@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T13:27:01.136386+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-08-19T14:44:00.604323+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "被央视曝光 云南通报调查结果",
@@ -108,11 +108,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%8C%BB%E7%94%9F%E5%8F%8D%E5%90%91%E6%8A%95%E8%AF%89",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 14时44分]"
         },
         {
           "title": "冰箱里放了两年的苹果",
@@ -136,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 02时53分]"
+        },
+        {
+          "title": "iPhone18Pro手机壳全新曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%85%A8%E6%96%B0%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "欧盟发言人：欧盟委员会欢迎苹果(AAPL.O)对iPhone和iPad替代应用分发业务条款的调整。",
