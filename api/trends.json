@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T08:59:29.839061+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-08-19T10:22:13.681075+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 10时22分]"
         },
         {
           "title": "离谱!市民投诉月光太亮睡不着",
@@ -59,11 +59,12 @@
           "source": "贴吧",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 10时22分]"
         },
         {
           "title": "苹果大波新品泄密",
@@ -153,7 +154,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
