@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T20:38:23.975851+08:00",
-  "total_titles_processed": 1881,
+  "generated_at": "2026-08-19T21:48:28.764101+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
@@ -139,6 +139,29 @@
           "time_info": "[14时43分 ~ 15时39分]"
         },
         {
+          "title": "SpaceX废弃火箭残骸撞击月球，撞击坑照片曝光",
+          "url": "https://news.ifeng.com/c/8vinnwIfDIv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时48分]"
+        },
+        {
+          "title": "山姆苹果干一包就是半个苹果",
+          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E8%8B%B9%E6%9E%9C%E5%B9%B2%E4%B8%80%E5%8C%85%E5%B0%B1%E6%98%AF%E5%8D%8A%E4%B8%AA%E8%8B%B9%E6%9E%9C&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时48分]"
+        },
+        {
           "title": "冰箱里放了两年的苹果",
           "url": "https://s.weibo.com/weibo?q=%E5%86%B0%E7%AE%B1%E9%87%8C%E6%94%BE%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%9A%84%E8%8B%B9%E6%9E%9C&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -179,18 +202,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        },
-        {
-          "title": "SpaceX废弃火箭残骸撞击月球，撞击坑照片曝光",
-          "url": "https://news.ifeng.com/c/8vinnwIfDIv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -226,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "山姆苹果干一包就是半个苹果",
-          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E8%8B%B9%E6%9E%9C%E5%B9%B2%E4%B8%80%E5%8C%85%E5%B0%B1%E6%98%AF%E5%8D%8A%E4%B8%AA%E8%8B%B9%E6%9E%9C&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         },
         {
           "title": "一餐馆未打码曝光多名逃单顾客照片",
