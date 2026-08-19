@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-20T04:22:18.994656+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-08-20T06:20:59.486676+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
       "match_count": 3,
       "titles": [
-        {
-          "title": "科技七巨头中特斯拉收涨4.23%，亚马逊涨2.46%，苹果涨2.12%，微软涨0.55%，Meta Platforms涨0.46%，谷歌涨0.11%，英伟达跌1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3151929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
         {
           "title": "SpaceX废弃火箭残骸撞击月球，撞击坑照片曝光",
           "url": "https://news.ifeng.com/c/8vinnwIfDIv",
@@ -26,8 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时20分]"
+        },
+        {
+          "title": "科技七巨头中特斯拉收涨4.23%，亚马逊涨2.46%，苹果涨2.12%，微软涨0.55%，Meta Platforms涨0.46%，谷歌涨0.11%，英伟达跌1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3151929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时20分]"
         },
         {
           "title": "山姆苹果干一包就是半个苹果",
@@ -35,11 +36,12 @@
           "source": "微博",
           "ranks": [
             19,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 06时20分]"
         }
       ]
     }
