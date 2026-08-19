@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T19:29:44.253034+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-08-19T20:38:23.975851+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "被央视曝光 云南通报调查结果",
@@ -173,6 +173,28 @@
           "time_info": "00时31分"
         },
         {
+          "title": "苹果拟修改欧盟开发者条款，游说组织：收费仍然过高",
+          "url": "https://flash.jin10.com/detail/20260819201737953800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "SpaceX废弃火箭残骸撞击月球，撞击坑照片曝光",
+          "url": "https://news.ifeng.com/c/8vinnwIfDIv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "苹果(AAPL.O)推出针对18岁以下用户的全新安全功能，包括替代支付方式的家长控制功能，并禁止儿童应用中的网站交易链接。",
           "url": "https://flash.jin10.com/detail/20260819000412448800",
           "source": "金十数据",
@@ -206,6 +228,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "山姆苹果干一包就是半个苹果",
+          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E8%8B%B9%E6%9E%9C%E5%B9%B2%E4%B8%80%E5%8C%85%E5%B0%B1%E6%98%AF%E5%8D%8A%E4%B8%AA%E8%8B%B9%E6%9E%9C&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "一餐馆未打码曝光多名逃单顾客照片",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A4%90%E9%A6%86%E6%9C%AA%E6%89%93%E7%A0%81%E6%9B%9D%E5%85%89%E5%A4%9A%E5%90%8D%E9%80%83%E5%8D%95%E9%A1%BE%E5%AE%A2%E7%85%A7%E7%89%87%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -223,7 +256,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
