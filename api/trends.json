@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T10:19:29.965307+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-08-20T11:43:24.659420+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 10时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时43分]"
         },
         {
           "title": "曝光逃单顾客未打码照片店主发声",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 10时19分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时43分]"
         },
         {
           "title": "科技七巨头中特斯拉收涨4.23%，亚马逊涨2.46%，苹果涨2.12%，微软涨0.55%，Meta Platforms涨0.46%，谷歌涨0.11%，英伟达跌1.08%。",
@@ -65,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 10时19分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时43分]"
         }
       ]
     }
