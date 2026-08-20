@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T18:25:28.877627+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-08-20T19:23:05.253399+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             16,
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[15时37分 ~ 19时23分]"
         },
         {
           "title": "他予回声新团曝光",
@@ -42,8 +43,20 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 19时23分]"
+        },
+        {
+          "title": "广东男篮新任主教练曝光",
+          "url": "https://www.douyin.com/hot/2617139",
+          "source": "抖音",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时39分 ~ 18时25分]"
+          "time_info": "[17时30分 ~ 19时23分]"
         },
         {
           "title": "曝光逃单顾客未打码照片店主发声",
@@ -85,17 +98,6 @@
           "time_info": "[03时25分 ~ 07时19分]"
         },
         {
-          "title": "广东男篮新任主教练曝光",
-          "url": "https://www.douyin.com/hot/2617139",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时25分]"
-        },
-        {
           "title": "7岁小女孩两次给路过解放军送苹果",
           "url": "https://www.toutiao.com/trending/7675322536968585279/",
           "source": "今日头条",
@@ -127,7 +129,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
