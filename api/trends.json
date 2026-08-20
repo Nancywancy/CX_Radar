@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T06:22:57.331331+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-08-21T07:22:16.565026+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             3,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 07时22分]"
         },
         {
           "title": "父女黄河大堤失踪 车上录音曝光",
@@ -35,8 +36,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 07时22分]"
         },
         {
           "title": "广东男篮新任主教练曝光",
@@ -48,11 +49,26 @@
             19,
             13,
             12,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时22分]"
+        },
+        {
+          "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
+          "url": "https://www.zhihu.com/question/2073677774934341205",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时23分 ~ 07时22分]"
         },
         {
           "title": "标普500指数初步收跌0.8%，可选消费板块跌1.8%，日用消费品、保健板块跌1.7%，电信板块跌0.7%，科技板块跌0.4%，能源板块涨0.5%。 纳斯达克100指数初步收跌0.7%，成分股中，沃尔玛初步收跌9%，CrowdStrike跌5.7%，SpaceX跌3.7%，吉利德科学跌2.9%，苹果跌1.9%，谷歌A跌1.3%，西部数据涨1.4%，闪迪涨2.1%，美光涨4.1%，迈威尔科技涨5.8%，Lumentum涨6.2%，Strategy涨7.7%。 生物科技指数跌2.9%。",
@@ -64,19 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
-          "url": "https://www.zhihu.com/question/2073677774934341205",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时23分 ~ 06时22分]"
         },
         {
           "title": "父女黄河大堤失踪车上录音曝光",
