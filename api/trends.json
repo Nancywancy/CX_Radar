@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T21:43:17.026988+08:00",
-  "total_titles_processed": 2092,
+  "generated_at": "2026-08-20T22:32:44.062332+08:00",
+  "total_titles_processed": 2184,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,25 @@
           "ranks": [
             8,
             12,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时30分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[17时30分 ~ 22时32分]"
+        },
+        {
+          "title": "父女黄河大堤失踪车上录音曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%A5%B3%E9%BB%84%E6%B2%B3%E5%A4%A7%E5%A0%A4%E5%A4%B1%E8%B8%AA%E8%BD%A6%E4%B8%8A%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时32分]"
         },
         {
           "title": "曝光逃单顾客未打码照片店主发声",
@@ -100,19 +114,6 @@
           "time_info": "[03时25分 ~ 07时19分]"
         },
         {
-          "title": "父女黄河大堤失踪车上录音曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%A5%B3%E9%BB%84%E6%B2%B3%E5%A4%A7%E5%A0%A4%E5%A4%B1%E8%B8%AA%E8%BD%A6%E4%B8%8A%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时43分]"
-        },
-        {
           "title": "7岁小女孩两次给路过解放军送苹果",
           "url": "https://www.toutiao.com/trending/7675322536968585279/",
           "source": "今日头条",
@@ -126,6 +127,18 @@
           "time_info": "[14时39分 ~ 16时33分]"
         },
         {
+          "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
+          "url": "https://www.zhihu.com/question/2073734322373267652",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时32分]"
+        },
+        {
           "title": "小米人形机器人现场视频曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -136,17 +149,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 11时43分]"
-        },
-        {
-          "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
-          "url": "https://www.zhihu.com/question/2073734322373267652",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "蒸苹果和煮苹果作用大不同",
