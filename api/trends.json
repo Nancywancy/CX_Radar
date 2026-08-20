@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T03:28:30.996201+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-08-21T04:24:06.108319+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
@@ -15,11 +15,12 @@
             4,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "父女黄河大堤失踪 车上录音曝光",
@@ -29,11 +30,23 @@
             28,
             17,
             16,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时24分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.8%，可选消费板块跌1.8%，日用消费品、保健板块跌1.7%，电信板块跌0.7%，科技板块跌0.4%，能源板块涨0.5%。 纳斯达克100指数初步收跌0.7%，成分股中，沃尔玛初步收跌9%，CrowdStrike跌5.7%，SpaceX跌3.7%，吉利德科学跌2.9%，苹果跌1.9%，谷歌A跌1.3%，西部数据涨1.4%，闪迪涨2.1%，美光涨4.1%，迈威尔科技涨5.8%，Lumentum涨6.2%，Strategy涨7.7%。 生物科技指数跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3152577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "广东男篮新任主教练曝光",
@@ -42,11 +55,12 @@
           "ranks": [
             24,
             18,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "父女黄河大堤失踪车上录音曝光",
@@ -59,6 +73,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时25分]"
+        },
+        {
+          "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
+          "url": "https://www.zhihu.com/question/2073677774934341205",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时24分]"
+        },
+        {
+          "title": "44岁任家萱近况曝光",
+          "url": "https://www.toutiao.com/trending/7675862438437322806/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时24分]"
         },
         {
           "title": "他予回声新团曝光",
