@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T02:33:41.741955+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-08-21T03:28:30.996201+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "父女黄河大堤失踪 车上录音曝光",
@@ -27,11 +28,12 @@
           "ranks": [
             28,
             17,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "广东男篮新任主教练曝光",
