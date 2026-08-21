@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-22T02:31:35.869216+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-08-22T03:23:41.749518+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "苹果在Siri和Vision Pro团队裁员，资源转向AI与新设备",
+          "url": "https://flash.jin10.com/detail/20260822030935041800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
         {
           "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
           "url": "https://www.zhihu.com/question/2072772413494973775",
@@ -17,8 +28,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时23分]"
+        },
+        {
+          "title": "苹果(AAPL.O)裁减了Siri、Vision Pro3D视频和游戏团队的职位，受影响人数超过200人。",
+          "url": "https://flash.jin10.com/detail/20260822024749566800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     }
