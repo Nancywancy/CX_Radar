@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T07:22:16.565026+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-08-21T09:03:12.711106+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -36,25 +36,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
-        },
-        {
-          "title": "广东男篮新任主教练曝光",
-          "url": "https://www.douyin.com/hot/2617139",
-          "source": "抖音",
-          "ranks": [
-            24,
-            18,
-            19,
-            13,
-            12,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 09时03分]"
         },
         {
           "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
@@ -67,8 +50,26 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时23分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[04时23分 ~ 09时03分]"
+        },
+        {
+          "title": "广东男篮新任主教练曝光",
+          "url": "https://www.douyin.com/hot/2617139",
+          "source": "抖音",
+          "ranks": [
+            24,
+            18,
+            19,
+            13,
+            12,
+            16,
+            23,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时03分]"
         },
         {
           "title": "标普500指数初步收跌0.8%，可选消费板块跌1.8%，日用消费品、保健板块跌1.7%，电信板块跌0.7%，科技板块跌0.4%，能源板块涨0.5%。 纳斯达克100指数初步收跌0.7%，成分股中，沃尔玛初步收跌9%，CrowdStrike跌5.7%，SpaceX跌3.7%，吉利德科学跌2.9%，苹果跌1.9%，谷歌A跌1.3%，西部数据涨1.4%，闪迪涨2.1%，美光涨4.1%，迈威尔科技涨5.8%，Lumentum涨6.2%，Strategy涨7.7%。 生物科技指数跌2.9%。",
