@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T10:59:17.826412+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-08-21T11:53:57.481062+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
@@ -48,11 +48,12 @@
             7,
             6,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 10时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时53分]"
         },
         {
           "title": "广东男篮新任主教练曝光",
@@ -117,6 +118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时33分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，集运欧线涨近9%，沪银涨超4%，铂、碳酸锂涨超3%，纸浆涨近3%，多晶硅、钯、燃料油涨超2%。跌幅方面，菜粕、菜油跌近2%，苹果、豆一、不锈钢（SS）、红枣、聚氯乙烯（PVC）跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260821113039864800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     }
