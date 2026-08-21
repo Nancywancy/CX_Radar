@@ -1,148 +1,22 @@
 {
-  "generated_at": "2026-08-21T23:29:00.084330+08:00",
-  "total_titles_processed": 2304,
+  "generated_at": "2026-08-22T00:28:28.539180+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
-          "url": "https://www.zhihu.com/question/2073734322373267652",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            3,
-            2,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
-        },
-        {
-          "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
-          "url": "https://www.zhihu.com/question/2073677774934341205",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时23分 ~ 10时59分]"
-        },
-        {
-          "title": "父女黄河大堤失踪 车上录音曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B6%E5%A5%B3%E9%BB%84%E6%B2%B3%E5%A4%A7%E5%A0%A4%E5%A4%B1%E8%B8%AA+%E8%BD%A6%E4%B8%8A%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            17,
-            16,
-            7,
-            6,
-            13,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 11时53分]"
-        },
-        {
-          "title": "广东男篮新任主教练曝光",
-          "url": "https://www.douyin.com/hot/2617139",
-          "source": "抖音",
-          "ranks": [
-            24,
-            18,
-            19,
-            13,
-            12,
-            16,
-            23,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时03分]"
-        },
         {
           "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
           "url": "https://www.zhihu.com/question/2072772413494973775",
           "source": "知乎",
           "ranks": [
-            17,
-            12,
-            13,
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时35分 ~ 23时28分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.8%，可选消费板块跌1.8%，日用消费品、保健板块跌1.7%，电信板块跌0.7%，科技板块跌0.4%，能源板块涨0.5%。 纳斯达克100指数初步收跌0.7%，成分股中，沃尔玛初步收跌9%，CrowdStrike跌5.7%，SpaceX跌3.7%，吉利德科学跌2.9%，苹果跌1.9%，谷歌A跌1.3%，西部数据涨1.4%，闪迪涨2.1%，美光涨4.1%，迈威尔科技涨5.8%，Lumentum涨6.2%，Strategy涨7.7%。 生物科技指数跌2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3152577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "父女黄河大堤失踪车上录音曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%A5%B3%E9%BB%84%E6%B2%B3%E5%A4%A7%E5%A0%A4%E5%A4%B1%E8%B8%AA%E8%BD%A6%E4%B8%8A%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时25分]"
-        },
-        {
-          "title": "44岁任家萱近况曝光",
-          "url": "https://www.toutiao.com/trending/7675862438437322806/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "他予回声新团曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%96%E4%BA%88%E5%9B%9E%E5%A3%B0%E6%96%B0%E5%9B%A2%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时33分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少，集运欧线涨近9%，沪银涨超4%，铂、碳酸锂涨超3%，纸浆涨近3%，多晶硅、钯、燃料油涨超2%。跌幅方面，菜粕、菜油跌近2%，苹果、豆一、不锈钢（SS）、红枣、聚氯乙烯（PVC）跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260821113039864800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "00时28分"
         }
       ]
     }
