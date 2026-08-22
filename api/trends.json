@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T05:18:02.616063+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-08-23T06:18:10.128160+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时18分]"
         },
         {
           "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时18分]"
         },
         {
           "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
@@ -40,11 +40,12 @@
           "ranks": [
             18,
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时18分]"
         },
         {
           "title": "国漫遭AI盗用,雾山五行维权",
@@ -55,8 +56,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时18分]"
+        },
+        {
+          "title": "小沈阳投诉《披荆斩棘》导演组",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%95%E8%AF%89%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B%E5%AF%BC%E6%BC%94%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 06时18分]"
         },
         {
           "title": "iPhone18ProMax手机壳曝光",
@@ -73,16 +86,15 @@
           "time_info": "[00时18分 ~ 05时18分]"
         },
         {
-          "title": "小沈阳投诉《披荆斩棘》导演组",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%95%E8%AF%89%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B%E5%AF%BC%E6%BC%94%E7%BB%84",
-          "source": "百度热搜",
+          "title": "“准大学生”投诉寄档案被要求办卡，四川泸州邮政局称已督促整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33833681",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            12
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 05时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时17分 ~ 06时18分]"
         },
         {
           "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
@@ -97,17 +109,6 @@
           "time_info": "[00时18分 ~ 01时17分]"
         },
         {
-          "title": "“准大学生”投诉寄档案被要求办卡，四川泸州邮政局称已督促整改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33833681",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 05时18分]"
-        },
-        {
           "title": "央视曝光特大跨境荐股诈骗案 男子轻信荐股直播被骗近500万元",
           "url": "https://www.cls.cn/detail/2461371",
           "source": "财联社热门",
@@ -115,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 06时18分]"
         }
       ]
     }
