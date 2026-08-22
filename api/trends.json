@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T06:18:10.128160+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-08-23T07:17:06.973902+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -19,19 +19,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时17分]"
         },
         {
           "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
           "url": "https://m.thepaper.cn/newsDetail_forward_33831947",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时17分]"
+        },
+        {
+          "title": "“准大学生”投诉寄档案被要求办卡，四川泸州邮政局称已督促整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33833681",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时17分 ~ 07时17分]"
         },
         {
           "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
@@ -44,20 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时18分]"
-        },
-        {
-          "title": "国漫遭AI盗用,雾山五行维权",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359699&amp;topic_name=%E5%9B%BD%E6%BC%AB%E9%81%ADAI%E7%9B%97%E7%94%A8%2C%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C%E7%BB%B4%E6%9D%83",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时17分]"
         },
         {
           "title": "小沈阳投诉《披荆斩棘》导演组",
@@ -68,8 +69,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 07时17分]"
+        },
+        {
+          "title": "国漫遭AI盗用,雾山五行维权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359699&amp;topic_name=%E5%9B%BD%E6%BC%AB%E9%81%ADAI%E7%9B%97%E7%94%A8%2C%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C%E7%BB%B4%E6%9D%83",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时17分]"
         },
         {
           "title": "iPhone18ProMax手机壳曝光",
@@ -79,22 +92,23 @@
             21,
             22,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时17分]"
         },
         {
-          "title": "“准大学生”投诉寄档案被要求办卡，四川泸州邮政局称已督促整改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33833681",
-          "source": "澎湃新闻",
+          "title": "央视曝光特大跨境荐股诈骗案 男子轻信荐股直播被骗近500万元",
+          "url": "https://www.cls.cn/detail/2461371",
+          "source": "财联社热门",
           "ranks": [
-            20
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时17分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时17分]"
         },
         {
           "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
@@ -107,17 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "央视曝光特大跨境荐股诈骗案 男子轻信荐股直播被骗近500万元",
-          "url": "https://www.cls.cn/detail/2461371",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 06时18分]"
         }
       ]
     }
