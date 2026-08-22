@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-22T21:28:35.133988+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-08-22T22:17:43.582051+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
+          "url": "https://www.zhihu.com/question/2073370343264219476",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 22时17分]"
+        },
         {
           "title": "美要求中方释放2名美国公民，网友曝光来华后被抓原因",
           "url": "https://news.ifeng.com/c/8vmYeEtZOgB",
@@ -27,11 +43,12 @@
             7,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 21时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 22时17分]"
         },
         {
           "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
@@ -47,19 +64,18 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
-          "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
-          "url": "https://www.zhihu.com/question/2073370343264219476",
-          "source": "知乎",
+          "title": "在家开灯遭楼对面投诉“影响孩子”",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E5%AE%B6%E5%BC%80%E7%81%AF%E9%81%AD%E6%A5%BC%E5%AF%B9%E9%9D%A2%E6%8A%95%E8%AF%89%E2%80%9C%E5%BD%B1%E5%93%8D%E5%AD%A9%E5%AD%90%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            8,
-            5,
-            3,
-            2
+            4,
+            17,
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时28分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 22时17分]"
         },
         {
           "title": "苹果在Siri和Vision Pro团队裁员，资源转向AI与新设备",
@@ -71,20 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "在家开灯遭楼对面投诉“影响孩子”",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E5%AE%B6%E5%BC%80%E7%81%AF%E9%81%AD%E6%A5%BC%E5%AF%B9%E9%9D%A2%E6%8A%95%E8%AF%89%E2%80%9C%E5%BD%B1%E5%93%8D%E5%AD%A9%E5%AD%90%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            17,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 18时19分]"
         },
         {
           "title": "开台灯遭邻居投诉影响孩子学习",
@@ -125,6 +127,19 @@
           "time_info": "[13时23分 ~ 14时33分]"
         },
         {
+          "title": "多方回应23楼开灯被对面20楼投诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%9423%E6%A5%BC%E5%BC%80%E7%81%AF%E8%A2%AB%E5%AF%B9%E9%9D%A220%E6%A5%BC%E6%8A%95%E8%AF%89%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时17分]"
+        },
+        {
           "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉。你怎么看？",
           "url": "https://www.zhihu.com/question/2073370343264219476",
           "source": "知乎",
@@ -138,16 +153,16 @@
           "time_info": "[12时29分 ~ 14时33分]"
         },
         {
-          "title": "多方回应23楼开灯被对面20楼投诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%9423%E6%A5%BC%E5%BC%80%E7%81%AF%E8%A2%AB%E5%AF%B9%E9%9D%A220%E6%A5%BC%E6%8A%95%E8%AF%89%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33831947",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 22时17分]"
         },
         {
           "title": "苹果裁减Siri和Vision Pro团队岗位，资源重心转向AI与新设备",
@@ -162,6 +177,18 @@
           "time_info": "[04时21分 ~ 05时20分]"
         },
         {
+          "title": "央视曝光特大跨境荐股诈骗案 男子轻信荐股直播被骗近500万元",
+          "url": "https://www.cls.cn/detail/2461371",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时17分]"
+        },
+        {
           "title": "河北涿州地下代孕机构被曝光，官方已通报，上官正义质疑存在内鬼，为何此类黑产能够长期运作？",
           "url": "https://www.zhihu.com/question/2073771209267701475",
           "source": "知乎",
@@ -171,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 10时18分]"
-        },
-        {
-          "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33831947",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "苹果(AAPL.O)裁减了Siri、Vision Pro3D视频和游戏团队的职位，受影响人数超过200人。",
@@ -195,17 +211,6 @@
           "time_info": "03时23分"
         },
         {
-          "title": "央视曝光特大跨境荐股诈骗案 男子轻信荐股直播被骗近500万元",
-          "url": "https://www.cls.cn/detail/2461371",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "河北张家口市场监管局回应“博主曝光大白菜装车前蘸甲醛保鲜”：关注到相关情况，多部门已展开调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33831555",
           "source": "澎湃新闻",
@@ -215,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "甲醛白菜14年前就曝光了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C14%E5%B9%B4%E5%89%8D%E5%B0%B1%E6%9B%9D%E5%85%89%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     }
