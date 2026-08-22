@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T10:18:26.839320+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-08-22T11:48:43.565209+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时21分 ~ 10时18分]"
+          "appearance_count": 8,
+          "time_info": "[04时21分 ~ 11时48分]"
         },
         {
           "title": "苹果在Siri和Vision Pro团队裁员，资源转向AI与新设备",
