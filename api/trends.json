@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T07:20:24.393736+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-08-22T08:59:55.068482+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
@@ -21,6 +21,17 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "美要求中方释放2名美国公民，网友曝光来华后被抓原因",
+          "url": "https://news.ifeng.com/c/8vmYeEtZOgB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时21分 ~ 08时59分]"
+        },
+        {
           "title": "苹果在Siri和Vision Pro团队裁员，资源转向AI与新设备",
           "url": "https://flash.jin10.com/detail/20260822030935041800",
           "source": "金十数据",
@@ -32,27 +43,17 @@
           "time_info": "03时23分"
         },
         {
-          "title": "美要求中方释放2名美国公民，网友曝光来华后被抓原因",
-          "url": "https://news.ifeng.com/c/8vmYeEtZOgB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 07时20分]"
-        },
-        {
           "title": "开台灯遭邻居投诉影响孩子学习",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%8F%B0%E7%81%AF%E9%81%AD%E9%82%BB%E5%B1%85%E6%8A%95%E8%AF%89%E5%BD%B1%E5%93%8D%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时19分 ~ 07时20分]"
+          "appearance_count": 5,
+          "time_info": "[05时19分 ~ 08时59分]"
         },
         {
           "title": "苹果裁减Siri和Vision Pro团队岗位，资源重心转向AI与新设备",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "河北涿州地下代孕机构被曝光，官方已通报，上官正义质疑存在内鬼，为何此类黑产能够长期运作？",
+          "url": "https://www.zhihu.com/question/2073771209267701475",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
