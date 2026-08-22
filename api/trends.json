@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T02:23:31.120789+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-08-23T03:20:17.195553+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,23 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时20分]"
+        },
+        {
+          "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33831947",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
@@ -33,17 +45,6 @@
           "time_info": "[00时18分 ~ 01时17分]"
         },
         {
-          "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33831947",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时23分]"
-        },
-        {
           "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
           "url": "https://www.zhihu.com/question/2074437569970790911",
           "source": "知乎",
@@ -53,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "国漫遭AI盗用,雾山五行维权",
@@ -65,19 +66,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "iPhone18ProMax手机壳曝光",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "小沈阳投诉《披荆斩棘》导演组",
@@ -88,8 +90,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时20分]"
         },
         {
           "title": "央视曝光特大跨境荐股诈骗案 男子轻信荐股直播被骗近500万元",
