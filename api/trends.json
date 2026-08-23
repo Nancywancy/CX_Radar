@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T22:20:09.391396+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-08-23T23:18:59.553642+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -94,11 +94,12 @@
             26,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时18分 ~ 22时20分]"
+          "appearance_count": 34,
+          "time_info": "[00时18分 ~ 23时18分]"
         },
         {
           "title": "iPhone18ProMax手机壳曝光",
@@ -123,11 +124,12 @@
             9,
             6,
             8,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 23时18分]"
         },
         {
           "title": "“甲醛白菜”手法14年前曾被曝光",
