@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T09:04:07.942340+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-08-23T10:58:57.686050+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             3,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 09时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 10时58分]"
         },
         {
           "title": "“准大学生”投诉寄档案被要求办卡，四川泸州邮政局称已督促整改",
@@ -32,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时17分 ~ 09时04分]"
+          "appearance_count": 11,
+          "time_info": "[04时17分 ~ 10时58分]"
         },
         {
           "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
@@ -45,8 +46,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 09时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 10时58分]"
         },
         {
           "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
@@ -56,11 +57,12 @@
             18,
             13,
             12,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 09时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 10时58分]"
         },
         {
           "title": "小沈阳投诉《披荆斩棘》导演组",
@@ -80,11 +82,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 09时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 10时58分]"
         },
         {
           "title": "iPhone18ProMax手机壳曝光",
