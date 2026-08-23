@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T15:31:22.220467+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-08-23T16:25:05.266451+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[04时17分 ~ 15时31分]"
+          "appearance_count": 21,
+          "time_info": "[04时17分 ~ 16时25分]"
         },
         {
           "title": "林肯号危机「吹哨人」遭清算，因曝光林肯号糟糕处境，美国军报总编辑、发行人、记者均被解雇，如何看待此事？",
@@ -48,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 15时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时18分 ~ 16时25分]"
         },
         {
           "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
@@ -63,8 +64,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 15时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时18分 ~ 16时25分]"
         },
         {
           "title": "小沈阳投诉《披荆斩棘》导演组",
@@ -90,11 +91,12 @@
             22,
             23,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 15时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时18分 ~ 16时25分]"
         },
         {
           "title": "iPhone18ProMax手机壳曝光",
@@ -155,8 +157,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 16时25分]"
         },
         {
           "title": "小沈阳披哥投诉导演组",
