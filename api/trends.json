@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T22:38:13.206056+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2026-08-24T23:35:58.819598+08:00",
+  "total_titles_processed": 2163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "央视曝光隔空猥亵",
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时42分 ~ 22时38分]"
+          "appearance_count": 10,
+          "time_info": "[16时42分 ~ 23时35分]"
         },
         {
           "title": "央视曝光隔空猥亵",
@@ -46,8 +46,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时48分 ~ 22时38分]"
+          "appearance_count": 13,
+          "time_info": "[14时48分 ~ 23时35分]"
         },
         {
           "title": "上市公司被曝要求应届生离职与「打螺丝」二选一，是真的吗？公司行为属于变相劝退吗？应届生该如何维权？",
@@ -127,6 +127,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "中国女子泰国遭绑警方抓捕视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E8%AD%A6%E6%96%B9%E6%8A%93%E6%8D%95%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "央视曝光后 沈阳等多地接连通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B2%88%E9%98%B3%E7%AD%89%E5%A4%9A%E5%9C%B0%E6%8E%A5%E8%BF%9E%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     }
