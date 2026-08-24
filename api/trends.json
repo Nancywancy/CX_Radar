@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T19:23:53.579339+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2026-08-24T20:40:59.008465+08:00",
+  "total_titles_processed": 1861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "央视曝光隔空猥亵",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             2,
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 20时40分]"
         },
         {
           "title": "央视曝光隔空猥亵",
@@ -30,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[16时42分 ~ 20时40分]"
         },
         {
           "title": "泸州邮政再遭学生投诉：寄档案时被“捆绑”办联通卡，监管部门正核实",
@@ -39,22 +40,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时48分 ~ 19时23分]"
+          "appearance_count": 9,
+          "time_info": "[14时48分 ~ 20时40分]"
         },
         {
           "title": "上市公司被曝要求应届生离职与「打螺丝」二选一，是真的吗？公司行为属于变相劝退吗？应届生该如何维权？",
           "url": "https://www.zhihu.com/question/2074879549028950044",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 20时40分]"
         },
         {
           "title": "店主帮老人遭索赔1.9万元协议书曝光",
@@ -78,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时42分 ~ 16时43分]"
+        },
+        {
+          "title": "雷军曝光玄戒O3隐藏彩蛋",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%9B%9D%E5%85%89%E7%8E%84%E6%88%92O3%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少，集运欧线涨超7%，乙二醇（EG）涨超5%，焦炭涨近4%，焦煤、碳酸锂、烧碱、沪金涨近3%，纯碱、玻璃涨超2%。跌幅方面，苹果、多晶硅跌近2%，菜籽、生猪跌超1%，对二甲苯、菜油、PTA跌近1%。",
