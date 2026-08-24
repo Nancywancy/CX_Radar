@@ -1,154 +1,55 @@
 {
-  "generated_at": "2026-08-24T23:35:58.819598+08:00",
-  "total_titles_processed": 2163,
+  "generated_at": "2026-08-25T00:32:32.395043+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
         {
-          "title": "央视曝光隔空猥亵",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5",
+          "title": "央视曝光后 沈阳等多地接连通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B2%88%E9%98%B3%E7%AD%89%E5%A4%9A%E5%9C%B0%E6%8E%A5%E8%BF%9E%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            4,
-            2,
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时42分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "央视曝光隔空猥亵",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=5&Refer=top",
+          "title": "中国女子泰国遭绑警方抓捕视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E8%AD%A6%E6%96%B9%E6%8A%93%E6%8D%95%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            5,
-            2,
-            1,
-            15,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时54分 ~ 21时47分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "泸州邮政再遭学生投诉：寄档案时被“捆绑”办联通卡，监管部门正核实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33836865",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时48分 ~ 23时35分]"
-        },
-        {
-          "title": "上市公司被曝要求应届生离职与「打螺丝」二选一，是真的吗？公司行为属于变相劝退吗？应届生该如何维权？",
-          "url": "https://www.zhihu.com/question/2074879549028950044",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 20时40分]"
-        },
-        {
-          "title": "店主帮老人遭索赔1.9万元协议书曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%B8%AE%E8%80%81%E4%BA%BA%E9%81%AD%E7%B4%A2%E8%B5%941.9%E4%B8%87%E5%85%83%E5%8D%8F%E8%AE%AE%E4%B9%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 19时23分]"
-        },
-        {
-          "title": "苹果华为下一代旗舰手机战略为何相反",
-          "url": "https://www.toutiao.com/trending/7677455981353127467/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
-        },
-        {
-          "title": "雷军曝光玄戒O3隐藏彩蛋",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%9B%9D%E5%85%89%E7%8E%84%E6%88%92O3%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
-          "source": "百度热搜",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "00时32分"
         },
         {
-          "title": "早盘收盘，国内期货主力合约涨多跌少，集运欧线涨超7%，乙二醇（EG）涨超5%，焦炭涨近4%，焦煤、碳酸锂、烧碱、沪金涨近3%，纯碱、玻璃涨超2%。跌幅方面，苹果、多晶硅跌近2%，菜籽、生猪跌超1%，对二甲苯、菜油、PTA跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260824113056298800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "折叠iPhone细节曝光",
-          "url": "https://www.toutiao.com/trending/7677538473179352627/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "商品期货收盘，集运欧线主力合约涨超5%，乙二醇涨超4%，焦炭、沪金、铂、纯碱、烧碱涨超2%。苹果、多晶硅、生猪跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3153707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "中国女子泰国遭绑警方抓捕视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E9%81%AD%E7%BB%91%E8%AD%A6%E6%96%B9%E6%8A%93%E6%8D%95%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "央视曝光隔空猥亵",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5",
+          "source": "百度热搜",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "央视曝光后 沈阳等多地接连通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B2%88%E9%98%B3%E7%AD%89%E5%A4%9A%E5%9C%B0%E6%8E%A5%E8%BF%9E%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "00时32分"
         }
       ]
     }
