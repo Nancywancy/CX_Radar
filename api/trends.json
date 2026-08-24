@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T02:39:22.707620+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-08-25T03:26:05.154906+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视曝光后 沈阳等多地接连通报",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "中国女子泰国遭绑警方抓捕视频曝光",
@@ -24,22 +24,46 @@
           "source": "微博",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时26分]"
         },
         {
           "title": "泸州邮政再遭学生投诉：寄档案时被“捆绑”办联通卡，监管部门正核实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33836865",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时26分]"
+        },
+        {
+          "title": "地方违规发津贴、突击花钱被曝光",
+          "url": "https://www.toutiao.com/trending/7677513573996167219/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
+          "title": "折叠iPhone细节曝光",
+          "url": "https://www.toutiao.com/trending/7677538473179352627/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
           "title": "央视曝光隔空猥亵",
