@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T19:24:17.524903+08:00",
-  "total_titles_processed": 1852,
+  "generated_at": "2026-08-25T20:41:08.108166+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
             8,
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时45分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时45分 ~ 20时41分]"
         },
         {
           "title": "菲律宾一轮船海上沉没全过程曝光",
