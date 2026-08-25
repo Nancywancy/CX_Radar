@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T06:22:20.091431+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-08-26T07:23:45.981477+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "章建平新进杭电股份第三大股东 “牛散”家族持仓动向曝光|速读公告",
@@ -28,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "苹果全新Mac mini发布 6999元起售",
@@ -37,11 +38,34 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "怎么看苹果发布全新 Mac mini/Mac Studio ，M6 芯片下 AI 性能暴涨 4 倍？",
+          "url": "https://www.zhihu.com/question/2075714717176303763",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "苹果发布全球首款量产2nm芯片",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E9%87%8F%E4%BA%A72nm%E8%8A%AF%E7%89%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，起售价大涨至6999元",
