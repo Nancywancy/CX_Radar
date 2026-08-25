@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T20:41:08.108166+08:00",
-  "total_titles_processed": 1981,
+  "generated_at": "2026-08-25T21:45:55.874643+08:00",
+  "total_titles_processed": 2091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "央视曝光后 沈阳等多地接连通报",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时45分 ~ 20时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时45分 ~ 21时45分]"
         },
         {
           "title": "菲律宾一轮船海上沉没全过程曝光",
@@ -221,6 +221,28 @@
           "time_info": "10时23分"
         },
         {
+          "title": "苹果：M5 Ultra配备高达512GB的统一内存",
+          "url": "https://flash.jin10.com/detail/20260825212552382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "苹果发布新款Mac Mini和Mac Studio，加码AI计算能力",
+          "url": "https://flash.jin10.com/detail/20260825211735606800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "苹果或于9月发布会前推出新款Mac mini",
           "url": "https://flash.jin10.com/detail/20260825100154511800",
           "source": "金十数据",
@@ -230,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "苹果在新款Mac Mini中引入M6芯片",
+          "url": "https://wallstreetcn.com/livenews/3154689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "据知情人士透露，苹果(AAPL.O)正准备推出近两年来首款新版本的Mac mini台式电脑。新款机型最早将在未来几天内亮相，可能先于9月份的发布会。",
@@ -254,6 +287,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "苹果(AAPL.O)：M5 Pro版Mac mini起售价为1,699美元；M6教育版起售价为899美元。",
+          "url": "https://flash.jin10.com/detail/20260825210816663800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "央视曝光隔空猥亵",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5",
           "source": "百度热搜",
@@ -265,6 +309,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "苹果(AAPL.O)：M6，苹果首款2纳米芯片，配备更大更强大的12核CPU、12核GPU和双16核神经网络引擎。",
+          "url": "https://flash.jin10.com/detail/20260825210732829800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "扶老人被索赔事件完整监控曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E4%BA%8B%E4%BB%B6%E5%AE%8C%E6%95%B4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -274,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "苹果(AAPL.O)：配备M5 Ultra的Mac Studio起售价为5,499美元，教育版为5,099美元。",
+          "url": "https://flash.jin10.com/detail/20260825210654543800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "以色列黑手党头目遭枪杀现场曝光",
