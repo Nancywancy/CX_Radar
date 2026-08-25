@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T13:28:05.998009+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-08-25T14:42:04.640843+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "央视曝光后 沈阳等多地接连通报",
@@ -37,6 +37,20 @@
           "time_info": "[00时32分 ~ 10时23分]"
         },
         {
+          "title": "菲律宾一轮船海上沉没全过程曝光",
+          "url": "https://www.toutiao.com/trending/7676747339370807350/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 14时42分]"
+        },
+        {
           "title": "泸州邮政再遭学生投诉：寄档案时被“捆绑”办联通卡，监管部门正核实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33836865",
           "source": "澎湃新闻",
@@ -50,17 +64,20 @@
           "time_info": "[00时32分 ~ 09时01分]"
         },
         {
-          "title": "菲律宾一轮船海上沉没全过程曝光",
-          "url": "https://www.toutiao.com/trending/7676747339370807350/",
-          "source": "今日头条",
+          "title": "人民日报曝光当天 腾冲成立工作组",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%BD%93%E5%A4%A9+%E8%85%BE%E5%86%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            2,
-            5
+            15,
+            5,
+            8,
+            16,
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 14时42分]"
         },
         {
           "title": "以色列黑手党头目遭枪杀现场曝光",
@@ -78,21 +95,6 @@
           "time_info": "[09时01分 ~ 13时28分]"
         },
         {
-          "title": "人民日报曝光当天 腾冲成立工作组",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%BD%93%E5%A4%A9+%E8%85%BE%E5%86%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            8,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 13时28分]"
-        },
-        {
           "title": "多家餐厅残留液体敌敌畏检测阳性，绿茶称不知情，官方调查，一旦发生食物中毒餐厅要担责吗？消费者如何维权？",
           "url": "https://www.zhihu.com/question/2075214033292977192",
           "source": "知乎",
@@ -104,6 +106,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 11时45分]"
+        },
+        {
+          "title": "曝光！起底高市背后的神秘宗教势力",
+          "url": "https://news.ifeng.com/c/8vsCR4FzAeD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 14时42分]"
+        },
+        {
+          "title": "扶老人被索赔事件完整监控视频曝光",
+          "url": "https://www.toutiao.com/trending/7677797941087637002/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 14时42分]"
+        },
+        {
+          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 14时42分]"
         },
         {
           "title": "地方违规发津贴、突击花钱被曝光",
@@ -130,30 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时25分 ~ 06时21分]"
-        },
-        {
-          "title": "扶老人被索赔事件完整监控视频曝光",
-          "url": "https://www.toutiao.com/trending/7677797941087637002/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时28分]"
-        },
-        {
-          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时28分]"
         },
         {
           "title": "“甲醛白菜”屡禁不止：十余年间被多次曝光，甲醛为何仍未纳入蔬菜常规检测？",
