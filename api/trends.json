@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T15:41:30.437270+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-08-25T16:38:29.699831+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -95,6 +95,20 @@
           "time_info": "[09时01分 ~ 13时28分]"
         },
         {
+          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 16时38分]"
+        },
+        {
           "title": "多家餐厅残留液体敌敌畏检测阳性，绿茶称不知情，官方调查，一旦发生食物中毒餐厅要担责吗？消费者如何维权？",
           "url": "https://www.zhihu.com/question/2075214033292977192",
           "source": "知乎",
@@ -106,19 +120,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 11时45分]"
-        },
-        {
-          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时41分]"
         },
         {
           "title": "曝光！起底高市背后的神秘宗教势力",
@@ -245,7 +246,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
