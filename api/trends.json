@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T11:45:45.345350+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-08-25T12:35:41.180779+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
           "ranks": [
             4,
             2,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 11时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时35分]"
         },
         {
           "title": "菲律宾一轮船海上沉没全过程曝光",
@@ -81,11 +82,26 @@
           "source": "今日头条",
           "ranks": [
             6,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 12时35分]"
+        },
+        {
+          "title": "人民日报曝光当天 腾冲成立工作组",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%BD%93%E5%A4%A9+%E8%85%BE%E5%86%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时35分]"
         },
         {
           "title": "地方违规发津贴、突击花钱被曝光",
@@ -99,19 +115,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时25分 ~ 06时21分]"
-        },
-        {
-          "title": "人民日报曝光当天 腾冲成立工作组",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%BD%93%E5%A4%A9+%E8%85%BE%E5%86%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 11时45分]"
         },
         {
           "title": "折叠iPhone细节曝光",
@@ -139,6 +142,42 @@
           "time_info": "[09时01分 ~ 10时23分]"
         },
         {
+          "title": "扶老人被索赔事件完整监控视频曝光",
+          "url": "https://www.toutiao.com/trending/7677797941087637002/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时35分]"
+        },
+        {
+          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时35分]"
+        },
+        {
+          "title": "你会选择等苹果18还是买苹果17",
+          "url": "https://www.douyin.com/hot/2621893",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 12时35分]"
+        },
+        {
           "title": "苹果准备推出两年来首款全新Mac mini。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3154279",
           "source": "华尔街见闻-快讯",
@@ -150,17 +189,6 @@
           "time_info": "10时23分"
         },
         {
-          "title": "扶老人被索赔事件完整监控视频曝光",
-          "url": "https://www.toutiao.com/trending/7677797941087637002/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "苹果或于9月发布会前推出新款Mac mini",
           "url": "https://flash.jin10.com/detail/20260825100154511800",
           "source": "金十数据",
@@ -170,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        },
-        {
-          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "据知情人士透露，苹果(AAPL.O)正准备推出近两年来首款新版本的Mac mini台式电脑。新款机型最早将在未来几天内亮相，可能先于9月份的发布会。",
@@ -216,24 +233,13 @@
           "time_info": "09时01分"
         },
         {
-          "title": "你会选择等苹果18还是买苹果17",
-          "url": "https://www.douyin.com/hot/2621893",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "以色列黑手党头目遭枪杀现场曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%BB%91%E6%89%8B%E5%85%9A%E5%A4%B4%E7%9B%AE%E9%81%AD%E6%9E%AA%E6%9D%80%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
