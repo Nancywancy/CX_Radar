@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T12:35:41.180779+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-08-25T13:28:05.998009+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "央视曝光后 沈阳等多地接连通报",
@@ -50,6 +50,49 @@
           "time_info": "[00时32分 ~ 09时01分]"
         },
         {
+          "title": "菲律宾一轮船海上沉没全过程曝光",
+          "url": "https://www.toutiao.com/trending/7676747339370807350/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 13时28分]"
+        },
+        {
+          "title": "以色列黑手党头目遭枪杀现场曝光",
+          "url": "https://www.toutiao.com/trending/7677564334604927022/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时28分]"
+        },
+        {
+          "title": "人民日报曝光当天 腾冲成立工作组",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%BD%93%E5%A4%A9+%E8%85%BE%E5%86%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            8,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时28分]"
+        },
+        {
           "title": "多家餐厅残留液体敌敌畏检测阳性，绿茶称不知情，官方调查，一旦发生食物中毒餐厅要担责吗？消费者如何维权？",
           "url": "https://www.zhihu.com/question/2075214033292977192",
           "source": "知乎",
@@ -61,47 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 11时45分]"
-        },
-        {
-          "title": "以色列黑手党头目遭枪杀现场曝光",
-          "url": "https://www.toutiao.com/trending/7677564334604927022/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时35分]"
-        },
-        {
-          "title": "菲律宾一轮船海上沉没全过程曝光",
-          "url": "https://www.toutiao.com/trending/7676747339370807350/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 12时35分]"
-        },
-        {
-          "title": "人民日报曝光当天 腾冲成立工作组",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9B%9D%E5%85%89%E5%BD%93%E5%A4%A9+%E8%85%BE%E5%86%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%BB%84",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时35分]"
         },
         {
           "title": "地方违规发津贴、突击花钱被曝光",
@@ -130,6 +132,30 @@
           "time_info": "[03时25分 ~ 06时21分]"
         },
         {
+          "title": "扶老人被索赔事件完整监控视频曝光",
+          "url": "https://www.toutiao.com/trending/7677797941087637002/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时28分]"
+        },
+        {
+          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时28分]"
+        },
+        {
           "title": "“甲醛白菜”屡禁不止：十余年间被多次曝光，甲醛为何仍未纳入蔬菜常规检测？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33841173",
           "source": "澎湃新闻",
@@ -142,28 +168,15 @@
           "time_info": "[09时01分 ~ 10时23分]"
         },
         {
-          "title": "扶老人被索赔事件完整监控视频曝光",
-          "url": "https://www.toutiao.com/trending/7677797941087637002/",
-          "source": "今日头条",
+          "title": "渔猎齐哥称还会曝光食品安全问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%94%E7%8C%8E%E9%BD%90%E5%93%A5%E7%A7%B0%E8%BF%98%E4%BC%9A%E6%9B%9D%E5%85%89%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时35分]"
-        },
-        {
-          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33840657",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时35分]"
+          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "你会选择等苹果18还是买苹果17",
