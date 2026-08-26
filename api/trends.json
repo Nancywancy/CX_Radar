@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T18:32:33.424729+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-08-26T19:26:01.387915+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[00时32分 ~ 11时01分]"
         },
         {
+          "title": "甲醛白菜曝光,韩民众炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360563&amp;topic_name=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E6%9B%9D%E5%85%89%2C%E9%9F%A9%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时26分]"
+        },
+        {
           "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，库克交棒前再掀新品攻势",
           "url": "https://wallstreetcn.com/articles/3780268",
           "source": "华尔街见闻",
@@ -44,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时03分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 19时26分]"
         },
         {
           "title": "苹果全新Mac mini发布 6999元起售",
@@ -59,19 +72,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "甲醛白菜曝光,韩民众炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360563&amp;topic_name=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E6%9B%9D%E5%85%89%2C%E9%9F%A9%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时32分]"
         },
         {
           "title": "怎么看苹果发布全新 Mac mini/Mac Studio ，M6 芯片下 AI 性能暴涨 4 倍？",
@@ -104,6 +104,19 @@
           "time_info": "[11时01分 ~ 15时44分]"
         },
         {
+          "title": "央视曝光擦边手办乱象",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时26分]"
+        },
+        {
           "title": "在韩遇害女生生前最后监控曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -129,16 +142,32 @@
           "time_info": "[12时43分 ~ 16时38分]"
         },
         {
-          "title": "央视曝光擦边手办乱象",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "央视曝光擦边“露骨”手办乱象",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E2%80%9C%E9%9C%B2%E9%AA%A8%E2%80%9D%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            2
+            4,
+            25,
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 19时26分]"
+        },
+        {
+          "title": "苹果为库克举行告别派对",
+          "url": "https://www.toutiao.com/trending/7677769378523529754/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 19时26分]"
         },
         {
           "title": "涉嫌杀害25岁在韩女留学生，30多岁男子被捕画面曝光",
@@ -157,37 +186,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
-        },
-        {
-          "title": "央视曝光擦边“露骨”手办乱象",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E2%80%9C%E9%9C%B2%E9%AA%A8%E2%80%9D%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时32分]"
-        },
-        {
-          "title": "苹果为库克举行告别派对",
-          "url": "https://www.toutiao.com/trending/7677769378523529754/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时26分]"
         },
         {
           "title": "苹果发布新款Mac mini",
