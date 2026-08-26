@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T02:56:42.960829+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-08-27T05:37:34.600561+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 05时37分]"
         },
         {
           "title": "甲醛白菜曝光,韩民众炸锅",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 05时37分]"
         },
         {
           "title": "央视曝光擦边手办乱象",
@@ -39,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 05时37分]"
         },
         {
           "title": "央视曝光擦边“露骨”手办乱象",
@@ -48,11 +48,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 05时37分]"
         },
         {
           "title": "曝光包贝尔者再曝细节",
@@ -62,8 +63,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 05时37分]"
         },
         {
           "title": "如何评价库克掌舵苹果的15年",
