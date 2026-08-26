@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T16:38:45.422782+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-08-26T17:37:31.971042+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
@@ -47,6 +47,20 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，库克交棒前再掀新品攻势",
+          "url": "https://wallstreetcn.com/articles/3780268",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 17时37分]"
+        },
+        {
           "title": "怎么看苹果发布全新 Mac mini/Mac Studio ，M6 芯片下 AI 性能暴涨 4 倍？",
           "url": "https://www.zhihu.com/question/2075714717176303763",
           "source": "知乎",
@@ -77,18 +91,16 @@
           "time_info": "[11时01分 ~ 15时44分]"
         },
         {
-          "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，库克交棒前再掀新品攻势",
-          "url": "https://wallstreetcn.com/articles/3780268",
-          "source": "华尔街见闻",
+          "title": "甲醛白菜曝光,韩民众炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360563&amp;topic_name=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E6%9B%9D%E5%85%89%2C%E9%9F%A9%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时37分]"
         },
         {
           "title": "在韩遇害女生生前最后监控曝光",
@@ -116,39 +128,6 @@
           "time_info": "[12时43分 ~ 16时38分]"
         },
         {
-          "title": "甲醛白菜曝光,韩民众炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360563&amp;topic_name=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E6%9B%9D%E5%85%89%2C%E9%9F%A9%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 16时38分]"
-        },
-        {
-          "title": "央视曝光擦边“露骨”手办乱象",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E2%80%9C%E9%9C%B2%E9%AA%A8%E2%80%9D%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "苹果为库克举行告别派对",
-          "url": "https://www.toutiao.com/trending/7677769378523529754/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "央视曝光擦边手办乱象",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -157,8 +136,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时37分]"
+        },
+        {
+          "title": "央视曝光擦边手办乱象",
+          "url": "https://www.toutiao.com/trending/7678203501075398719/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "涉嫌杀害25岁在韩女留学生，30多岁男子被捕画面曝光",
@@ -168,8 +158,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 17时37分]"
+        },
+        {
+          "title": "央视曝光擦边“露骨”手办乱象",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E2%80%9C%E9%9C%B2%E9%AA%A8%E2%80%9D%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时37分]"
+        },
+        {
+          "title": "苹果为库克举行告别派对",
+          "url": "https://www.toutiao.com/trending/7677769378523529754/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时37分]"
         },
         {
           "title": "苹果发布新款Mac mini",
@@ -195,6 +209,18 @@
           "time_info": "[15时44分 ~ 16时38分]"
         },
         {
+          "title": "亚马逊苹果微软戴尔集体涨价 机构预测：全球内存紧缺或持续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3155113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时37分]"
+        },
+        {
           "title": "苹果发布全球首款量产2nm芯片",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E9%87%8F%E4%BA%A72nm%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
@@ -204,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "亚马逊苹果微软戴尔集体涨价 机构预测：全球内存紧缺或持续至2027年",
-          "url": "https://wallstreetcn.com/livenews/3155113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
         },
         {
           "title": "房客曝光酒店床单有血被反诉赔1元",
@@ -278,7 +293,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
