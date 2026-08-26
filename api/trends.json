@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T11:59:20.703869+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-08-26T12:43:49.601614+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
@@ -54,33 +54,47 @@
             3,
             5,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时59分]"
-        },
-        {
-          "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，库克交棒前再掀新品攻势",
-          "url": "https://wallstreetcn.com/articles/3780268",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时43分]"
         },
         {
           "title": "「扶老人被索赔」事件完整监控曝光，店主主动施救，还有哪些细节值得关注？这种情况店家该如何维护自身权益？",
           "url": "https://www.zhihu.com/question/2075385162230141829",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时43分]"
+        },
+        {
+          "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，库克交棒前再掀新品攻势",
+          "url": "https://wallstreetcn.com/articles/3780268",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时43分]"
+        },
+        {
+          "title": "小米要与苹果正面PK了",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E8%A6%81%E4%B8%8E%E8%8B%B9%E6%9E%9C%E6%AD%A3%E9%9D%A2PK%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "苹果发布全球首款量产2nm芯片",
@@ -100,7 +114,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -111,7 +125,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
