@@ -1,118 +1,12 @@
 {
-  "generated_at": "2026-08-27T21:41:15.132583+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-08-28T07:32:16.729270+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "甲醛白菜曝光,韩民众炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360563&amp;topic_name=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E6%9B%9D%E5%85%89%2C%E9%9F%A9%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 21时41分]"
-        },
-        {
-          "title": "【早报】英伟达，业绩大超预期；苹果首款折叠屏手机，要来了；原油黄金，双双下跌；多家A股公司，发布中报",
-          "url": "https://www.cls.cn/detail/2465606",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "苹果秋季发布会，定档9月10日凌晨",
-          "url": "https://www.cls.cn/detail/2465542",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "西藏泥石流灾害核心区画面曝光",
-          "url": "https://www.toutiao.com/trending/7678644551761956402/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "央视曝光政务App让数千万“打水漂”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%94%BF%E5%8A%A1App%E8%AE%A9%E6%95%B0%E5%8D%83%E4%B8%87%E2%80%9C%E6%89%93%E6%B0%B4%E6%BC%82%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时37分]"
-        },
-        {
-          "title": "央视曝光擦边手办乱象",
-          "url": "https://www.toutiao.com/trending/7678203501075398719/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时37分]"
-        },
-        {
-          "title": "央视曝光擦边“露骨”手办乱象",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%93%A6%E8%BE%B9%E2%80%9C%E9%9C%B2%E9%AA%A8%E2%80%9D%E6%89%8B%E5%8A%9E%E4%B9%B1%E8%B1%A1",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时37分]"
-        },
-        {
-          "title": "曝光包贝尔者再曝细节",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%85%89%E5%8C%85%E8%B4%9D%E5%B0%94%E8%80%85%E5%86%8D%E6%9B%9D%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时37分]"
-        },
-        {
-          "title": "苹果9月10日发布首款折叠iPhone，开启特努斯时代",
-          "url": "https://wallstreetcn.com/articles/3780369",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
         {
           "title": "许诺孩子如果考年级前十，就给他买个苹果手机，孩子这次考试年级第十，要不要买？",
           "url": "https://www.zhihu.com/question/2075707445230552055",
@@ -121,85 +15,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "境外遭到不法侵害如何维权？律师建议：第一时间在当地报警，尽快聘请当地执业律师",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33954241",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "西藏吉隆泥石流灾害核心区画面曝光",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%A0%B8%E5%BF%83%E5%8C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "英伟达提前给出财年业绩指引 苹果秋季发布会定档9月10日凌晨 | 环球市场",
-          "url": "https://www.cls.cn/detail/2465600",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "07时32分"
         },
         {
-          "title": "苹果首款折叠屏手机将亮相",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%B0%86%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "苹果首款折叠屏手机将亮相",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%B0%86%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "苹果发布会定档",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "如何评价库克掌舵苹果的15年",
-          "url": "https://www.toutiao.com/trending/7678339947979345446/",
+          "title": "西藏泥石流灾害核心区画面曝光",
+          "url": "https://www.toutiao.com/trending/7678644551761956402/",
           "source": "今日头条",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "07时32分"
+        },
+        {
+          "title": "甲醛白菜曝光,韩民众炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28360563&amp;topic_name=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E6%9B%9D%E5%85%89%2C%E9%9F%A9%E6%B0%91%E4%BC%97%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     }
