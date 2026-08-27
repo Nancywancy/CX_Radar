@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-08-27T05:37:34.600561+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-08-27T10:51:18.547762+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
-          "title": "央视曝光政务App让数千万“打水漂”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%94%BF%E5%8A%A1App%E8%AE%A9%E6%95%B0%E5%8D%83%E4%B8%87%E2%80%9C%E6%89%93%E6%B0%B4%E6%BC%82%E2%80%9D",
-          "source": "百度热搜",
+          "title": "【早报】英伟达，业绩大超预期；苹果首款折叠屏手机，要来了；原油黄金，双双下跌；多家A股公司，发布中报",
+          "url": "https://www.cls.cn/detail/2465606",
+          "source": "财联社热门",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "苹果秋季发布会，定档9月10日凌晨",
+          "url": "https://www.cls.cn/detail/2465542",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "甲醛白菜曝光,韩民众炸锅",
@@ -24,7 +35,19 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 10时51分]"
+        },
+        {
+          "title": "央视曝光政务App让数千万“打水漂”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%94%BF%E5%8A%A1App%E8%AE%A9%E6%95%B0%E5%8D%83%E4%B8%87%E2%80%9C%E6%89%93%E6%B0%B4%E6%BC%82%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -65,6 +88,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 05时37分]"
+        },
+        {
+          "title": "英伟达提前给出财年业绩指引 苹果秋季发布会定档9月10日凌晨 | 环球市场",
+          "url": "https://www.cls.cn/detail/2465600",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "苹果首款折叠屏手机将亮相",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%B0%86%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "苹果首款折叠屏手机将亮相",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%B0%86%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "苹果发布会定档",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "如何评价库克掌舵苹果的15年",
