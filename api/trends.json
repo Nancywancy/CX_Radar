@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T03:08:43.179415+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-30T06:16:33.899300+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.douyin.com/hot/2628256",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 06时16分]"
         },
         {
           "title": "华为苹果折叠屏9月对决",
           "url": "https://www.toutiao.com/trending/7678561965215842330/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 06时16分]"
         }
       ]
     }
