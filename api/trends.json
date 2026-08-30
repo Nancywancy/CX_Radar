@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-08-30T14:23:23.403187+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-08-30T20:34:06.813331+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "央视曝光焦糖色素假全麦面包",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%84%A6%E7%B3%96%E8%89%B2%E7%B4%A0%E5%81%87%E5%85%A8%E9%BA%A6%E9%9D%A2%E5%8C%85",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "OpenAI新王Astra首测曝光，前端不存在了？",
+          "url": "https://wallstreetcn.com/articles/3780645",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 20时34分]"
+        },
+        {
+          "title": "明查｜尼泊尔泥石流的“冰川源头”曝光？这两段网传视频不是现场！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33973701",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 20时34分]"
+        },
         {
           "title": "华为三折叠外观曝光",
           "url": "https://www.douyin.com/hot/2628256",
@@ -18,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 06时16分]"
+        },
+        {
+          "title": "孙宇晨曝光隐私为何让全网反感",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AE%87%E6%99%A8%E6%9B%9D%E5%85%89%E9%9A%90%E7%A7%81%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%BD%91%E5%8F%8D%E6%84%9F%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "华为苹果折叠屏9月对决",
@@ -32,15 +77,15 @@
           "time_info": "[03时08分 ~ 06时16分]"
         },
         {
-          "title": "OpenAI新王Astra首测曝光，前端不存在了？",
-          "url": "https://wallstreetcn.com/articles/3780645",
-          "source": "华尔街见闻",
+          "title": "央视曝光“毁容针”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E2%80%9C%E6%AF%81%E5%AE%B9%E9%92%88%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "尼泊尔泥石流冰川源头曝光？假的",
@@ -60,18 +105,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "明查｜尼泊尔泥石流的“冰川源头”曝光？这两段网传视频不是现场！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33973701",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
