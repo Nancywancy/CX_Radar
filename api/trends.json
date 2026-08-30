@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T01:11:00.450209+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-31T04:28:38.481179+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI新王Astra首测曝光，前端不存在了？",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 04时28分]"
         },
         {
           "title": "唐嫣资助女孩聊天记录曝光",
@@ -41,15 +41,48 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
+          "title": "央视曝光直播间虚假纪念币骗局",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E8%99%9A%E5%81%87%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%AA%97%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "央视曝光纪念币骗局：99元“稀缺珍品”，实为10元纪念币加个壳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33975949",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "苹果与康宁在美国肯塔基州开设创新中心",
           "url": "https://flash.jin10.com/detail/20260830231651932800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "苹果新品前瞻分析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%89%8D%E7%9E%BB%E5%88%86%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     }
