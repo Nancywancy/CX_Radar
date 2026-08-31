@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T11:14:59.717615+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-08-31T18:26:40.070716+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "央视曝光纪念币骗局：99元“稀缺珍品”，实为10元纪念币加个壳",
@@ -14,11 +14,23 @@
           "ranks": [
             19,
             18,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 18时26分]"
+        },
+        {
+          "title": "机密文件曝光：伊朗战事拖半年，多名美军高官直呼吃不消",
+          "url": "https://news.ifeng.com/c/8w2IwUBYCeb",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "OpenAI新王Astra首测曝光，前端不存在了？",
@@ -85,9 +97,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "马杜罗狱中近照曝光：双手比耶",
+          "url": "https://www.toutiao.com/trending/7680069765401939499/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "苹果与康宁在美国肯塔基州开设创新中心",
