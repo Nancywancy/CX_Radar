@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-31T07:06:59.220652+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-08-31T11:14:59.717615+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "央视曝光纪念币骗局：99元“稀缺珍品”，实为10元纪念币加个壳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33975949",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 11时14分]"
+        },
         {
           "title": "OpenAI新王Astra首测曝光，前端不存在了？",
           "url": "https://wallstreetcn.com/articles/3780645",
@@ -24,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 07时06分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 11时14分]"
         },
         {
           "title": "唐嫣资助女孩聊天记录曝光",
@@ -40,18 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "央视曝光纪念币骗局：99元“稀缺珍品”，实为10元纪念币加个壳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33975949",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 07时06分]"
         },
         {
           "title": "苹果新品前瞻分析",
@@ -75,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "苹果新任CEO特努斯将于9月1日上任",
+          "url": "https://www.toutiao.com/trending/7679068664260411411/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "苹果与康宁在美国肯塔基州开设创新中心",
