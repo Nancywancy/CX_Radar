@@ -1,127 +1,44 @@
 {
-  "generated_at": "2026-08-31T18:26:40.070716+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-09-01T01:50:25.480256+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
         {
-          "title": "央视曝光纪念币骗局：99元“稀缺珍品”，实为10元纪念币加个壳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33975949",
-          "source": "澎湃新闻",
+          "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
+          "url": "https://www.cls.cn/detail/2469595",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            18,
-            5,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 18时26分]"
-        },
-        {
-          "title": "机密文件曝光：伊朗战事拖半年，多名美军高官直呼吃不消",
-          "url": "https://news.ifeng.com/c/8w2IwUBYCeb",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "01时50分"
         },
         {
-          "title": "OpenAI新王Astra首测曝光，前端不存在了？",
-          "url": "https://wallstreetcn.com/articles/3780645",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 07时06分]"
-        },
-        {
-          "title": "央视曝光直播间虚假纪念币骗局",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9B%B4%E6%92%AD%E9%97%B4%E8%99%9A%E5%81%87%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%AA%97%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 11时14分]"
-        },
-        {
-          "title": "唐嫣资助女孩聊天记录曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%9B%9D%E5%85%89%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
+          "url": "https://www.zhihu.com/question/2077550784615539428",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
+          "appearance_count": 1,
+          "time_info": "01时50分"
         },
         {
-          "title": "苹果新品前瞻分析",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%89%8D%E7%9E%BB%E5%88%86%E6%9E%90",
-          "source": "bilibili 热搜",
+          "title": "库克卸任苹果CEO致全员信：不会离开公司，怀念这份工作",
+          "url": "https://wallstreetcn.com/livenews/3157973",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 07时06分]"
-        },
-        {
-          "title": "孙宇晨曝光隐私为何让全网反感",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AE%87%E6%99%A8%E6%9B%9D%E5%85%89%E9%9A%90%E7%A7%81%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%BD%91%E5%8F%8D%E6%84%9F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "苹果新任CEO特努斯将于9月1日上任",
-          "url": "https://www.toutiao.com/trending/7679068664260411411/",
-          "source": "今日头条",
-          "ranks": [
-            18
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "马杜罗狱中近照曝光：双手比耶",
-          "url": "https://www.toutiao.com/trending/7680069765401939499/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "苹果与康宁在美国肯塔基州开设创新中心",
-          "url": "https://flash.jin10.com/detail/20260830231651932800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "01时50分"
         }
       ]
     }
