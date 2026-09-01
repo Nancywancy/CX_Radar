@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-01T15:10:49.850156+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-09-01T21:02:10.479143+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "AI色情短剧黑链曝光 4万月薪招编剧",
+          "url": "https://www.baidu.com/s?wd=AI%E8%89%B2%E6%83%85%E7%9F%AD%E5%89%A7%E9%BB%91%E9%93%BE%E6%9B%9D%E5%85%89+4%E4%B8%87%E6%9C%88%E8%96%AA%E6%8B%9B%E7%BC%96%E5%89%A7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
         {
           "title": "库克正式卸任苹果CEO",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E6%AD%A3%E5%BC%8F%E5%8D%B8%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23&t=31&band_rank=2&Refer=top",
@@ -25,9 +36,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "独家｜大众中国：已启动涉星宇股份相关投诉专项调查，“尊重劳动者合法权益”贯穿于供应链管理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33981723",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 21时02分]"
         },
         {
           "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
@@ -59,7 +82,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -70,7 +93,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -81,18 +104,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "独家｜大众中国：已启动涉星宇股份相关投诉专项调查，“尊重劳动者合法权益”贯穿于供应链管理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33981723",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -136,7 +148,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
