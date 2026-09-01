@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-09-01T06:22:35.664190+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-09-01T09:35:37.824822+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "库克正式卸任苹果CEO",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E6%AD%A3%E5%BC%8F%E5%8D%B8%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
+        },
+        {
+          "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
+          "url": "https://www.zhihu.com/question/2077550784615539428",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 09时35分]"
+        },
         {
           "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
           "url": "https://www.cls.cn/detail/2469595",
@@ -19,15 +42,15 @@
           "time_info": "[01时50分 ~ 06时22分]"
         },
         {
-          "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
-          "url": "https://www.zhihu.com/question/2077550784615539428",
-          "source": "知乎",
+          "title": "美国防部投资镓供应链 库克卸任苹果CEO | 环球市场",
+          "url": "https://www.cls.cn/detail/2470239",
+          "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 06时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时35分"
         },
         {
           "title": "马杜罗狱中近照曝光：双手比耶",
@@ -36,7 +59,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -47,7 +70,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
