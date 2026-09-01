@@ -1,167 +1,22 @@
 {
-  "generated_at": "2026-09-01T21:02:10.479143+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-09-02T01:19:45.346118+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 14,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "AI色情短剧黑链曝光 4万月薪招编剧",
-          "url": "https://www.baidu.com/s?wd=AI%E8%89%B2%E6%83%85%E7%9F%AD%E5%89%A7%E9%BB%91%E9%93%BE%E6%9B%9D%E5%85%89+4%E4%B8%87%E6%9C%88%E8%96%AA%E6%8B%9B%E7%BC%96%E5%89%A7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "库克正式卸任苹果CEO",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E6%AD%A3%E5%BC%8F%E5%8D%B8%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "美媒曝光特朗普对伊新计划",
-          "url": "https://news.ifeng.com/c/8w3jli5zgve",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
         {
           "title": "独家｜大众中国：已启动涉星宇股份相关投诉专项调查，“尊重劳动者合法权益”贯穿于供应链管理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33981723",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 21时02分]"
-        },
-        {
-          "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
-          "url": "https://www.zhihu.com/question/2077550784615539428",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 09时35分]"
-        },
-        {
-          "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
-          "url": "https://www.cls.cn/detail/2469595",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 06时22分]"
-        },
-        {
-          "title": "大众已启动对星宇股份投诉专项调查",
-          "url": "https://www.toutiao.com/trending/7679403237548441626/",
-          "source": "今日头条",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨多跌少，乙二醇（EG）涨超6%，甲醇涨超5%，瓶片、沥青、对二甲苯、聚氯乙烯（PVC）涨超4%，短纤、多晶硅涨超3%。跌幅方面，红枣、钯跌超3%，生猪、沪银、苹果跌超2%，沪金跌近2%，碳酸锂跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260901150027887800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "商品期货收盘，乙二醇主力合约涨超6%，甲醇涨超5%，瓶片、沥青、PVC涨超4%。钯、红枣跌超3%，生猪、沪银、苹果跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3158333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "美国防部投资镓供应链 库克卸任苹果CEO | 环球市场",
-          "url": "https://www.cls.cn/detail/2470239",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "马杜罗狱中近照曝光：双手比耶",
-          "url": "https://www.toutiao.com/trending/7680069765401939499/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "法律文件显示：苹果称在针对OpenAI的商业秘密案件中，被告利用苹果专有信息训练人工智能智能体。 在针对OpenAI的商业秘密案中，被告任职于OpenAI期间获取了电源转换器电路原理图。 苹果正请求美国联邦法院加快推进针对OpenAI商业秘密案件的证据开示程序。 苹果表示，作为司法程序的一部分，OpenAI于8月21日向苹果提供的MacBook电脑中发现了新证据。",
-          "url": "https://wallstreetcn.com/livenews/3158039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "45岁高梓淇恋情曝光",
-          "url": "https://www.baidu.com/s?wd=45%E5%B2%81%E9%AB%98%E6%A2%93%E6%B7%87%E6%81%8B%E6%83%85%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "库克卸任苹果CEO致全员信：不会离开公司，怀念这份工作",
-          "url": "https://wallstreetcn.com/livenews/3157973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "01时19分"
         }
       ]
     }
