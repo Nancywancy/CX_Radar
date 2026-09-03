@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-03T15:43:06.303137+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-09-03T20:32:37.099712+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "苹果官方X账号取关库克",
+          "url": "https://www.douyin.com/hot/2633304",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时34分 ~ 20时32分]"
+        },
         {
           "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
           "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
@@ -21,17 +35,37 @@
           "time_info": "[02时34分 ~ 10时43分]"
         },
         {
-          "title": "苹果官方X账号取关库克",
-          "url": "https://www.douyin.com/hot/2633304",
+          "title": "“梅姨”年龄首次曝光",
+          "url": "https://www.douyin.com/hot/2634193",
           "source": "抖音",
           "ranks": [
-            10,
-            11,
-            24
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "“梅姨”年龄首次曝光",
+          "url": "https://www.toutiao.com/trending/7680925897902538802/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "网传部分家长因老师「不婚主义」而向学校投诉，校方要求老师好好道歉，具体情况如何？这算是过度干预吗？",
+          "url": "https://www.zhihu.com/question/2078491108670174983",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 20时32分]"
         },
         {
           "title": "苹果、小米、华为发布时间撞档，为啥大家都选 9 月发布新品？扎堆发布不会影响销量吗？",
@@ -44,17 +78,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 07时49分]"
-        },
-        {
-          "title": "网传部分家长因老师「不婚主义」而向学校投诉，校方要求老师好好道歉，具体情况如何？这算是过度干预吗？",
-          "url": "https://www.zhihu.com/question/2078491108670174983",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 15时43分]"
         },
         {
           "title": "苹果新任 CEO 约翰·特努斯是什么来头？CEO 更替会给苹果带来什么影响？",
@@ -90,6 +113,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "梅姨年龄首次曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%85%E5%A7%A8%E5%B9%B4%E9%BE%84%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解？",
+          "url": "https://www.zhihu.com/question/2078852068052137174",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "小苹果舞蹈挑战又杀回来了",
+          "url": "https://www.douyin.com/hot/2633562",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }
