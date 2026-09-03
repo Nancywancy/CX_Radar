@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T03:37:29.972269+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-09-04T06:12:47.415096+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据The Verge：苹果(AAPL.O)可能要放弃传闻中的可折叠MacBook项目。",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 06时12分]"
         },
         {
           "title": "媒体：人贩子“梅姨”年龄首曝光，律师称未满71周岁可适用死刑",
@@ -49,8 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 06时12分]"
         },
         {
           "title": "苹果首款折叠屏更多细节曝光",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 03时37分]"
+        },
+        {
+          "title": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+          "url": "https://www.zhihu.com/question/2076211010684327272",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     }
