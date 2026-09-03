@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T07:49:39.181015+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-09-03T10:43:27.268555+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
@@ -13,11 +13,25 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 07时49分]"
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 10时43分]"
+        },
+        {
+          "title": "苹果官方X账号取关库克",
+          "url": "https://www.douyin.com/hot/2633304",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 10时43分]"
         },
         {
           "title": "苹果、小米、华为发布时间撞档，为啥大家都选 9 月发布新品？扎堆发布不会影响销量吗？",
@@ -32,28 +46,28 @@
           "time_info": "[02时34分 ~ 07时49分]"
         },
         {
-          "title": "苹果官方X账号取关库克",
-          "url": "https://www.douyin.com/hot/2633304",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 07时49分]"
-        },
-        {
           "title": "苹果新任 CEO 约翰·特努斯是什么来头？CEO 更替会给苹果带来什么影响？",
           "url": "https://www.zhihu.com/question/2029935316270842168",
           "source": "知乎",
           "ranks": [
             13,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 10时43分]"
+        },
+        {
+          "title": "网传部分家长因老师「不婚主义」而向学校投诉，校方要求老师好好道歉，具体情况如何？这算是过度干预吗？",
+          "url": "https://www.zhihu.com/question/2078491108670174983",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     }
