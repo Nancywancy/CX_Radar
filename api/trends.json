@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-09-04T08:43:05.074228+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-09-04T13:26:00.729570+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "媒体：人贩子“梅姨”年龄首曝光，律师称未满71周岁可适用死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34001088",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时26分]"
+        },
+        {
+          "title": "梅姨真实年龄曝光，在 70 岁左右，不到 71 周岁，律师称可以适用无期徒刑和死刑，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2078891144784471935",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
         {
           "title": "据The Verge：苹果(AAPL.O)可能要放弃传闻中的可折叠MacBook项目。",
           "url": "https://flash.jin10.com/detail/20260904002119905800",
@@ -30,15 +53,16 @@
           "time_info": "03时37分"
         },
         {
-          "title": "媒体：人贩子“梅姨”年龄首曝光，律师称未满71周岁可适用死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34001088",
-          "source": "澎湃新闻",
+          "title": "苹果折叠屏真能无折痕吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E8%83%BD%E6%97%A0%E6%8A%98%E7%97%95%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 13时26分]"
         },
         {
           "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解？",
@@ -66,15 +90,15 @@
           "time_info": "[06时12分 ~ 08时43分]"
         },
         {
-          "title": "苹果折叠屏真能无折痕吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E8%83%BD%E6%97%A0%E6%8A%98%E7%97%95%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "媒体谈星宇违规解约应届生：企业治理不能总等“跨海维权”倒逼",
+          "url": "https://news.ifeng.com/c/8w8YQE4V4kX",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "time_info": "[13时25分 ~ 13时26分]"
         },
         {
           "title": "苹果首款折叠屏更多细节曝光",
