@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T02:02:36.205771+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-09-05T05:12:53.698269+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "02时02分"
         },
         {
+          "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
+          "url": "https://www.zhihu.com/question/2076754620832135160",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时12分]"
+        },
+        {
           "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
           "url": "https://m.thepaper.cn/newsDetail_forward_34007876",
           "source": "澎湃新闻",
@@ -26,19 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
-          "url": "https://www.zhihu.com/question/2076754620832135160",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时12分]"
         },
         {
           "title": "教育部回应“教师面对学生不敢管”：将规范涉师争议投诉处理程序",
