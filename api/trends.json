@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T18:29:18.908319+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-09-04T22:45:07.456429+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "媒体：人贩子“梅姨”年龄首曝光，律师称未满71周岁可适用死刑",
@@ -21,6 +21,18 @@
           "time_info": "[00时54分 ~ 18时29分]"
         },
         {
+          "title": "曝西贝拖欠离职补偿金，贾国龙称「要到 2028 年才能给」，这种行为在法律上如何定性？离职员工如何维权？",
+          "url": "https://www.zhihu.com/question/2079160174732736037",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 22时45分]"
+        },
+        {
           "title": "梅姨真实年龄曝光，在 70 岁左右，不到 71 周岁，律师称可以适用无期徒刑和死刑，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2078891144784471935",
           "source": "知乎",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 13时26分]"
-        },
-        {
-          "title": "曝西贝拖欠离职补偿金，贾国龙称「要到 2028 年才能给」，这种行为在法律上如何定性？离职员工如何维权？",
-          "url": "https://www.zhihu.com/question/2079160174732736037",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "据The Verge：苹果(AAPL.O)可能要放弃传闻中的可折叠MacBook项目。",
@@ -77,6 +78,18 @@
           "time_info": "[08时42分 ~ 13时26分]"
         },
         {
+          "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
+          "url": "https://www.zhihu.com/question/2076754620832135160",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 22时45分]"
+        },
+        {
           "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解？",
           "url": "https://www.zhihu.com/question/2078852068052137174",
           "source": "知乎",
@@ -102,6 +115,17 @@
           "time_info": "[06时12分 ~ 08时43分]"
         },
         {
+          "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34007876",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "媒体谈星宇违规解约应届生：企业治理不能总等“跨海维权”倒逼",
           "url": "https://news.ifeng.com/c/8w8YQE4V4kX",
           "source": "凤凰网",
@@ -123,17 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 03时37分]"
-        },
-        {
-          "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
-          "url": "https://www.zhihu.com/question/2076754620832135160",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         }
       ]
     }
