@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-09-05T10:42:08.154795+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-09-05T15:21:48.699569+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34007876",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 15时21分]"
+        },
         {
           "title": "曝西贝拖欠离职补偿金，贾国龙称「要到 2028 年才能给」，这种行为在法律上如何定性？离职员工如何维权？",
           "url": "https://www.zhihu.com/question/2079160174732736037",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34007876",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 10时42分]"
         },
         {
           "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
@@ -50,22 +51,35 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 15时21分]"
         },
         {
           "title": "苹果即将开启史上最大规模新品发布潮！三阶段路线图抢先看",
           "url": "https://www.cls.cn/detail/2474797",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时21分]"
+        },
+        {
+          "title": "江西高坪断水断电受灾照片曝光",
+          "url": "https://www.toutiao.com/trending/7681659642468139018/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解？",
