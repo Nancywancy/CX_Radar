@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T03:52:31.007631+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-09-06T05:53:12.032827+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7681968641067450930/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时53分]"
         },
         {
           "title": "张学友大女儿近照曝光",
@@ -26,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时53分]"
         },
         {
           "title": "苹果折叠手机价格",
