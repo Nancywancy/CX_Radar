@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-05T19:35:21.871866+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-09-05T22:29:25.202948+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "“梅姨”落网后第四版画像曝光，肤色、皱纹等与初代有明显差异",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 15时21分]"
+        },
+        {
+          "title": "苹果折叠手机价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "曝西贝拖欠离职补偿金，贾国龙称「要到 2028 年才能给」，这种行为在法律上如何定性？离职员工如何维权？",
@@ -83,13 +94,24 @@
           "time_info": "15时21分"
         },
         {
+          "title": "iPhone 18系列售价曝光",
+          "url": "https://www.toutiao.com/trending/7681968641067450930/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "苹果多款新品售价曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%9A%E6%AC%BE%E6%96%B0%E5%93%81%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -111,7 +133,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
