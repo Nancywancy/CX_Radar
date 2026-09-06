@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T19:55:25.472796+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-09-06T22:50:59.231867+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "iPhone 18系列售价曝光",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时38分 ~ 19时55分]"
+        },
+        {
+          "title": "央视曝光水质检测企业造假",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B0%B4%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BC%81%E4%B8%9A%E9%80%A0%E5%81%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "张学友大女儿近照曝光",
@@ -79,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 07时31分]"
+        },
+        {
+          "title": "下周重磅日程：中美CPI、苹果折叠屏iPhone首秀、小米华为发布会、欧央行决议",
+          "url": "https://wallstreetcn.com/articles/3781074",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "“香港大药房”连续被曝光仍卖出上亿",
