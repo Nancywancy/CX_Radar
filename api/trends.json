@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T15:34:30.658023+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-09-06T19:55:25.472796+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -25,22 +25,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 15时34分]"
-        },
-        {
-          "title": "iPhone18Pro售价曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 19时55分]"
         },
         {
           "title": "张学友大女儿近照曝光",
@@ -53,6 +43,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 07时31分]"
+        },
+        {
+          "title": "iPhone18Pro售价曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 19时55分]"
+        },
+        {
+          "title": "人民大学开学典礼又发苹果了",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E5%8F%88%E5%8F%91%E8%8B%B9%E6%9E%9C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 19时55分]"
         },
         {
           "title": "苹果折叠手机价格",
@@ -73,7 +87,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -89,24 +103,13 @@
           "time_info": "10时38分"
         },
         {
-          "title": "人民大学开学典礼又发苹果了",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E5%8F%88%E5%8F%91%E8%8B%B9%E6%9E%9C%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
           "title": "央视曝光幽灵外卖乱象",
           "url": "https://www.toutiao.com/trending/7682023162544144906/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -117,7 +120,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
