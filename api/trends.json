@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T02:35:06.696010+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-09-08T05:54:13.352177+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -12,44 +12,48 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
-        },
-        {
-          "title": "余承东建议苹果用户买华为备用机",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
-        },
-        {
-          "title": "余承东建议苹果用户买华为当备用机",
-          "url": "https://www.toutiao.com/trending/7682710222638301211/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时54分]"
         },
         {
           "title": "星宇股份就调岗减员错误道歉并发布公告，回看整场事件，应届生的哪些维权动作起到了关键作用？",
           "url": "https://www.zhihu.com/question/2080281820214423804",
           "source": "知乎",
           "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时54分]"
+        },
+        {
+          "title": "余承东建议苹果用户买华为备用机",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时54分]"
+        },
+        {
+          "title": "余承东建议苹果用户买华为当备用机",
+          "url": "https://www.toutiao.com/trending/7682710222638301211/",
+          "source": "今日头条",
+          "ranks": [
+            14,
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时54分]"
         },
         {
           "title": "女子称在餐厅被4岁男童摸臀监控曝光",
@@ -59,8 +63,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时54分]"
         }
       ]
     }
