@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T15:49:47.752656+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-09-09T20:41:29.052055+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 17,
+      "match_count": 30,
       "titles": [
         {
           "title": "存储芯片议价权生变：据称苹果罕见签下NAND长协，不设价格上限",
@@ -20,6 +20,29 @@
           "time_info": "[01时04分 ~ 07时09分]"
         },
         {
+          "title": "苹果十余年来最重磅发布会：首款折叠iPhone即将亮相，新CEO首秀登场",
+          "url": "https://www.cls.cn/detail/2477963",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 20时41分]"
+        },
+        {
+          "title": "“梅姨”真实照片首曝光",
+          "url": "https://www.toutiao.com/trending/7683056771690155561/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "央视曝光后 安徽山东河南连夜核查",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E5%AE%89%E5%BE%BD%E5%B1%B1%E4%B8%9C%E6%B2%B3%E5%8D%97%E8%BF%9E%E5%A4%9C%E6%A0%B8%E6%9F%A5",
           "source": "百度热搜",
@@ -29,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "“梅姨”真实长相首次曝光",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E7%9C%9F%E5%AE%9E%E9%95%BF%E7%9B%B8%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "苹果用户换华为",
@@ -44,15 +78,16 @@
           "time_info": "[01时04分 ~ 07时09分]"
         },
         {
-          "title": "苹果十余年来最重磅发布会：首款折叠iPhone即将亮相，新CEO首秀登场",
-          "url": "https://www.cls.cn/detail/2477963",
-          "source": "财联社热门",
+          "title": "“新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点",
+          "url": "https://wallstreetcn.com/articles/3781374",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 20时41分]"
         },
         {
           "title": "苹果即将发布三款新iPhone",
@@ -79,26 +114,16 @@
           "time_info": "[10时49分 ~ 15时49分]"
         },
         {
-          "title": "“新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点",
-          "url": "https://wallstreetcn.com/articles/3781374",
-          "source": "华尔街见闻",
+          "title": "马上评｜1公里内近20家，黑加油点不能总靠媒体曝光",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34036774",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "西安行李箱藏尸悬案细节曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%97%8F%E5%B0%B8%E6%82%AC%E6%A1%88%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 20时41分]"
         },
         {
           "title": "苹果折叠屏 多少钱你愿意买",
@@ -107,9 +132,65 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 20时41分]"
+        },
+        {
+          "title": "解析苹果华为小米折叠屏三国杀",
+          "url": "https://www.douyin.com/hot/2641505",
+          "source": "抖音",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 20时41分]"
+        },
+        {
+          "title": "梅姨微信朋友圈曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "梅姨证件照曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E8%AF%81%E4%BB%B6%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "西安行李箱藏尸悬案细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%97%8F%E5%B0%B8%E6%82%AC%E6%A1%88%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "谭案说法 | 女子要把触臀的男童送上被告席维权？她可能赢不了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34037904",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "英国将要求苹果、谷歌屏蔽儿童设备上的裸体图片",
@@ -134,26 +215,26 @@
           "time_info": "10时49分"
         },
         {
-          "title": "马上评｜1公里内近20家，黑加油点不能总靠媒体曝光",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34036774",
-          "source": "澎湃新闻",
+          "title": "“梅姨”微信朋友圈曝光",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "20时41分"
         },
         {
-          "title": "解析苹果华为小米折叠屏三国杀",
-          "url": "https://www.douyin.com/hot/2641505",
+          "title": "“梅姨”2010年登记照曝光",
+          "url": "https://www.douyin.com/hot/2642524",
           "source": "抖音",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "20时41分"
         },
         {
           "title": "苹果几乎吞下存储短缺成本？iPhone18 Pro预计只涨100美元",
@@ -162,7 +243,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -184,9 +265,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "泽尻英龙华与桥本良亮恋情曝光",
+          "url": "https://www.toutiao.com/trending/7683438928409625097/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "苹果折叠屏叫iPhone Duo",
+          "url": "https://www.douyin.com/hot/2642190",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "2026苹果秋季新品发布会",
+          "url": "https://www.douyin.com/hot/2642181",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "苹果折叠屏 iPhone Duo",
@@ -195,9 +309,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "今年苹果发布会有何看点",
+          "url": "https://www.douyin.com/hot/2641963",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "苹果Duo怎么读",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CDuo%E6%80%8E%E4%B9%88%E8%AF%BB%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "柬诈骗窝点内部照片曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E8%AF%88%E9%AA%97%E7%AA%9D%E7%82%B9%E5%86%85%E9%83%A8%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     }
