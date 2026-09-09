@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T10:49:49.132872+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-09-09T15:49:47.752656+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 17,
       "titles": [
         {
           "title": "存储芯片议价权生变：据称苹果罕见签下NAND长协，不设价格上限",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 07时09分]"
+        },
+        {
+          "title": "苹果十余年来最重磅发布会：首款折叠iPhone即将亮相，新CEO首秀登场",
+          "url": "https://www.cls.cn/detail/2477963",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "苹果即将发布三款新iPhone",
@@ -60,11 +71,45 @@
           "url": "https://www.cls.cn/detail/2477588",
           "source": "财联社热门",
           "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 15时49分]"
+        },
+        {
+          "title": "“新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点",
+          "url": "https://wallstreetcn.com/articles/3781374",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "15时49分"
+        },
+        {
+          "title": "西安行李箱藏尸悬案细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%97%8F%E5%B0%B8%E6%82%AC%E6%A1%88%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "苹果折叠屏 多少钱你愿意买",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F+%E5%A4%9A%E5%B0%91%E9%92%B1%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "英国将要求苹果、谷歌屏蔽儿童设备上的裸体图片",
@@ -84,9 +129,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "马上评｜1公里内近20家，黑加油点不能总靠媒体曝光",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34036774",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "解析苹果华为小米折叠屏三国杀",
+          "url": "https://www.douyin.com/hot/2641505",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "苹果几乎吞下存储短缺成本？iPhone18 Pro预计只涨100美元",
+          "url": "https://flash.jin10.com/detail/20260909153009434800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "苹果折叠屏手机最新爆料",
@@ -95,9 +173,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "苹果十余年来最重磅发布会",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8D%81%E4%BD%99%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "苹果折叠屏 iPhone Duo",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F+iPhone+Duo",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     }
