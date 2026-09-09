@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T03:40:24.820517+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-09-10T06:13:48.262208+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "苹果秋季发布会",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
         },
         {
           "title": "独家｜“梅姨”真人照首次曝光，系2010年登记照",
@@ -28,20 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
-        },
-        {
-          "title": "苹果发布会",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
         },
         {
           "title": "被取消资助女生愿换掉苹果手机",
@@ -52,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
         },
         {
           "title": "“新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点",
@@ -64,31 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
-        },
-        {
-          "title": "苹果折叠机新命名",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E6%96%B0%E5%91%BD%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
-        },
-        {
-          "title": "抖音达人直击苹果发布会现场",
-          "url": "https://www.douyin.com/hot/2642801",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
         },
         {
           "title": "如何评价 2026 苹果秋季发布会？哪些亮点值得关注？",
@@ -97,9 +62,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
         },
         {
           "title": "苹果发布折叠手机iPhone Duo",
@@ -108,9 +73,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
         },
         {
           "title": "苹果iPhone 18 Pro/Max 售价",
@@ -119,9 +84,70 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果发布会",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果折叠机新命名",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E6%96%B0%E5%91%BD%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果9月发布会回顾：iPhone Duo起售价15999元 十月发售",
+          "url": "https://www.cls.cn/detail/2478735",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时40分"
+          "time_info": "06时13分"
+        },
+        {
+          "title": "抖音达人直击苹果发布会现场",
+          "url": "https://www.douyin.com/hot/2642801",
+          "source": "抖音",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果首款折叠屏iPhone来了！中国起售1.6万元，A20 Pro加持Duo与18 Pro",
+          "url": "https://wallstreetcn.com/articles/3781435",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
         },
         {
           "title": "凤凰直击泰柬边境电诈园区：酷刑室首次曝光，有受害者被断肢",
@@ -131,8 +157,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
         },
         {
           "title": "马上评｜1公里内近20家，黑加油点不能总靠媒体曝光",
@@ -143,8 +169,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
         },
         {
           "title": "解析苹果华为小米折叠屏三国杀",
@@ -152,11 +178,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
         },
         {
           "title": "2026苹果秋季新品发布会",
@@ -167,8 +194,68 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果回应iPhoneDuo是否有折痕",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhoneDuo%E6%98%AF%E5%90%A6%E6%9C%89%E6%8A%98%E7%97%95%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时40分]"
+          "time_info": "[03时40分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果发布iPhone 18 Pro/Max",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83iPhone+18+Pro%2FMax",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果杀入折叠屏 三星率先表态",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9D%80%E5%85%A5%E6%8A%98%E5%8F%A0%E5%B1%8F+%E4%B8%89%E6%98%9F%E7%8E%87%E5%85%88%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果发布会有何亮点",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%89%E4%BD%95%E4%BA%AE%E7%82%B9%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果折叠屏iPhone Duo正式亮相",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone+Duo%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 06时13分]"
         },
         {
           "title": "直击苹果9月发布会：iPhone Duo起售价1999美元 十月发售",
@@ -177,7 +264,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -193,24 +280,13 @@
           "time_info": "01时01分"
         },
         {
-          "title": "苹果首款折叠屏iPhone来了！中国起售1.6万元，A20 Pro加持Duo与18 Pro",
-          "url": "https://wallstreetcn.com/articles/3781435",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
           "title": "苹果 涨价",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -232,7 +308,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -248,35 +324,13 @@
           "time_info": "01时01分"
         },
         {
-          "title": "苹果发布iPhone 18 Pro/Max",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83iPhone+18+Pro%2FMax",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
           "title": "苹果(AAPL.O)涨至盘中高点0.74%，此前一度跌近2%。",
           "url": "https://flash.jin10.com/detail/20260910025246543800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "苹果回应iPhoneDuo是否有折痕",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhoneDuo%E6%98%AF%E5%90%A6%E6%9C%89%E6%8A%98%E7%97%95%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -287,7 +341,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -298,7 +352,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -314,24 +368,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "梅姨微信朋友圈曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%85%E5%A7%A8%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "苹果iPhone 18 Pro系列国行起售价9999元，iPhone Duo起售价15999元",
           "url": "https://wallstreetcn.com/livenews/3162746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "苹果发布会有何亮点",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%89%E4%BD%95%E4%BA%AE%E7%82%B9%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -347,35 +401,13 @@
           "time_info": "01时01分"
         },
         {
-          "title": "苹果杀入折叠屏 三星率先表态",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9D%80%E5%85%A5%E6%8A%98%E5%8F%A0%E5%B1%8F+%E4%B8%89%E6%98%9F%E7%8E%87%E5%85%88%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "苹果折叠屏iPhone Duo正式亮相",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone+Duo%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
           "title": "苹果发布可折叠iPhone，起售价1999美元",
           "url": "https://wallstreetcn.com/livenews/3162741",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -391,13 +423,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "苹果分析师看好折叠屏手机，但认为存在利润率风险",
+          "url": "https://wallstreetcn.com/livenews/3162798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "苹果推出音频智能功能，该功能不会创建或存储音频文件。",
           "url": "https://wallstreetcn.com/livenews/3162737",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         }
