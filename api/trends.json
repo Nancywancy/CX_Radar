@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-09-11T05:22:20.201136+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-09-11T07:40:03.055389+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "15999元起售！苹果首款折叠屏手机iPhone Duo亮相，10月下旬开卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34041836",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时22分]"
-        },
         {
           "title": "如何看待大二学生因用名牌手机被取消资助后威胁要曝光，现愿意更换手机、到资助者亲戚家的店里打工挣钱？",
           "url": "https://www.zhihu.com/question/2080768309436458272",
@@ -25,6 +14,17 @@
           "ranks": [
             3,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时40分]"
+        },
+        {
+          "title": "15999元起售！苹果首款折叠屏手机iPhone Duo亮相，10月下旬开卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34041836",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -39,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时40分]"
         },
         {
           "title": "马上评｜资助中断就威胁曝光？更该关注受助者的心理成长",
@@ -50,8 +50,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时40分]"
         },
         {
           "title": "苹果新机万元起,内存贵过金",
@@ -61,8 +61,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时40分]"
+        },
+        {
+          "title": "苹果、华为、小米72小时“三国杀”：折叠屏为什么变“香”了？苹果为什么现在才入局？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34042390",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时40分]"
         },
         {
           "title": "一个视频看懂苹果发布会亮点",
@@ -77,15 +89,15 @@
           "time_info": "[02时02分 ~ 05时22分]"
         },
         {
-          "title": "苹果、华为、小米72小时“三国杀”：折叠屏为什么变“香”了？苹果为什么现在才入局？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34042390",
-          "source": "澎湃新闻",
+          "title": "“梅姨”落网前视频首曝光",
+          "url": "https://www.toutiao.com/trending/7683437198466072627/",
+          "source": "今日头条",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时22分]"
+          "time_info": "[07时39分 ~ 07时40分]"
         },
         {
           "title": "苹果全系列新品亮点分析",
@@ -130,7 +142,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -141,7 +153,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -152,7 +164,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -163,7 +175,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
