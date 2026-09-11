@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T07:40:03.055389+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-09-11T10:44:28.496571+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何看待大二学生因用名牌手机被取消资助后威胁要曝光，现愿意更换手机、到资助者亲戚家的店里打工挣钱？",
@@ -31,18 +31,6 @@
           "time_info": "[02时02分 ~ 05时22分]"
         },
         {
-          "title": "苹果折叠屏让人更怀念乔布斯了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E8%AE%A9%E4%BA%BA%E6%9B%B4%E6%80%80%E5%BF%B5%E4%B9%94%E5%B8%83%E6%96%AF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时40分]"
-        },
-        {
           "title": "马上评｜资助中断就威胁曝光？更该关注受助者的心理成长",
           "url": "https://m.thepaper.cn/newsDetail_forward_34043960",
           "source": "澎湃新闻",
@@ -50,15 +38,28 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时40分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 10时44分]"
         },
         {
           "title": "苹果新机万元起,内存贵过金",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363394&amp;topic_name=%E8%8B%B9%E6%9E%9C%E6%96%B0%E6%9C%BA%E4%B8%87%E5%85%83%E8%B5%B7%2C%E5%86%85%E5%AD%98%E8%B4%B5%E8%BF%87%E9%87%91",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 10时44分]"
+        },
+        {
+          "title": "苹果折叠屏让人更怀念乔布斯了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E8%AE%A9%E4%BA%BA%E6%9B%B4%E6%80%80%E5%BF%B5%E4%B9%94%E5%B8%83%E6%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -77,27 +78,29 @@
           "time_info": "[02时02分 ~ 07时40分]"
         },
         {
+          "title": "“梅姨”落网前视频首曝光",
+          "url": "https://www.toutiao.com/trending/7683437198466072627/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 10时44分]"
+        },
+        {
           "title": "一个视频看懂苹果发布会亮点",
           "url": "https://www.douyin.com/hot/2642991",
           "source": "抖音",
           "ranks": [
             24,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时22分]"
-        },
-        {
-          "title": "“梅姨”落网前视频首曝光",
-          "url": "https://www.toutiao.com/trending/7683437198466072627/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 10时44分]"
         },
         {
           "title": "苹果全系列新品亮点分析",
@@ -136,6 +139,39 @@
           "time_info": "[02时02分 ~ 05时22分]"
         },
         {
+          "title": "杭州一阿里员工被派去看苹果发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E9%98%BF%E9%87%8C%E5%91%98%E5%B7%A5%E8%A2%AB%E6%B4%BE%E5%8E%BB%E7%9C%8B%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "苹果折叠屏手机为何让人失望",
+          "url": "https://www.toutiao.com/trending/7683928643470364196/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "年销量预计1400万台！机构看好苹果折叠屏手机，但取决于产能和组装良率",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34046420",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "苹果发布会reaction",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9Areaction",
           "source": "bilibili 热搜",
@@ -167,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "苹果价格把我的购物欲治好了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%BB%B7%E6%A0%BC%E6%8A%8A%E6%88%91%E7%9A%84%E8%B4%AD%E7%89%A9%E6%AC%B2%E6%B2%BB%E5%A5%BD%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "苹果iPhone 18 Pro/Max 售价",
