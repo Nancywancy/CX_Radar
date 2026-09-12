@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T18:00:43.928964+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-09-12T21:31:10.048351+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "配苹果不配鸿蒙,网易UU挨喷",
@@ -15,11 +15,23 @@
             6,
             8,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 18时00分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 21时31分]"
+        },
+        {
+          "title": "苹果18 抢不到",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C18%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "苹果高管称折叠屏比例泄密很遗憾",
@@ -57,6 +69,18 @@
           "time_info": "03时25分"
         },
         {
+          "title": "订奶学生坐着喝奶，没订奶罚站喝水？武汉市江夏区教育局：未接到家长投诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34053092",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时31分]"
+        },
+        {
           "title": "苹果折叠屏推出后的24小时",
           "url": "https://www.toutiao.com/trending/7684081461019836979/",
           "source": "今日头条",
@@ -92,17 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 06时11分]"
-        },
-        {
-          "title": "订奶学生坐着喝奶，没订奶罚站喝水？武汉市江夏区教育局：未接到家长投诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34053092",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时00分]"
         },
         {
           "title": "苹果：太平洋时间9月12日凌晨5点起，消费者可在苹果官网以及Apple Store App上预约订购iPhone 18 Pro与iPhone 18 Pro Max。",
