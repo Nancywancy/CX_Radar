@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T04:14:11.699373+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-09-14T06:50:48.091079+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "烧烤店被检查15次：系1人投诉116次",
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
+        },
+        {
+          "title": "媒体实地采访“烧烤店主被频繁检查”：有116件投诉来自同一举报人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34061555",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
           "title": "泳装coser原图曝光,堪称诈骗",
@@ -27,20 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
-        },
-        {
-          "title": "媒体实地采访“烧烤店主被频繁检查”：有116件投诉来自同一举报人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34061555",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
           "title": "罗永浩骂苹果骂对了吗",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
           "title": "如何看待苹果宣布 App 可以直接获取 iPhone Duo 铰链开合角度？将此应用于开屏广告的前景如何？",
@@ -62,19 +63,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
           "title": "烧烤店店主实名举报“元青花杯遗失”后，店铺疑被恶意投诉频遭巡查，现被迫停业摆摊卖红薯，“想知道投诉的人用心何在”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34060867",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
           "title": "公职人员醉驾撞死夫妻 事发监控曝光",
@@ -84,19 +86,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
+        },
+        {
+          "title": "央视曝光数百万元治污工程闲置",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%95%B0%E7%99%BE%E4%B8%87%E5%85%83%E6%B2%BB%E6%B1%A1%E5%B7%A5%E7%A8%8B%E9%97%B2%E7%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
           "title": "当内裤是苹果的产品",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%86%85%E8%A3%A4%E6%98%AF%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BA%A7%E5%93%81",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
           "title": "爆了!苹果18首批开售秒空",
@@ -106,19 +121,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时50分]"
         },
         {
-          "title": "央视曝光数百万元治污工程闲置",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%95%B0%E7%99%BE%E4%B8%87%E5%85%83%E6%B2%BB%E6%B1%A1%E5%B7%A5%E7%A8%8B%E9%97%B2%E7%BD%AE",
-          "source": "百度热搜",
+          "title": "央视曝光农村治污乱象：近200万建成污水处理站，村民一天没用还收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34062116",
+          "source": "澎湃新闻",
           "ranks": [
-            26
+            20
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         }
       ]
     }
