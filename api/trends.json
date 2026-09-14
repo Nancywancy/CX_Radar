@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-09-15T01:33:52.275172+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-09-15T05:23:14.147568+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
       "match_count": 12,
       "titles": [
-        {
-          "title": "苹果发布Siri AI。",
-          "url": "https://wallstreetcn.com/livenews/3164980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
         {
           "title": "iPhone 18 Pro“破发”，苹果回应",
           "url": "https://www.cls.cn/detail/2482650",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时23分]"
         },
         {
           "title": "苹果回应iPhone 17大降价",
@@ -35,6 +24,17 @@
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时23分]"
+        },
+        {
+          "title": "苹果发布Siri AI。",
+          "url": "https://wallstreetcn.com/livenews/3164980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,6 +50,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "苹果回应iPhone18Pro破发",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时23分]"
+        },
+        {
+          "title": "知名苹果爆料人大胆预测：十年内折叠屏手机将成市场主流！",
+          "url": "https://www.cls.cn/detail/2482594",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时23分]"
+        },
+        {
+          "title": "苹果回应iPhone18Pro破发",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时23分]"
+        },
+        {
+          "title": "泳装coser原图曝光,堪称诈骗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363943&amp;topic_name=%E6%B3%B3%E8%A3%85coser%E5%8E%9F%E5%9B%BE%E6%9B%9D%E5%85%89%2C%E5%A0%AA%E7%A7%B0%E8%AF%88%E9%AA%97",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时23分]"
         },
         {
           "title": "苹果(AAPL.O)：Siri人工智能今日开始以英语进行测试，未来将扩展至5种语言。Siri人工智能初期将不会在欧盟的iOS、iPadOS和watchOS上提供。",
@@ -79,50 +126,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "知名苹果爆料人大胆预测：十年内折叠屏手机将成市场主流！",
-          "url": "https://www.cls.cn/detail/2482594",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "苹果回应iPhone18Pro破发",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "苹果回应iPhone18Pro破发",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "泳装coser原图曝光,堪称诈骗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363943&amp;topic_name=%E6%B3%B3%E8%A3%85coser%E5%8E%9F%E5%9B%BE%E6%9B%9D%E5%85%89%2C%E5%A0%AA%E7%A7%B0%E8%AF%88%E9%AA%97",
-          "source": "贴吧",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
