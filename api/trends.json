@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T03:30:44.360973+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-09-16T06:41:33.972124+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 06时41分]"
         },
         {
           "title": "苹果推出Siri人工智能",
           "url": "https://www.douyin.com/hot/2650318",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
-        },
-        {
-          "title": "苹果客服称不建议老机型升iOS27",
-          "url": "https://www.douyin.com/hot/2650966",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 06时41分]"
         },
         {
           "title": "苹果回应iPhone 18 Pro破发",
@@ -48,15 +38,27 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 06时41分]"
         },
         {
           "title": "苹果CEO展示iPhoneDuo时翻车",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CCEO%E5%B1%95%E7%A4%BAiPhoneDuo%E6%97%B6%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 06时41分]"
+        },
+        {
+          "title": "苹果客服称不建议老机型升iOS27",
+          "url": "https://www.douyin.com/hot/2650966",
+          "source": "抖音",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
