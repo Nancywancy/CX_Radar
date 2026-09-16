@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T15:08:58.835947+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-09-16T21:04:18.061889+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "华为高层内部万字长文曝光",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "啄木鸟维修更换开关收费 2800 元，投诉后仅退款 1000 元，这合理吗？家庭维修为啥难明码标价？",
+          "url": "https://www.zhihu.com/question/2083551350592483827",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "问界致全体渠道伙伴的函曝光",
