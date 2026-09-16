@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T06:41:33.972124+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-09-16T09:02:02.660903+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "华为高层内部万字长文曝光",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 09时02分]"
+        },
+        {
+          "title": "华为高层内部万字长文曝光",
+          "url": "https://www.toutiao.com/trending/7684927339029577770/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时30分 ~ 06时41分]"
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "苹果推出Siri人工智能",
