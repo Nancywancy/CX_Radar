@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T07:31:25.546812+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-09-17T11:09:15.400825+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "啄木鸟维修更换开关收费 2800 元，投诉后仅退款 1000 元，这合理吗？家庭维修为啥难明码标价？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 07时31分]"
+        },
+        {
+          "title": "央视曝光山寨“交管12123”",
+          "url": "https://www.douyin.com/hot/2653345",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 11时09分]"
         }
       ]
     }
