@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-17T11:09:15.400825+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-09-17T17:09:05.896448+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "央视曝光山寨“交管12123”",
+          "url": "https://www.douyin.com/hot/2653345",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 17时09分]"
+        },
         {
           "title": "啄木鸟维修更换开关收费 2800 元，投诉后仅退款 1000 元，这合理吗？家庭维修为啥难明码标价？",
           "url": "https://www.zhihu.com/question/2083551350592483827",
@@ -21,15 +32,26 @@
           "time_info": "[01时56分 ~ 07时31分]"
         },
         {
-          "title": "央视曝光山寨“交管12123”",
-          "url": "https://www.douyin.com/hot/2653345",
+          "title": "无畏契约26冠军套实机演示曝光",
+          "url": "https://www.douyin.com/hot/2653445",
           "source": "抖音",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "苹果客服：iPhoneDuo反掰不保修",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%EF%BC%9AiPhoneDuo%E5%8F%8D%E6%8E%B0%E4%B8%8D%E4%BF%9D%E4%BF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         }
       ]
     }
