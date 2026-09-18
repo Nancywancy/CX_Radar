@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T15:57:59.794515+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-09-18T20:46:40.893915+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "苹果最贵手机还没开售就翻车了吗",
@@ -71,6 +71,18 @@
           "time_info": "[02时46分 ~ 07时53分]"
         },
         {
+          "title": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34037598",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 20时46分]"
+        },
+        {
           "title": "ROSÉ新歌MV是苹果18拍的",
           "url": "https://www.douyin.com/hot/2653479",
           "source": "抖音",
@@ -105,15 +117,26 @@
           "time_info": "02时47分"
         },
         {
-          "title": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34037598",
-          "source": "澎湃新闻",
+          "title": "沪广深直击苹果iPhone 18 Pro系列首发 预购等待期缩短 黄牛称当天已有机型“破发”",
+          "url": "https://www.cls.cn/detail/2487104",
+          "source": "财联社热门",
           "ranks": [
-            15
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "20时46分"
+        },
+        {
+          "title": "马上评丨用硫磺熏竹笋，食品监管不能总靠博主曝光",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34097054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美中期选举“砸钱榜单”曝光",
@@ -133,7 +156,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         }
