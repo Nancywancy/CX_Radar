@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-09-19T06:14:43.314198+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-09-19T08:56:20.741386+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34037598",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 06时14分]"
-        },
         {
           "title": "马上评丨用硫磺熏竹笋，食品监管不能总靠博主曝光",
           "url": "https://m.thepaper.cn/newsDetail_forward_34097054",
@@ -25,11 +14,35 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 06时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 08时56分]"
+        },
+        {
+          "title": "长沙一戒毒所退休民警诉讼拿下2亿物流园控股权，前合作伙伴曝光800万元“运作”账本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34037598",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 08时56分]"
+        },
+        {
+          "title": "曝 IG 投诉前 LPL 解说 Wayward 成功并致其无限期禁播，对电竞直播言论边界有何警示？",
+          "url": "https://www.zhihu.com/question/2084047045174748027",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "如何评价《生化危机》新电影导演因低估里昂对玩家影响力擅自删减相关戏份, 被粉丝投诉后再度道歉?",
