@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T01:56:19.964846+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-09-21T04:14:48.724977+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/362637142",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时14分]"
         },
         {
           "title": "伊朗7个谈判条件曝光，增加了1项新内容",
@@ -26,19 +27,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时14分]"
         },
         {
           "title": "伪造全套票据“洗白”药品，央视曝光回流药黑色产业链",
           "url": "https://m.thepaper.cn/newsDetail_forward_34106541",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时14分]"
         },
         {
           "title": "苹果闹钟终于认中国调休了",
@@ -48,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时14分]"
         }
       ]
     }
