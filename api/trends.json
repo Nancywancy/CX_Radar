@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T08:37:31.249654+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-09-20T13:41:15.050552+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "澳大利亚总理：今日在苹果总部会见蒂姆·库克。 与库克讨论了儿童网络安全问题。",
@@ -26,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
         },
@@ -55,6 +55,17 @@
           "time_info": "[06时14分 ~ 08时37分]"
         },
         {
+          "title": "许嵩冯禧伴手礼细节曝光",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E4%BC%B4%E6%89%8B%E7%A4%BC%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
           "title": "央视曝光文玩玉米市场暗藏猫腻",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%87%E7%8E%A9%E7%8E%89%E7%B1%B3%E5%B8%82%E5%9C%BA%E6%9A%97%E8%97%8F%E7%8C%AB%E8%85%BB",
           "source": "百度热搜",
@@ -65,6 +76,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 03时59分]"
+        },
+        {
+          "title": "伪造全套票据“洗白”药品，央视曝光回流药黑色产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34106541",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "苹果闹钟终于响了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E9%97%B9%E9%92%9F%E7%BB%88%E4%BA%8E%E5%93%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         }
       ]
     }
