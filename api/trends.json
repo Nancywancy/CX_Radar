@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-21T08:48:58.405580+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-09-21T13:51:13.326503+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
-          "title": "央视曝光挂靠参保乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8C%82%E9%9D%A0%E5%8F%82%E4%BF%9D%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
+          "title": "苹果闹钟终于认中国调休了",
+          "url": "https://www.toutiao.com/trending/7686857734779883049/",
+          "source": "今日头条",
           "ranks": [
-            1
+            21,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 13时51分]"
         },
         {
           "title": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
@@ -32,26 +33,27 @@
           "time_info": "[01时56分 ~ 06时56分]"
         },
         {
+          "title": "央视曝光挂靠参保乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8C%82%E9%9D%A0%E5%8F%82%E4%BF%9D%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 13时51分]"
+        },
+        {
           "title": "央视曝光挂靠参保偷取社保资金",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8C%82%E9%9D%A0%E5%8F%82%E4%BF%9D%E5%81%B7%E5%8F%96%E7%A4%BE%E4%BF%9D%E8%B5%84%E9%87%91",
           "source": "百度热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        },
-        {
-          "title": "苹果闹钟终于认中国调休了",
-          "url": "https://www.toutiao.com/trending/7686857734779883049/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时48分]"
         },
         {
           "title": "伊朗7个谈判条件曝光，增加了1项新内容",
@@ -77,13 +79,24 @@
           "time_info": "[01时56分 ~ 04时14分]"
         },
         {
+          "title": "苹果硬件负责人称看到 iPhone 贴膜就浑身不自在，这反映了厂商与用户之间怎样的理念冲突？",
+          "url": "https://www.zhihu.com/question/2084949965886048196",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
           "title": "苹果18Pro和17Pro堪比“双胞胎”",
           "url": "https://www.toutiao.com/trending/7686532364219088959/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         }
