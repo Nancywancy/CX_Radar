@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-09-22T01:46:43.651059+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-22T05:38:58.026852+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果M5 Ultra音频工作流测试",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CM5%20Ultra%E9%9F%B3%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%B5%8B%E8%AF%95",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时38分]"
         },
         {
           "title": "一医院被曝不给实习生放中秋假，遭网络曝光后疑医院职工称要「整死」爆料者，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2085398243685266996",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时38分]"
         },
         {
           "title": "马上评｜遗体滞留ICU十小时，患方维权不能越界",
@@ -37,30 +39,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时38分]"
         },
         {
           "title": "柬埔寨电诈园区内部曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时38分]"
         },
         {
           "title": "柬埔寨“8号电诈园区”内部曝光",
           "url": "https://www.baidu.com/s?wd=%E6%9F%AC%E5%9F%94%E5%AF%A8%E2%80%9C8%E5%8F%B7%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E2%80%9D%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时38分]"
+        },
+        {
+          "title": "苹果新机或更名为iPhone 20",
+          "url": "https://www.douyin.com/hot/2659324",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "05时38分"
         },
         {
           "title": "央视曝光挂靠参保乱象",
