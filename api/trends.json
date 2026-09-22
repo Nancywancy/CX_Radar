@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-09-22T13:48:45.776826+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-09-22T18:53:21.611500+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
       "match_count": 13,
       "titles": [
+        {
+          "title": "Muse登上苹果应用商店榜首，Meta暴涨13%，AMD和英特尔也嗨了！",
+          "url": "https://wallstreetcn.com/articles/3782248",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 18时53分]"
+        },
         {
           "title": "苹果M5 Ultra音频工作流测试",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CM5%20Ultra%E9%9F%B3%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%B5%8B%E8%AF%95",
@@ -20,18 +33,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时46分 ~ 13时48分]"
-        },
-        {
-          "title": "Muse登上苹果应用商店榜首，Meta暴涨13%，AMD和英特尔也嗨了！",
-          "url": "https://wallstreetcn.com/articles/3782248",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 13时48分]"
         },
         {
           "title": "马上评｜遗体滞留ICU十小时，患方维权不能越界",
@@ -126,7 +127,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -137,7 +138,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -148,7 +149,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
