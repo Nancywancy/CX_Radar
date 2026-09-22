@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T18:53:21.611500+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-09-22T23:24:42.601691+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时33分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时33分 ~ 23时24分]"
         },
         {
           "title": "苹果M5 Ultra音频工作流测试",
