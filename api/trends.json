@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T11:11:06.381117+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-09-25T17:20:02.369725+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "小区门禁 App 开门要先看广告，想免广告就得花钱充会员，这种模式合理吗？业主如何维权？",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 11时11分]"
+        },
+        {
+          "title": "李泽锋给站姐买苹果18pm",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%E7%BB%99%E7%AB%99%E5%A7%90%E4%B9%B0%E8%8B%B9%E6%9E%9C18pm%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
+        },
+        {
+          "title": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
+          "url": "https://www.zhihu.com/question/2084425616397426894",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         }
       ]
     }
