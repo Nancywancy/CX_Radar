@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T05:47:34.691177+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-09-27T08:10:31.453513+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 08时10分]"
         },
         {
           "title": "央视曝光吃作业隐患",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 08时10分]"
         },
         {
           "title": "解读苹果商业逻辑",
