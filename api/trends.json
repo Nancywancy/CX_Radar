@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T14:08:38.718768+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-09-27T20:41:53.481101+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2493196",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 20时41分]"
         },
         {
           "title": "央视曝光吃作业隐患",
