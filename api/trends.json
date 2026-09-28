@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-29T02:24:23.005103+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-29T07:39:54.955149+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "维权 维保 投诉 曝光 苹果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic IPO招股书曝光 2025财年营收达45.9亿美元",
+          "url": "https://flash.jin10.com/detail/20260929072136255800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "华为Mate90正面外观曝光",
+          "url": "https://www.douyin.com/hot/2671482",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "华为睿影Z10曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E7%9D%BF%E5%BD%B1Z10%E6%9B%9D%E5%85%89&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
