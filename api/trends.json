@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-09-28T18:29:02.315223+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-09-29T02:24:23.005103+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
-          "url": "https://www.cls.cn/detail/2493196",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 07时35分]"
-        },
-        {
-          "title": "华为Mate90正面外观曝光",
-          "url": "https://www.douyin.com/hot/2671482",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "苹果18Pro开售7天近130万",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C18Pro%E5%BC%80%E5%94%AE7%E5%A4%A9%E8%BF%91130%E4%B8%87&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "华为Mate90正面外观曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate90%E6%AD%A3%E9%9D%A2%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
