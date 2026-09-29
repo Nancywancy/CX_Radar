@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T11:57:41.176199+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-09-29T18:25:07.018166+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "Anthropic IPO招股书曝光 2025财年营收达45.9亿美元",
@@ -19,6 +19,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "白宫不装了，一张“作战地图”曝光",
+          "url": "https://news.ifeng.com/c/8woBM1lGCCC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "华为Mate90正面外观曝光",
           "url": "https://www.douyin.com/hot/2671482",
           "source": "抖音",
@@ -29,6 +40,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时39分 ~ 11时57分]"
+        },
+        {
+          "title": "苹果公布SiriAI完整支持名单",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%B8%83SiriAI%E5%AE%8C%E6%95%B4%E6%94%AF%E6%8C%81%E5%90%8D%E5%8D%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "苹果推送iOS27版本更新",
+          "url": "https://www.douyin.com/hot/2672727",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "华为睿影Z10曝光",
