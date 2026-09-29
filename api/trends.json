@@ -1,78 +1,55 @@
 {
-  "generated_at": "2026-09-29T18:25:07.018166+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-09-30T00:47:23.143855+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "Anthropic IPO招股书曝光 2025财年营收达45.9亿美元",
-          "url": "https://flash.jin10.com/detail/20260929072136255800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
         {
           "title": "白宫不装了，一张“作战地图”曝光",
           "url": "https://news.ifeng.com/c/8woBM1lGCCC",
           "source": "凤凰网",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "appearance_count": 1,
+          "time_info": "00时47分"
         },
         {
-          "title": "华为Mate90正面外观曝光",
-          "url": "https://www.douyin.com/hot/2671482",
-          "source": "抖音",
+          "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
+          "url": "https://www.zhihu.com/question/2087999455794566650",
+          "source": "知乎",
           "ranks": [
-            14,
-            19
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 11时57分]"
-        },
-        {
-          "title": "苹果公布SiriAI完整支持名单",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%B8%83SiriAI%E5%AE%8C%E6%95%B4%E6%94%AF%E6%8C%81%E5%90%8D%E5%8D%95%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "appearance_count": 1,
+          "time_info": "00时47分"
         },
         {
           "title": "苹果推送iOS27版本更新",
           "url": "https://www.douyin.com/hot/2672727",
           "source": "抖音",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
-          "title": "华为睿影Z10曝光",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E7%9D%BF%E5%BD%B1Z10%E6%9B%9D%E5%85%89&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时39分"
+          "time_info": "00时47分"
+        },
+        {
+          "title": "“独居男孩”母亲质问房东曝光目的",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8B%AC%E5%B1%85%E7%94%B7%E5%AD%A9%E2%80%9D%E6%AF%8D%E4%BA%B2%E8%B4%A8%E9%97%AE%E6%88%BF%E4%B8%9C%E6%9B%9D%E5%85%89%E7%9B%AE%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     }
