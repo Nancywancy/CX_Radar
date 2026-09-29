@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-09-30T00:47:23.143855+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-30T05:15:38.385593+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "特朗普此前发布白宫AI领导人会议的坐席，值得注意的是，苹果(AAPL.O)是唯一一家没有“上桌”的大型科技公司。",
+          "url": "https://flash.jin10.com/detail/20260930045529474800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
+          "url": "https://www.zhihu.com/question/2087999455794566650",
+          "source": "知乎",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 05时15分]"
+        },
         {
           "title": "白宫不装了，一张“作战地图”曝光",
           "url": "https://news.ifeng.com/c/8woBM1lGCCC",
@@ -15,19 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
-          "url": "https://www.zhihu.com/question/2087999455794566650",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 05时15分]"
         },
         {
           "title": "苹果推送iOS27版本更新",
@@ -37,19 +49,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 05时15分]"
         },
         {
           "title": "“独居男孩”母亲质问房东曝光目的",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8B%AC%E5%B1%85%E7%94%B7%E5%AD%A9%E2%80%9D%E6%AF%8D%E4%BA%B2%E8%B4%A8%E9%97%AE%E6%88%BF%E4%B8%9C%E6%9B%9D%E5%85%89%E7%9B%AE%E7%9A%84",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 05时15分]"
         }
       ]
     }
