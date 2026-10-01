@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-01T23:59:48.090965+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-10-02T04:52:12.870058+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "维权 维保 投诉 曝光 苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印电诈窝点假冒苹果客服专骗美国人",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E7%94%B5%E8%AF%88%E7%AA%9D%E7%82%B9%E5%81%87%E5%86%92%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E4%B8%93%E9%AA%97%E7%BE%8E%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 04时52分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
