@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-02T08:30:17.570790+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-10-02T14:38:55.911860+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2088971415525356116",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时29分 ~ 08时30分]"
+          "appearance_count": 3,
+          "time_info": "[08时29分 ~ 14时38分]"
         },
         {
           "title": "印电诈窝点假冒苹果客服专骗美国人",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 04时52分]"
+        },
+        {
+          "title": "Mate90登场 能打苹果的还得是华为",
+          "url": "https://www.baidu.com/s?wd=Mate90%E7%99%BB%E5%9C%BA+%E8%83%BD%E6%89%93%E8%8B%B9%E6%9E%9C%E7%9A%84%E8%BF%98%E5%BE%97%E6%98%AF%E5%8D%8E%E4%B8%BA",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     }
