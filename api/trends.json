@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-02T04:52:12.870058+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-02T08:30:17.570790+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2088971415525356116",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
+        },
         {
           "title": "印电诈窝点假冒苹果客服专骗美国人",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E7%94%B5%E8%AF%88%E7%AA%9D%E7%82%B9%E5%81%87%E5%86%92%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E4%B8%93%E9%AA%97%E7%BE%8E%E5%9B%BD%E4%BA%BA",
