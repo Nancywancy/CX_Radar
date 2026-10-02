@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T14:38:55.911860+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-10-02T21:32:16.141661+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时29分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[08时29分 ~ 21时32分]"
         },
         {
           "title": "印电诈窝点假冒苹果客服专骗美国人",
@@ -37,7 +37,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
