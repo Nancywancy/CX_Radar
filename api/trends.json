@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T04:33:33.628581+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-10-04T07:31:28.516596+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -14,20 +14,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 07时31分]"
         },
         {
           "title": "苹果小米等新手机出现部分黑屏现象",
           "url": "https://www.toutiao.com/trending/7692072843722555455/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时31分]"
         },
         {
           "title": "《西游记》作曲许镜清向星火社维权",
@@ -35,11 +36,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时31分]"
         }
       ]
     }
