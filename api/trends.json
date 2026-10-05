@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T06:17:38.449174+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-10-05T09:33:38.120446+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "特朗普“AI沙皇”人选曝光",
-          "url": "https://news.ifeng.com/c/8wwrNBWlavW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 06时17分]"
-        },
-        {
           "title": "对话84岁许镜清：为《西游记》插曲维权十年，如今更加坚定",
           "url": "https://m.thepaper.cn/newsDetail_forward_34198740",
           "source": "澎湃新闻",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普“AI沙皇”人选曝光",
+          "url": "https://news.ifeng.com/c/8wwrNBWlavW",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 09时33分]"
         },
         {
           "title": "苹果将为受影响用户免费更换新机",
@@ -49,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 09时33分]"
         }
       ]
     }
