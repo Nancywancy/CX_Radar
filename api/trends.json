@@ -1,125 +1,22 @@
 {
-  "generated_at": "2026-10-07T17:43:18.280213+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-10-08T01:12:14.423830+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何看待急诊医生上班期间上厕所被投诉脱岗，医生调监控自证清白？",
-          "url": "https://www.zhihu.com/question/2090359345611536087",
+          "title": "柬埔寨太子集团头目陈志押解画面曝光，太子集团以及陈志曾犯下过哪些罪行？接下来他可能面对哪些刑罚？",
+          "url": "https://www.zhihu.com/question/2091163800770536220",
           "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "余承东回应苹果入局折叠屏",
-          "url": "https://www.toutiao.com/trending/7692460526345584691/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "明学昌畏罪自杀身亡照片曝光",
-          "url": "https://www.toutiao.com/trending/7692279017315290643/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时14分]"
-        },
-        {
-          "title": "缅北电诈头目酒店被抓画面曝光",
-          "url": "https://www.toutiao.com/trending/7693390371895738378/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时14分]"
-        },
-        {
-          "title": "缅北电诈被害人死前录音曝光",
-          "url": "https://www.toutiao.com/trending/7693433042865557001/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时14分]"
-        },
-        {
-          "title": "苹果将推出与LG联合开发的门铃、门锁和恒温器",
-          "url": "https://wallstreetcn.com/livenews/3174647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时14分 ~ 10时02分]"
-        },
-        {
-          "title": "苹果(AAPL.O)将于北京时间11月3日公布第四财季财报，财报电话会将于11月3日上午6时举行。",
-          "url": "https://flash.jin10.com/detail/20261007055046474800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "据悉苹果将联手LG加码智能家居 拟推门锁、摄像头等",
-          "url": "https://flash.jin10.com/detail/20261007052111718800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "缅北电诈主犯骇人罪行曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E4%B8%BB%E7%8A%AF%E9%AA%87%E4%BA%BA%E7%BD%AA%E8%A1%8C%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "婚假被卡后反手投诉获批",
-          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%81%87%E8%A2%AB%E5%8D%A1%E5%90%8E%E5%8F%8D%E6%89%8B%E6%8A%95%E8%AF%89%E8%8E%B7%E6%89%B9&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "[01时11分 ~ 01时12分]"
         }
       ]
     }
