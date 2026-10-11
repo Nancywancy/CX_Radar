@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-11T11:40:49.872311+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-10-11T18:32:59.526804+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "沙特首都机场遭袭致12死309伤，现场画面曝光",
           "url": "https://original.ifeng.com/c/8x7n78QtEBA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 18时32分]"
         },
         {
           "title": "女子称 38 元买榴莲，切开后发现里面都是假果肉，还塞着年糕和土豆，是真的吗？可以怎样维权？",
@@ -43,6 +44,18 @@
           "time_info": "[07时10分 ~ 11时40分]"
         },
         {
+          "title": "库克以苹果执行董事长身份开启中国行",
+          "url": "https://news.ifeng.com/c/8x8783RhlmX",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 18时32分]"
+        },
+        {
           "title": "刘烨16岁儿子诺一近照曝光",
           "url": "https://www.toutiao.com/trending/7694903862139158554/",
           "source": "今日头条",
@@ -66,15 +79,15 @@
           "time_info": "[03时13分 ~ 07时10分]"
         },
         {
-          "title": "库克以苹果执行董事长身份开启中国行",
-          "url": "https://news.ifeng.com/c/8x8783RhlmX",
+          "title": "库克卸任苹果CEO后首次访华：探班咏春短片，释放加码中国信号",
+          "url": "https://news.ifeng.com/c/8x8c1PVWPAz",
           "source": "凤凰网",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "18时32分"
         },
         {
           "title": "电诈园区打人视频曝光",
@@ -83,7 +96,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -94,7 +107,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
