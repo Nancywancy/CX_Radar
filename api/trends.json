@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T00:31:46.404189+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-12T04:46:05.075699+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "库克卸任苹果CEO后首次访华：探班咏春短片，释放加码中国信号",
@@ -15,30 +15,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "马上评｜堵住“仅退款”规则漏洞，别让维权变套利",
           "url": "https://m.thepaper.cn/newsDetail_forward_34230027",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "央视曝光个别地区蔬菜大棚撂荒",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%AA%E5%88%AB%E5%9C%B0%E5%8C%BA%E8%94%AC%E8%8F%9C%E5%A4%A7%E6%A3%9A%E6%92%82%E8%8D%92",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时46分]"
+        },
+        {
+          "title": "老护士辞职后儿科投诉翻倍",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E6%8A%A4%E5%A3%AB%E8%BE%9E%E8%81%8C%E5%90%8E%E5%84%BF%E7%A7%91%E6%8A%95%E8%AF%89%E7%BF%BB%E5%80%8D&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 04时46分]"
         }
       ]
     }
