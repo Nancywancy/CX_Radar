@@ -1,83 +1,12 @@
 {
-  "generated_at": "2026-10-11T18:32:59.526804+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-10-12T00:31:46.404189+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "沙特首都机场遭袭致12死309伤，现场画面曝光",
-          "url": "https://original.ifeng.com/c/8x7n78QtEBA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 18时32分]"
-        },
-        {
-          "title": "女子称 38 元买榴莲，切开后发现里面都是假果肉，还塞着年糕和土豆，是真的吗？可以怎样维权？",
-          "url": "https://www.zhihu.com/question/2092234755576001604",
-          "source": "知乎",
-          "ranks": [
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 11时40分]"
-        },
-        {
-          "title": "苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变",
-          "url": "https://wallstreetcn.com/articles/3783321",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 11时40分]"
-        },
-        {
-          "title": "库克以苹果执行董事长身份开启中国行",
-          "url": "https://news.ifeng.com/c/8x8783RhlmX",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 18时32分]"
-        },
-        {
-          "title": "刘烨16岁儿子诺一近照曝光",
-          "url": "https://www.toutiao.com/trending/7694903862139158554/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时10分]"
-        },
-        {
-          "title": "中国海警在我钓鱼岛领海内维权巡航",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%9C%A8%E6%88%91%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E5%86%85%E7%BB%B4%E6%9D%83%E5%B7%A1%E8%88%AA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 07时10分]"
-        },
         {
           "title": "库克卸任苹果CEO后首次访华：探班咏春短片，释放加码中国信号",
           "url": "https://news.ifeng.com/c/8x8c1PVWPAz",
@@ -85,31 +14,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "00时31分"
         },
         {
-          "title": "电诈园区打人视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%89%93%E4%BA%BA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "马上评｜堵住“仅退款”规则漏洞，别让维权变套利",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34230027",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "00时31分"
         },
         {
-          "title": "俄军发动大规模打击画面曝光",
-          "url": "https://www.toutiao.com/trending/7694092874689806390/",
-          "source": "今日头条",
+          "title": "央视曝光个别地区蔬菜大棚撂荒",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%AA%E5%88%AB%E5%9C%B0%E5%8C%BA%E8%94%AC%E8%8F%9C%E5%A4%A7%E6%A3%9A%E6%92%82%E8%8D%92",
+          "source": "百度热搜",
           "ranks": [
-            30
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "00时31分"
         }
       ]
     }
