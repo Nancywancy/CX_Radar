@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-10-12T04:46:05.075699+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-10-12T08:11:07.252277+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "库克卸任苹果CEO后首次访华：探班咏春短片，释放加码中国信号",
-          "url": "https://news.ifeng.com/c/8x8c1PVWPAz",
-          "source": "凤凰网",
+          "title": "央视曝光：千亩耕地遭撂荒，荒废多年仍领补贴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34232503",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时46分]"
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        },
+        {
+          "title": "儿科医生按号顺序抢救车祸重伤儿童，后一位家长插队被拒后打电话投诉，此事背后反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2092686581832180646",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
         },
         {
           "title": "马上评｜堵住“仅退款”规则漏洞，别让维权变套利",
@@ -24,7 +35,31 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 08时11分]"
+        },
+        {
+          "title": "老护士辞职后儿科投诉翻倍",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E6%8A%A4%E5%A3%AB%E8%BE%9E%E8%81%8C%E5%90%8E%E5%84%BF%E7%A7%91%E6%8A%95%E8%AF%89%E7%BF%BB%E5%80%8D&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时45分 ~ 08时11分]"
+        },
+        {
+          "title": "库克卸任苹果CEO后首次访华：探班咏春短片，释放加码中国信号",
+          "url": "https://news.ifeng.com/c/8x8c1PVWPAz",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -41,17 +76,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 04时46分]"
-        },
-        {
-          "title": "老护士辞职后儿科投诉翻倍",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E6%8A%A4%E5%A3%AB%E8%BE%9E%E8%81%8C%E5%90%8E%E5%84%BF%E7%A7%91%E6%8A%95%E8%AF%89%E7%BF%BB%E5%80%8D&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 04时46分]"
         }
       ]
     }
