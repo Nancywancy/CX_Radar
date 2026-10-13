@@ -1,12 +1,89 @@
 {
-  "generated_at": "2026-10-13T13:13:51.404314+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-10-13T21:27:30.748453+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 2,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "苹果推出新款299美元Apple TV机顶盒和149美元HomePod mini 2。",
+          "url": "https://wallstreetcn.com/livenews/3178011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果将举行智能家居发布会！要和亚马逊、谷歌正面抢客厅？",
+          "url": "https://flash.jin10.com/detail/20261013212005604800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果发布新款APPLE TV 4K。 苹果推出智能家居配件系列。",
+          "url": "https://wallstreetcn.com/livenews/3178010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "美军下一代步兵战车方案曝光",
+          "url": "https://news.ifeng.com/c/8xBqcxTEXGr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果正式进军智能家居市场 发布299美元AI智能显示屏HomeView",
+          "url": "https://flash.jin10.com/detail/20261013211739528800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果推出智能家居中枢HomeView，售价299美元",
+          "url": "https://wallstreetcn.com/livenews/3178006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "居民投诉月亮太亮影响睡觉白岩松回应",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E4%BA%AE%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89%E7%99%BD%E5%B2%A9%E6%9D%BE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
         {
           "title": "创意苹果石头画也太逼真了",
           "url": "https://www.douyin.com/hot/2689815",
@@ -26,9 +103,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "苹果(AAPL.O)：在美国推出的HomePod mini 2定价为149美元。",
+          "url": "https://flash.jin10.com/detail/20261013210125962800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果(AAPL.O)：家居系列将于12月上市，部分配件预计在2027年初推出。",
+          "url": "https://flash.jin10.com/detail/20261013205933232800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果(AAPL.O)：第四代Apple TV 4K今日开始接受预订；将于11月13日上市。",
+          "url": "https://flash.jin10.com/detail/20261013205805042800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果(AAPL.O)宣布推出新款Apple TV 4K，搭载由苹果智能驱动的Siri人工智能。",
+          "url": "https://flash.jin10.com/detail/20261013205738910800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "苹果(AAPL.O)：苹果推出HomeView，今日开始接受预订，预计于11月13日上市。",
+          "url": "https://flash.jin10.com/detail/20261013205640526800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     }
