@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-14T04:02:58.431232+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-14T08:07:04.438051+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
+          "url": "https://wallstreetcn.com/articles/3783492",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
         {
           "title": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%",
           "url": "https://wallstreetcn.com/articles/3783492",
@@ -34,33 +45,58 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%80%811.9%E5%85%83%E6%B1%BD%E6%B0%B4%E6%82%A3%E8%80%85%E8%BF%9E%E7%BB%AD%E6%8A%95%E8%AF%89%E5%8C%BB%E7%94%9F2%E5%B9%B4%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 08时07分]"
         },
         {
           "title": "苹果发布3款新品",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%833%E6%AC%BE%E6%96%B0%E5%93%81",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 08时07分]"
         },
         {
           "title": "苹果正式进军智能家居市场",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%86%9B%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%B8%82%E5%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 08时07分]"
+        },
+        {
+          "title": "美股收盘：三大指数震荡走弱 苹果、微软齐创新高",
+          "url": "https://www.cls.cn/detail/2503947",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "苹果、微软股价齐创新高",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E3%80%81%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E9%BD%90%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "苹果股价再创历史新高",
