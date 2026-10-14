@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T13:45:43.088137+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-10-14T19:05:04.453445+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 19时05分]"
+        },
+        {
+          "title": "我军匕首枪曝光",
+          "url": "https://www.toutiao.com/trending/7695912246354149427/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%",
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -109,6 +120,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "鲍师傅被投诉小贝底下现创可贴",
+          "url": "https://www.baidu.com/s?wd=%E9%B2%8D%E5%B8%88%E5%82%85%E8%A2%AB%E6%8A%95%E8%AF%89%E5%B0%8F%E8%B4%9D%E5%BA%95%E4%B8%8B%E7%8E%B0%E5%88%9B%E5%8F%AF%E8%B4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "澎湃回声｜河北深州多地农田架设捕鸟网被曝光后，涉事点位鸟网拆除",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34243641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "被患者投诉收1.9元汽水当事人已报警",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%82%A3%E8%80%85%E6%8A%95%E8%AF%89%E6%94%B61.9%E5%85%83%E6%B1%BD%E6%B0%B4%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%B7%B2%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "苹果股价再创历史新高",
