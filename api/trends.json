@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T01:59:30.832708+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-16T05:07:32.412068+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时07分]"
         },
         {
           "title": "Meta Platforms(META.O)： Muse Spark Open今日正式推出，首次将领先的智能体能力带到苹果M5 Ultra芯片的Mac Studio桌面电脑上。",
