@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T18:35:50.889748+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-10-16T23:10:16.874977+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
@@ -19,6 +19,17 @@
           "time_info": "[01时59分 ~ 13时23分]"
         },
         {
+          "title": "如何评价苹果官方报告称网易、米哈游等中国头部游戏公司会绕过所谓「苹果税」？",
+          "url": "https://www.zhihu.com/question/2093817945038250093",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 23时10分]"
+        },
+        {
           "title": "美军对伊新方案曝光：考虑动用“炸弹之母”，打击伊朗能源设施和核基地",
           "url": "https://wallstreetcn.com/articles/3783688",
           "source": "华尔街见闻",
@@ -29,6 +40,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 13时23分]"
+        },
+        {
+          "title": "库克：苹果折叠屏完全在中国制造",
+          "url": "https://news.ifeng.com/c/8xH3eHlQF6R",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34261604",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "“苹果卡嘴取不下来”火上热搜：女子否认摆拍晒急诊缴费单，医院工作人员回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34256307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "维密员工请假陪患癌母亲遭拒，当事人已离职称无力与公司掰扯，打工人维权到底有多难？遇到类似情形该怎么办？",
+          "url": "https://www.zhihu.com/question/2094433949552309163",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行",
@@ -62,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        },
-        {
-          "title": "如何评价苹果官方报告称网易、米哈游等中国头部游戏公司会绕过所谓「苹果税」？",
-          "url": "https://www.zhihu.com/question/2093817945038250093",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "Meta Platforms(META.O)CEO扎克伯格：Muse Spark的开放权重版本将于今日发布。得益于与苹果(AAPL.O)及苹果新任CEO特努斯的合作，该模型在新款Mac Studio上运行表现出色。",
