@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-10-16T23:10:16.874977+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-10-17T03:15:35.033962+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
         {
-          "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34256510",
+          "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34265063",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 13时23分]"
-        },
-        {
-          "title": "如何评价苹果官方报告称网易、米哈游等中国头部游戏公司会绕过所谓「苹果税」？",
-          "url": "https://www.zhihu.com/question/2093817945038250093",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 23时10分]"
-        },
-        {
-          "title": "美军对伊新方案曝光：考虑动用“炸弹之母”，打击伊朗能源设施和核基地",
-          "url": "https://wallstreetcn.com/articles/3783688",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 13时23分]"
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "库克：苹果折叠屏完全在中国制造",
@@ -49,30 +26,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务",
           "url": "https://m.thepaper.cn/newsDetail_forward_34261604",
           "source": "澎湃新闻",
           "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "如何评价苹果官方报告称网易、米哈游等中国头部游戏公司会绕过所谓「苹果税」？",
+          "url": "https://www.zhihu.com/question/2093817945038250093",
+          "source": "知乎",
+          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "“苹果卡嘴取不下来”火上热搜：女子否认摆拍晒急诊缴费单，医院工作人员回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34256307",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "维密员工请假陪患癌母亲遭拒，当事人已离职称无力与公司掰扯，打工人维权到底有多难？遇到类似情形该怎么办？",
@@ -82,63 +59,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
-          "title": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行",
-          "url": "https://www.cls.cn/detail/2506233",
-          "source": "财联社热门",
+          "title": "“苹果卡嘴取不下来”火上热搜：女子否认摆拍晒急诊缴费单，医院工作人员回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34256307",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "Meta Platforms(META.O)： Muse Spark Open今日正式推出，首次将领先的智能体能力带到苹果M5 Ultra芯片的Mac Studio桌面电脑上。",
-          "url": "https://flash.jin10.com/detail/20261016012009640800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "苹果公司与Meta Platforms组团，让Muse AI模型在Mac电脑上运行。",
-          "url": "https://wallstreetcn.com/livenews/3179635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "Meta Platforms(META.O)CEO扎克伯格：Muse Spark的开放权重版本将于今日发布。得益于与苹果(AAPL.O)及苹果新任CEO特努斯的合作，该模型在新款Mac Studio上运行表现出色。",
-          "url": "https://flash.jin10.com/detail/20261016010435240800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "据CNBC：苹果(AAPL.O)与Meta Platforms(META.O)合作，使Muse AI模型能够在Mac电脑上运行。",
-          "url": "https://flash.jin10.com/detail/20261016010425891800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "03时15分"
         }
       ]
     }
