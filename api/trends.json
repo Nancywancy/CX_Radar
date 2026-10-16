@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T05:07:32.412068+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-10-16T08:02:59.362238+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "独家｜库克：首批苹果智能核心功能已在华获批，10月底推测试版",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 05时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 08时02分]"
+        },
+        {
+          "title": "美军对伊新方案曝光：考虑动用“炸弹之母”，打击伊朗能源设施和核基地",
+          "url": "https://wallstreetcn.com/articles/3783688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "Meta Platforms(META.O)： Muse Spark Open今日正式推出，首次将领先的智能体能力带到苹果M5 Ultra芯片的Mac Studio桌面电脑上。",
