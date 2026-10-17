@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T09:01:36.570509+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-10-17T13:28:25.882684+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 13时28分]"
         },
         {
           "title": "马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务",
@@ -26,11 +27,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 13时28分]"
         },
         {
           "title": "库克：苹果折叠屏完全在中国制造",
@@ -40,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 13时28分]"
         },
         {
           "title": "如何评价苹果官方报告称网易、米哈游等中国头部游戏公司会绕过所谓「苹果税」？",
@@ -79,6 +81,42 @@
           "time_info": "[03时15分 ~ 09时01分]"
         },
         {
+          "title": "苹果公司：iPhone Duo需求“绝对是非凡的”。 正努力向消费者交付设备。 我们将继续接受线上订单。",
+          "url": "https://wallstreetcn.com/livenews/3180504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 13时28分]"
+        },
+        {
+          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
+          "url": "https://www.cls.cn/detail/2507383",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 13时28分]"
+        },
+        {
+          "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
+          "url": "https://www.zhihu.com/question/2094037238065714517",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 13时28分]"
+        },
+        {
           "title": "苹果加强针对未经同意图像应用的规定。",
           "url": "https://wallstreetcn.com/livenews/3180487",
           "source": "华尔街见闻-快讯",
@@ -91,48 +129,26 @@
           "time_info": "[06时27分 ~ 09时01分]"
         },
         {
-          "title": "苹果公司：iPhone Duo需求“绝对是非凡的”。 正努力向消费者交付设备。 我们将继续接受线上订单。",
-          "url": "https://wallstreetcn.com/livenews/3180504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "古尔曼：苹果过早推出iPhone Duo",
           "url": "https://www.toutiao.com/trending/7697344719944400932/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
         {
-          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
-          "url": "https://www.cls.cn/detail/2507383",
-          "source": "财联社热门",
+          "title": "库克：苹果折叠屏完全在中国制造",
+          "url": "https://www.toutiao.com/trending/7696951079494304266/",
+          "source": "今日头条",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
-          "url": "https://www.zhihu.com/question/2094037238065714517",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "13时28分"
         }
       ]
     }
