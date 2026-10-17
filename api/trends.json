@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-18T01:44:30.437946+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-18T04:01:39.298069+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
           "url": "https://www.zhihu.com/question/2094730049790465149",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 04时01分]"
         },
         {
           "title": "白宫宴会厅捐款名单曝光，曾说要捐钱的特朗普未在其中",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 04时01分]"
         },
         {
           "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
@@ -37,8 +38,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 04时01分]"
+        },
+        {
+          "title": "评论员：中方南海维权或迎重要转变",
+          "url": "https://www.toutiao.com/trending/7696827548809855019/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "04时01分"
         }
       ]
     }
