@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T13:28:25.882684+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-10-17T18:05:11.280154+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
@@ -18,8 +18,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 18时05分]"
+        },
+        {
+          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
+          "url": "https://www.cls.cn/detail/2507383",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时15分 ~ 13时28分]"
+          "time_info": "[09时01分 ~ 18时05分]"
         },
         {
           "title": "马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务",
@@ -93,16 +106,15 @@
           "time_info": "[09时01分 ~ 13时28分]"
         },
         {
-          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
-          "url": "https://www.cls.cn/detail/2507383",
-          "source": "财联社热门",
+          "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
+          "url": "https://www.zhihu.com/question/2094730049790465149",
+          "source": "知乎",
           "ranks": [
-            11,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时28分]"
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
@@ -129,6 +141,17 @@
           "time_info": "[06时27分 ~ 09时01分]"
         },
         {
+          "title": "iPhone18Pro最新销量曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%9C%80%E6%96%B0%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
           "title": "古尔曼：苹果过早推出iPhone Duo",
           "url": "https://www.toutiao.com/trending/7697344719944400932/",
           "source": "今日头条",
@@ -146,7 +169,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
