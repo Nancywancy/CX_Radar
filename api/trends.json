@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T18:05:11.280154+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-10-17T22:03:02.354866+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
@@ -31,8 +31,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 22时03分]"
+        },
+        {
+          "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
+          "url": "https://www.zhihu.com/question/2094730049790465149",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时01分 ~ 18时05分]"
+          "time_info": "[18时04分 ~ 22时03分]"
         },
         {
           "title": "马上评｜不是“谁投诉谁有理”，公共资源应为公共利益服务",
@@ -106,17 +118,6 @@
           "time_info": "[09时01分 ~ 13时28分]"
         },
         {
-          "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
-          "url": "https://www.zhihu.com/question/2094730049790465149",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
           "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
           "url": "https://www.zhihu.com/question/2094037238065714517",
           "source": "知乎",
@@ -141,6 +142,28 @@
           "time_info": "[06时27分 ~ 09时01分]"
         },
         {
+          "title": "评论员：中方南海维权或迎重要转变",
+          "url": "https://www.toutiao.com/trending/7696827548809855019/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "特斯拉新车内部测试画面曝光",
+          "url": "https://www.toutiao.com/trending/7697589627699334699/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "iPhone18Pro最新销量曝光",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%9C%80%E6%96%B0%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -150,6 +173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "特斯拉新车内部测试画面曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E5%86%85%E9%83%A8%E6%B5%8B%E8%AF%95%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "古尔曼：苹果过早推出iPhone Duo",
