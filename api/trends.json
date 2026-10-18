@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T06:51:46.370856+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-10-18T08:36:15.780927+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "白宫宴会厅捐款名单曝光，曾说要捐钱的特朗普未在其中",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
@@ -25,11 +25,23 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时36分]"
+        },
+        {
+          "title": "今年多次回购股曝光，五大共性凸显",
+          "url": "https://flash.jin10.com/detail/20261018082307041800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
         },
         {
           "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
@@ -39,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 06时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "评论员：中方南海维权或迎重要转变",
