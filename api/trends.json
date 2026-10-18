@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T01:46:41.921498+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-19T04:01:46.083809+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -12,44 +12,48 @@
           "url": "https://www.zhihu.com/question/2095065915037415019",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         },
         {
           "title": "尔冬升曝男演员曾投诉男导演性骚扰",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%9B%9D%E7%94%B7%E6%BC%94%E5%91%98%E6%9B%BE%E6%8A%95%E8%AF%89%E7%94%B7%E5%AF%BC%E6%BC%94%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         },
         {
           "title": "苹果客服回应货轮沉没iPhone漂浮海面",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1iPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         },
         {
           "title": "央视曝光药企围猎老年人",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%8D%AF%E4%BC%81%E5%9B%B4%E7%8C%8E%E8%80%81%E5%B9%B4%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时01分]"
         }
       ]
     }
