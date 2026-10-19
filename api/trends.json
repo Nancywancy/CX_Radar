@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T13:40:07.844714+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-10-19T19:58:29.266369+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国留学生披旭日旗引众怒 细节曝光",
@@ -80,6 +80,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 04时01分]"
+        },
+        {
+          "title": "马上评｜孕妇没投诉却被快递员找上门，算法别冤枉劳动者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34279785",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "央视曝光近视防控镜相关问题后，江苏丹阳连夜通报：立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34278954",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "央视《焦点访谈》曝光危化品“黑窝点”",
