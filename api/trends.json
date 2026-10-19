@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T08:45:50.091914+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-10-19T13:40:07.844714+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -58,6 +58,18 @@
           "time_info": "[01时46分 ~ 06时23分]"
         },
         {
+          "title": "被曝光后 江苏丹阳连夜通报",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%8B%8F%E4%B8%B9%E9%98%B3%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 13时40分]"
+        },
+        {
           "title": "尔冬升曝男演员曾投诉男导演性骚扰",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%9B%9D%E7%94%B7%E6%BC%94%E5%91%98%E6%9B%BE%E6%8A%95%E8%AF%89%E7%94%B7%E5%AF%BC%E6%BC%94%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -70,24 +82,13 @@
           "time_info": "[01时46分 ~ 04时01分]"
         },
         {
-          "title": "被曝光后 江苏丹阳连夜通报",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%8B%8F%E4%B8%B9%E9%98%B3%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
           "title": "央视《焦点访谈》曝光危化品“黑窝点”",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E3%80%8A%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%E3%80%8B%E6%9B%9D%E5%85%89%E5%8D%B1%E5%8C%96%E5%93%81%E2%80%9C%E9%BB%91%E7%AA%9D%E7%82%B9%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -98,7 +99,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
