@@ -1,12 +1,49 @@
 {
-  "generated_at": "2026-10-19T06:23:57.233634+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-10-19T08:45:50.091914+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "中国留学生披旭日旗引众怒 细节曝光",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E5%BC%95%E4%BC%97%E6%80%92+%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "央视曝光药企围猎老年人",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%8D%AF%E4%BC%81%E5%9B%B4%E7%8C%8E%E8%80%81%E5%B9%B4%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 08时45分]"
+        },
+        {
+          "title": "苹果客服回应货轮沉没iPhone漂浮海面",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1iPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 08时45分]"
+        },
         {
           "title": "职业差评现套餐服务，「450 元销量下滑，1890 元排名垫底」，反映了哪些市场乱象？法律上能怎样维权？",
           "url": "https://www.zhihu.com/question/2095065915037415019",
@@ -15,18 +52,6 @@
             15,
             16,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 06时23分]"
-        },
-        {
-          "title": "苹果客服回应货轮沉没iPhone漂浮海面",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1iPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -45,16 +70,37 @@
           "time_info": "[01时46分 ~ 04时01分]"
         },
         {
-          "title": "央视曝光药企围猎老年人",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%8D%AF%E4%BC%81%E5%9B%B4%E7%8C%8E%E8%80%81%E5%B9%B4%E4%BA%BA",
+          "title": "被曝光后 江苏丹阳连夜通报",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B1%9F%E8%8B%8F%E4%B8%B9%E9%98%B3%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            29,
-            25
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "央视《焦点访谈》曝光危化品“黑窝点”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E3%80%8A%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%E3%80%8B%E6%9B%9D%E5%85%89%E5%8D%B1%E5%8C%96%E5%93%81%E2%80%9C%E9%BB%91%E7%AA%9D%E7%82%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "看玉簟秋无法保持苹果肌扁平",
+          "url": "https://www.douyin.com/hot/2701183",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         }
       ]
     }
