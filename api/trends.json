@@ -1,157 +1,22 @@
 {
-  "generated_at": "2026-10-20T21:16:36.987161+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-10-21T02:18:10.071485+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
-          "title": "圆通致歉“客户取消快递订单被记为投诉”事件：不存在“咨询即处罚”等情况，将强化管理和培训",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34283747",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 21时16分]"
-        },
-        {
-          "title": "苹果官宣10月28日发布新品 预计将推出首款触摸屏MacBook",
-          "url": "https://www.cls.cn/detail/2509081",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 15时05分]"
-        },
-        {
-          "title": "iPhone18外观曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "掘金细分龙头，长线资金最新持仓曝光",
-          "url": "https://wallstreetcn.com/livenews/3181445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "马上评｜孕妇没投诉却被快递员找上门，算法别冤枉劳动者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34279785",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 09时31分]"
-        },
-        {
-          "title": "央视曝光近视防控镜相关问题后，江苏丹阳连夜通报：立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34278954",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 02时27分]"
-        },
-        {
-          "title": "小米全新车型曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%85%A8%E6%96%B0%E8%BD%A6%E5%9E%8B%E6%9B%9D%E5%85%89%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
-        },
-        {
-          "title": "明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34282214",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
-        },
-        {
-          "title": "小米新车要下饺子 8款新车商标曝光",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%BD%A6%E8%A6%81%E4%B8%8B%E9%A5%BA%E5%AD%90+8%E6%AC%BE%E6%96%B0%E8%BD%A6%E5%95%86%E6%A0%87%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
-        },
-        {
-          "title": "苹果就iPhone零部件供应同美企签署协议",
-          "url": "https://wallstreetcn.com/livenews/3181924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "苹果确认下周举行新品发布会 预计将推出首款触屏MacBook Pro",
-          "url": "https://flash.jin10.com/detail/20261020011214258800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "苹果手机很多人不知道的操作",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%93%8D%E4%BD%9C&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
-          "url": "https://wallstreetcn.com/livenews/3181415",
-          "source": "华尔街见闻-快讯",
+          "title": "小米8款新车商标曝光",
+          "url": "https://www.toutiao.com/trending/7698699113818394162/",
+          "source": "今日头条",
           "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         }
       ]
     }
