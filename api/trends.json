@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-23T00:32:43.469112+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-23T05:08:49.780587+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "苹果内屏磨砂膜能徒手撕下",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%86%85%E5%B1%8F%E7%A3%A8%E7%A0%82%E8%86%9C%E8%83%BD%E5%BE%92%E6%89%8B%E6%92%95%E4%B8%8B&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
         {
           "title": "苹果用户免费 安卓用户收15元",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E5%85%8D%E8%B4%B9+%E5%AE%89%E5%8D%93%E7%94%A8%E6%88%B7%E6%94%B615%E5%85%83",
