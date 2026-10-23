@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T07:52:03.141357+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-10-23T11:08:49.384326+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果内屏磨砂膜能徒手撕下",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "苹果办公三件套下架",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8A%9E%E5%85%AC%E4%B8%89%E4%BB%B6%E5%A5%97%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "撕完苹果内屏磨砂膜再贴回去要花398",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%92%95%E5%AE%8C%E8%8B%B9%E6%9E%9C%E5%86%85%E5%B1%8F%E7%A3%A8%E7%A0%82%E8%86%9C%E5%86%8D%E8%B4%B4%E5%9B%9E%E5%8E%BB%E8%A6%81%E8%8A%B1398%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
