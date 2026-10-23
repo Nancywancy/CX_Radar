@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T02:52:40.908318+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-24T06:28:26.953944+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2096242853957710863",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 06时28分]"
         },
         {
           "title": "美国参议院Collins：9类产品将获加拿大关税豁免。 蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。",
@@ -25,7 +26,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
