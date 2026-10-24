@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T08:14:10.327575+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-10-24T13:20:55.227548+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://wallstreetcn.com/articles/3784279",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 13时20分]"
         },
         {
           "title": "美国参议院Collins：9类产品将获加拿大关税豁免。 蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。",
