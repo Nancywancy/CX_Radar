@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T06:28:26.953944+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-10-24T08:14:10.327575+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "广州商学院涨租逼走快递网点，又要求老师每天投诉 6 单，倒逼快递返回学校，如何看待这一操作？暴露什么问题？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 08时14分]"
+        },
+        {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时51分 ~ 06时28分]"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
           "title": "美国参议院Collins：9类产品将获加拿大关税豁免。 蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。",
