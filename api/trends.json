@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T01:48:26.394813+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-25T04:08:17.409028+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "菲两架军机空中相撞画面曝光",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 04时08分]"
         },
         {
           "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 04时08分]"
+        },
+        {
+          "title": "言短意长｜肯德基员工就不能投诉胖哥俩了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325596",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "04时08分"
         }
       ]
     }
