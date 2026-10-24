@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-24T18:12:39.245978+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-10-24T22:14:05.834549+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时13分 ~ 22时14分]"
+        },
         {
           "title": "广州商学院涨租逼走快递网点，又要求老师每天投诉 6 单，倒逼快递返回学校，如何看待这一操作？暴露什么问题？",
           "url": "https://www.zhihu.com/question/2096242853957710863",
@@ -21,27 +33,49 @@
           "time_info": "[02时51分 ~ 08时14分]"
         },
         {
-          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时13分 ~ 18时12分]"
-        },
-        {
           "title": "菲两架军机空中相撞画面曝光",
           "url": "https://www.toutiao.com/trending/7699853418193993778/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 22时14分]"
+        },
+        {
+          "title": "帕里斯选择把苹果给谁，才能达成最好的个人结局？",
+          "url": "https://www.zhihu.com/question/301906105",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
+          "title": "红果「把观众的时间换成钱」引发热议，靠曝光变现作为商业化基础，怎么看待这一模式？竞争优势能稳住吗？",
+          "url": "https://www.zhihu.com/question/2096514816676294965",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
+          "title": "折叠屏供应链“等来”苹果之后",
+          "url": "https://www.toutiao.com/trending/7700192965137793034/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "美国参议院Collins：9类产品将获加拿大关税豁免。 蓝莓、马铃薯、苹果以及海藻生产商将获得加拿大关税减免。",
@@ -72,7 +106,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
