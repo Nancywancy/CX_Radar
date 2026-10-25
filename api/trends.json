@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T02:05:01.730469+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-26T05:55:11.322332+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时55分]"
         },
         {
           "title": "奥列什基惨状曝光，俄乌同步停火协议藏漏洞",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时55分]"
         },
         {
           "title": "郑州小哥因为网卡抢到两台苹果折叠屏",
           "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E5%B0%8F%E5%93%A5%E5%9B%A0%E4%B8%BA%E7%BD%91%E5%8D%A1%E6%8A%A2%E5%88%B0%E4%B8%A4%E5%8F%B0%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时55分]"
         },
         {
           "title": "钟文泽贴磨砂膜对比小米苹果",
