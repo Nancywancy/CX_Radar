@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-25T06:51:43.194406+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-10-25T08:47:10.148807+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "菲两架军机空中相撞画面曝光",
           "url": "https://www.toutiao.com/trending/7699853418193993778/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 06时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时47分]"
         },
         {
           "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
@@ -35,11 +36,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 08时47分]"
+        },
+        {
+          "title": "菲两架军机空中相撞画面曝光",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E4%B8%A4%E6%9E%B6%E5%86%9B%E6%9C%BA%E7%A9%BA%E4%B8%AD%E7%9B%B8%E6%92%9E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时08分 ~ 06时51分]"
+          "time_info": "[08时46分 ~ 08时47分]"
         }
       ]
     }
