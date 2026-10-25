@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T13:38:04.285388+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-10-25T18:37:23.013523+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "菲两架军机空中相撞画面曝光",
@@ -31,8 +31,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时08分 ~ 13时38分]"
+          "appearance_count": 7,
+          "time_info": "[04时08分 ~ 18时37分]"
+        },
+        {
+          "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
+          "url": "https://wallstreetcn.com/articles/3784402",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 18时37分]"
         },
         {
           "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
@@ -46,17 +58,6 @@
           "time_info": "[01时48分 ~ 04时08分]"
         },
         {
-          "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
-          "url": "https://wallstreetcn.com/articles/3784402",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
-        },
-        {
           "title": "奥列什基惨状曝光，俄乌同步停火协议藏漏洞",
           "url": "https://original.ifeng.com/c/8xVW0eTHIFX",
           "source": "凤凰网",
@@ -64,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 18时37分]"
         },
         {
           "title": "港媒曝光有内地富豪突然套现27亿",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 08时47分]"
+        },
+        {
+          "title": "龟背竹养死后仅退款商家遭投诉闭店",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9F%E8%83%8C%E7%AB%B9%E5%85%BB%E6%AD%BB%E5%90%8E%E4%BB%85%E9%80%80%E6%AC%BE%E5%95%86%E5%AE%B6%E9%81%AD%E6%8A%95%E8%AF%89%E9%97%AD%E5%BA%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     }
