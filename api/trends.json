@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T05:55:11.322332+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-10-26T07:51:19.017365+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 07时51分]"
         },
         {
           "title": "奥列什基惨状曝光，俄乌同步停火协议藏漏洞",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 07时51分]"
         },
         {
           "title": "郑州小哥因为网卡抢到两台苹果折叠屏",
@@ -35,11 +35,23 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 07时51分]"
+        },
+        {
+          "title": "强烈建议给家里老人用苹果手机",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E7%BB%99%E5%AE%B6%E9%87%8C%E8%80%81%E4%BA%BA%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         },
         {
           "title": "钟文泽贴磨砂膜对比小米苹果",
