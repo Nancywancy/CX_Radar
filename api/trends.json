@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T16:32:28.000695+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-10-26T23:48:29.714414+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
@@ -43,13 +43,24 @@
           "time_info": "[02时04分 ~ 07时51分]"
         },
         {
+          "title": "樊振东「卧底」西班牙国家德比，被反复质疑盘查，因表现不狂热遭巴萨球迷投诉，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2098047112466227298",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "长鑫拒绝为苹果降价",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%8B%B9%E6%9E%9C%E9%99%8D%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -71,7 +82,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -86,6 +97,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 10时57分]"
+        },
+        {
+          "title": "牢梁旧照曝光,吧友在线打分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368036&amp;topic_name=%E7%89%A2%E6%A2%81%E6%97%A7%E7%85%A7%E6%9B%9D%E5%85%89%2C%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E6%89%93%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 23时48分]"
         },
         {
           "title": "钟文泽贴磨砂膜对比小米苹果",
@@ -105,20 +128,64 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
         {
-          "title": "牢梁旧照曝光,吧友在线打分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368036&amp;topic_name=%E7%89%A2%E6%A2%81%E6%97%A7%E7%85%A7%E6%9B%9D%E5%85%89%2C%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E6%89%93%E5%88%86",
-          "source": "贴吧",
+          "title": "广汽埃安陷“香蕉电池”风波：客服称在走召回流程，三名车主投诉遭“只修不换”后获回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34334623",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "数十家机构“赴京赶考”基金投顾，答辩细节曝光",
+          "url": "https://www.cls.cn/detail/2515346",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "23时48分"
+        },
+        {
+          "title": "富士康曝苹果为保供放宽质检标准",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%9B%9D%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BF%9D%E4%BE%9B%E6%94%BE%E5%AE%BD%E8%B4%A8%E6%A3%80%E6%A0%87%E5%87%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1%，刷新日高。成分股特斯拉涨6%，Lumentum涨5.5%，Datadog、恩智浦涨4.1%，新思科技、铿腾电子至少涨3.5%，CoreWeave涨2.2%，英伟达涨2.2%，苹果则跌0.6%，莫德纳跌2.2%，Strategy跌2.9%，拉美电商巨头MercadoLibre跌10.3%。 标普500指数目前涨0.7%，道指涨0.5%，纳指涨0.9%，费城半导体指数涨1.5%，银行指数涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3186350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "苹果发布新款iPad mini",
+          "url": "https://www.toutiao.com/trending/7700961402408403466/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "小哥因为网卡抢到两台苹果折叠屏",
@@ -127,7 +194,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
