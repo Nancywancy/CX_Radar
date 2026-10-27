@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T05:20:49.025956+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-27T08:13:34.571278+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "维权 维保 投诉 曝光 苹果",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "广汽埃安陷“香蕉电池”风波：客服称在走召回流程，三名车主投诉遭“只修不换”后获回应",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 08时13分]"
+        },
+        {
+          "title": "牢梁旧照曝光,吧友在线打分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368036&amp;topic_name=%E7%89%A2%E6%A2%81%E6%97%A7%E7%85%A7%E6%9B%9D%E5%85%89%2C%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E6%89%93%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 08时13分]"
         },
         {
           "title": "数十家机构“赴京赶考”基金投顾，答辩细节曝光",
@@ -30,6 +41,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "苹果回应iPhone Duo内屏开裂：大多数设备不受影响，用户可联系AppleCare换机",
+          "url": "https://www.cls.cn/detail/2515848",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
           "title": "重磅！据传苹果正测试首款折叠屏iPad，或于2028年推出",
           "url": "https://www.cls.cn/detail/2515317",
           "source": "财联社热门",
@@ -41,15 +63,37 @@
           "time_info": "05时20分"
         },
         {
-          "title": "牢梁旧照曝光,吧友在线打分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368036&amp;topic_name=%E7%89%A2%E6%A2%81%E6%97%A7%E7%85%A7%E6%9B%9D%E5%85%89%2C%E5%90%A7%E5%8F%8B%E5%9C%A8%E7%BA%BF%E6%89%93%E5%88%86",
-          "source": "贴吧",
+          "title": "苹果回应iPhone Duo折叠屏开裂",
+          "url": "https://www.toutiao.com/trending/7701119534823951898/",
+          "source": "今日头条",
           "ranks": [
-            10
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "08时13分"
+        },
+        {
+          "title": "苹果发布新款iPad mini：OLED屏+A20 Pro加持，国行5499元起",
+          "url": "https://www.cls.cn/detail/2515797",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "苹果发布新款iPad mini",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BEiPad%20mini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "苹果发布新款iPad mini",
@@ -61,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "苹果华为小米折叠屏适配对比",
+          "url": "https://www.douyin.com/hot/2714294",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "苹果被疑走向雪崩",
